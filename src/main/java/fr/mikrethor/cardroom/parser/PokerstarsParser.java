@@ -1,9 +1,13 @@
 package fr.mikrethor.cardroom.parser;
 
+import java.io.File;
 import java.util.Date;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import fr.mikrethor.cardroom.enums.Currency;
 import fr.mikrethor.cardroom.enums.GameType;
@@ -19,12 +23,38 @@ import fr.mikrethor.cardroom.pojo.Player;
  * 
  */
 public class PokerstarsParser extends CardroomFileParser implements ICardroomParser {
+	/**
+	 * LOGGER.
+	 */
+	private static final Logger LOGGER = LoggerFactory.getLogger(PokerstarsParser.class);
+
+	public static final String UTF8_BOM = "\uFEFF";
+	public static final String HOLE_CARDS = "*** HOLE CARDS ***";
+	public static final String FLOP = "*** FLOP ***";
+	public static final String TURN = "*** TURN ***";
+	public static final String RIVER = "*** RIVER ***";
+	public static final String SHOW_DOWN = "*** SHOW DOWN ***";
+	public static final String SUMMARY = "*** SUMMARY ***";
+	public static final String NEW_HAND = "PokerStars Hand";
+	public static final String SEAT = "Seat";
+	public static final String BOARD = "Board";
+	public static final String CASH_GAME = "CashGame";
+
+	public static final String TABLE = "Table";
+	public static final String ENCODING = "UTF8";
 
 	@Override
 	public String parseNewHandLine(String nextLine, Scanner input, String phase, String[] nextPhases,
 			InfoSession infoSession, Hand hand) {
 		// TODO Auto-generated method stub
 		return null;
+	}
+
+	protected PokerstarsParser(File fileToParse) {
+		super(fileToParse);
+		if (LOGGER.isDebugEnabled() && fileToParse != null) {
+			LOGGER.debug("{} : {}", this.getClass().getName(), fileToParse.getName());
+		}
 	}
 
 	@Override
