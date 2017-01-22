@@ -9,6 +9,7 @@ import java.util.Scanner;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import fr.mikrethor.cardroom.enums.Card;
 import fr.mikrethor.cardroom.enums.Currency;
 import fr.mikrethor.cardroom.enums.GameType;
 import fr.mikrethor.cardroom.pojo.Action;
@@ -208,14 +209,18 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 	@Override
 	public Double parseSmallBlind(String chaine) {
-		// TODO Auto-generated method stub
-		return null;
+		final int startPosition = chaine.indexOf(LEFT_PARENTHESIS) + 1;
+		final int endPosition = chaine.indexOf(SLASH);
+		final String smallBlind = chaine.substring(startPosition, endPosition);
+		return Double.parseDouble(smallBlind);
 	}
 
 	@Override
 	public Double parseBigBlind(String chaine) {
-		// TODO Auto-generated method stub
-		return null;
+		final int startPosition = chaine.indexOf(SLASH) + 1;
+		final int endPosition = chaine.indexOf(RIGHT_PARENTHESIS);
+		final String bigBlind = chaine.substring(startPosition, endPosition);
+		return Double.parseDouble(bigBlind);
 	}
 
 	@Override
@@ -300,6 +305,27 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 	public Hand textToHandDto(StringBuffer text) {
 		// TODO Auto-generated method stub
 		return null;
+	}
+
+	public Player parsePlayerSummary(String chaine) {
+		final int espace = chaine.indexOf(SPACE);
+		final int deuxpoints = chaine.indexOf(COLON);
+
+		final String seat = chaine.substring(espace + 1, deuxpoints);
+		final String player = chaine.substring(deuxpoints + 2, chaine.indexOf(SPACE, deuxpoints + 2));
+		Card[] cards = null;
+		final Player playerDTO = new Player(cardRoom, player);
+		if (chaine.indexOf(OPENNING_SQUARE_BRACKET) > 0) {
+			cards = parseCards(chaine);
+			playerDTO.setCards(cards);
+		}
+		playerDTO.setSeat(Integer.parseInt(seat));
+
+		if (LOGGER.isDebugEnabled()) {
+			LOGGER.debug("seat : " + seat + ", player : " + player + ", cards : " + cards);
+		}
+
+		return playerDTO;
 	}
 
 }
