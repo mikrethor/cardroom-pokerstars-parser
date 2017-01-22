@@ -15,6 +15,7 @@ import fr.mikrethor.cardroom.pojo.Action;
 import fr.mikrethor.cardroom.pojo.Hand;
 import fr.mikrethor.cardroom.pojo.InfoSession;
 import fr.mikrethor.cardroom.pojo.Player;
+import fr.mikrethor.cardroom.utils.RomanNumeralUtils;
 
 /**
  * Parsing Pokerstars.
@@ -46,8 +47,33 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 	@Override
 	public String parseNewHandLine(String nextLine, Scanner input, String phase, String[] nextPhases,
 			InfoSession infoSession, Hand hand) {
-		// TODO Auto-generated method stub
-		return null;
+		final String nextL = nextLine;
+		if (nextL.startsWith(phase)) {
+			if (LOGGER.isDebugEnabled()) {
+				LOGGER.debug(NEW_HAND);
+			}
+			final String[] tab = nextL.split(SPACE);
+			GameType gameType = GameType.CASH;
+			if (GameType.TOURNAMENT.getType().equals(tab[3])) {
+				gameType = GameType.TOURNAMENT;
+			}
+
+			if (GameType.TOURNAMENT.equals(gameType)) {
+				hand.setLevel(parseLevel(nextL));
+				final Date handDate = parseHandDate(nextL);
+				hand.setDate(handDate.getTime());
+			}
+			hand.setLabelGame(getTournamentId());
+			hand.setLabel(parseHandIdSite(nextL));
+			hand.setId(hand.getLabel());
+			final Date handDate = parseHandDate(nextL);
+			hand.setDate(handDate.getTime());
+			hand.setBigBlind(parseBigBlind(nextL));
+			hand.setSmallBlind(parseSmallBlind(nextL));
+			hand.setCurrency(parseCurrency(nextL));
+
+		}
+		return nextL;
 	}
 
 	protected PokerstarsParser(File fileToParse) {
@@ -160,8 +186,18 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 	@Override
 	public int parseLevel(String chaine) {
-		// TODO Auto-generated method stub
-		return 0;
+		final String[] tab = chaine.split(SPACE);
+		int level = 0;
+		// Case heads-up with rebuy
+		if ("Round".equals(tab[12])) {
+			level = RomanNumeralUtils.toInt(tab[15]);
+		} else {
+			level = RomanNumeralUtils.toInt(tab[12]);
+		}
+		if (LOGGER.isDebugEnabled()) {
+			LOGGER.debug("level {} from roman {}", level, tab[12]);
+		}
+		return level;
 	}
 
 	@Override
