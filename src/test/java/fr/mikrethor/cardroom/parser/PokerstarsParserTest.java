@@ -597,7 +597,7 @@ public class PokerstarsParserTest {
 	}
 
 	@Test
-	public void testParsCurrency() {
+	public void testParseCurrency() {
 		LOGGER.info("--- testParsCurrency() ---");
 
 		String nextLine = "PokerStars Hand #121171794625: Tournament #966539218, €0.46+€0.04 EUR Hold'em No Limit - Match Round I, Level III (20/40) - 2014/09/07 4:28:28 CET [2014/09/06 22:28:28 ET]";

@@ -285,8 +285,14 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 	@Override
 	public Currency parseCurrency(String chaine) {
-		// TODO Auto-generated method stub
-		return null;
+		Currency result = null;
+		for (Currency currency : Currency.values()) {
+			if (chaine.indexOf(currency.getSymbol()) > 0) {
+				result = currency;
+			}
+		}
+		// TODO si currency null error ?;
+		return result;
 	}
 
 	@Override
