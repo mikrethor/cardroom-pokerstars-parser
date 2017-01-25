@@ -257,14 +257,23 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 	@Override
 	public Double parseTotalPot(String chaine) {
-		// TODO Auto-generated method stub
-		return null;
+		final String[] tabTotalPot = chaine.split(SPACE);
+		String totalPot = tabTotalPot[2].replace(money.getSymbol(), EMPTY);
+		totalPot = totalPot.replace(money.getSymbol(), EMPTY);
+
+		return Double.parseDouble(totalPot);
 	}
 
 	@Override
 	public Double parseRake(String chaine) {
-		// TODO Auto-generated method stub
-		return null;
+		final int startPosition = chaine.indexOf("| Rake") + "| Rake".length() + 1;
+		final int endPosition = chaine.length();
+		String rake = chaine.substring(startPosition, endPosition);
+		rake = rake.replace(money.getSymbol(), EMPTY);
+		if (LOGGER.isDebugEnabled()) {
+			LOGGER.debug("rake {}", rake);
+		}
+		return Double.parseDouble(rake);
 	}
 
 	@Override
