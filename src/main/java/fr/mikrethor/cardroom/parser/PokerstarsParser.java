@@ -1,6 +1,7 @@
 package fr.mikrethor.cardroom.parser;
 
 import java.io.File;
+import java.text.ParseException;
 import java.util.Date;
 import java.util.List;
 import java.util.Map;
@@ -16,6 +17,7 @@ import fr.mikrethor.cardroom.pojo.Action;
 import fr.mikrethor.cardroom.pojo.Hand;
 import fr.mikrethor.cardroom.pojo.InfoSession;
 import fr.mikrethor.cardroom.pojo.Player;
+import fr.mikrethor.cardroom.utils.DateUtils;
 import fr.mikrethor.cardroom.utils.RomanNumeralUtils;
 
 /**
@@ -279,8 +281,19 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 	@Override
 	public Date parseHandDate(String chaine) {
-		// TODO Auto-generated method stub
-		return null;
+		final int startPosition = chaine.lastIndexOf(DASH) + 1;
+		int endPosition = chaine.lastIndexOf(SPACE);
+		if (chaine.lastIndexOf(CLOSING_SQUARE_BRACKET) > 0) {
+			endPosition = chaine.lastIndexOf(OPENNING_SQUARE_BRACKET);
+		}
+
+		chaine = chaine.substring(startPosition, endPosition);
+		try {
+			return DateUtils.toDate(chaine, "yyyy/MM/dd HH:mm:ss z");
+		} catch (final ParseException e) {
+			LOGGER.error(e.getMessage(), e);
+			return new Date();
+		}
 	}
 
 	@Override
