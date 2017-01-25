@@ -278,8 +278,9 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 	@Override
 	public String parseNumberOfPlayerByTable(String chaine) {
-		// TODO Auto-generated method stub
-		return null;
+		final int startPosition = chaine.lastIndexOf(APOSTROPHE) + 2;
+		final int endPosition = chaine.indexOf("max") - 1;
+		return chaine.substring(startPosition, endPosition);
 	}
 
 	@Override
