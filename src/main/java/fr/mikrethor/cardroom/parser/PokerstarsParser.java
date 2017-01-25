@@ -248,8 +248,11 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 	@Override
 	public String parseTableId(String chaine) {
-		// TODO Auto-generated method stub
-		return null;
+		final int startPosition = chaine.indexOf(APOSTROPHE) + 1;
+		final int endPosition = chaine.lastIndexOf(APOSTROPHE);
+		final String sousChaine = chaine.substring(startPosition, endPosition);
+		final String[] tab = sousChaine.split(SPACE);
+		return tab[1];
 	}
 
 	@Override
