@@ -13,9 +13,11 @@ import org.slf4j.LoggerFactory;
 
 import fr.mikrethor.cardroom.enums.Card;
 import fr.mikrethor.cardroom.enums.Currency;
+import fr.mikrethor.cardroom.enums.Domain;
 import fr.mikrethor.cardroom.enums.EAction;
 import fr.mikrethor.cardroom.enums.GameType;
 import fr.mikrethor.cardroom.pojo.Action;
+import fr.mikrethor.cardroom.pojo.Cardroom;
 import fr.mikrethor.cardroom.pojo.Hand;
 import fr.mikrethor.cardroom.pojo.Player;
 
@@ -424,7 +426,7 @@ public class PokerstarsParserTest {
 	public void testParsePlayerSeat() {
 		String nextLine = "Seat 2: Mikkel B 72 (1500 in chips)";
 		final ICardroomParser siteParsing = new PokerstarsParser(null);
-
+		siteParsing.setCardroom(new Cardroom("Pokerstars", Domain.FR));
 		Assert.assertEquals("Mikkel B 72", siteParsing.parsePlayerSeat(nextLine).getName());
 		nextLine = "Seat 8: -Cr@zyChips- (1500 in chips) ";
 		Assert.assertEquals("-Cr@zyChips-", siteParsing.parsePlayerSeat(nextLine).getName());

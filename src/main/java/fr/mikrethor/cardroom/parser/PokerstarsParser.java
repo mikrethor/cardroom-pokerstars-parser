@@ -296,8 +296,24 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 	@Override
 	public Player parsePlayerSeat(String chaine) {
-		// TODO Auto-generated method stub
-		return null;
+		final int espace = chaine.indexOf(SPACE);
+		final int deuxpoints = chaine.indexOf(COLON);
+		final int parenthesegauche = chaine.indexOf(LEFT_PARENTHESIS);
+		final int inchips = chaine.indexOf(" in chips)");
+
+		final String seat = chaine.substring(espace + 1, deuxpoints);
+		final String player = chaine.substring(deuxpoints + 2, parenthesegauche - 1);
+		String stack = chaine.substring(parenthesegauche + 1, inchips);
+		stack = stack.replace(money.getSymbol(), EMPTY);
+		if (LOGGER.isDebugEnabled()) {
+			LOGGER.debug("seat : " + seat + ", player : " + player + ", stack : " + stack + ".");
+		}
+		final Player playerDTO = new Player(cardRoom, player);
+		playerDTO.setStack(Double.parseDouble(stack));
+		playerDTO.setSeat(Integer.parseInt(seat));
+		playerDTO.setOn(true);
+
+		return playerDTO;
 	}
 
 	@Override
