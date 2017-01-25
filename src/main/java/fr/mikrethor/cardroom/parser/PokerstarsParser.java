@@ -203,8 +203,29 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 	@Override
 	public Double parseFee(String chaine) {
-		// TODO Auto-generated method stub
-		return null;
+		final String[] tab = chaine.split(SPACE);
+		final String buyIn = tab[5];
+		int startPosition = 0;
+		final int endPosition = buyIn.indexOf(PLUS);
+
+		if (buyIn.contains(money.getSymbol())) {
+			startPosition = buyIn.indexOf(money.getSymbol()) + 1;
+		} else {
+			startPosition = 0;
+		}
+		if ("Freeroll".equals(buyIn)) {
+			return 0d;
+		}
+		if (buyIn.contains(PLUS)) {
+			final String realBuyIn = buyIn.substring(startPosition, endPosition);
+			final String fee = buyIn.substring(buyIn.lastIndexOf(PLUS) + 2, buyIn.length());
+
+			if (LOGGER.isDebugEnabled()) {
+				LOGGER.debug("buyin {}, fee {}, money_symbol {}", realBuyIn, fee, money.getSymbol());
+			}
+			return Double.parseDouble(fee);
+		}
+		return 0d;
 	}
 
 	@Override
