@@ -284,8 +284,9 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 	@Override
 	public String parseGameIdSite(String chaine) {
-		// TODO Auto-generated method stub
-		return null;
+		final int startPosition = chaine.lastIndexOf(HASHTAG) + 1;
+		final int endPosition = chaine.indexOf(COMMA);
+		return chaine.substring(startPosition, endPosition);
 	}
 
 	@Override
