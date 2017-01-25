@@ -438,7 +438,7 @@ public class PokerstarsParserTest {
 		String nextLine = "Seat 1: dragoonnhead (big blind) mucked [6d 7s]";
 
 		final PokerstarsParser siteParsing = new PokerstarsParser(null);
-
+		siteParsing.setCardroom(new Cardroom("Pokerstars", Domain.FR));
 		Player player = siteParsing.parsePlayerSummary(nextLine);
 		Assert.assertEquals("dragoonnhead", player.getName());
 		Assert.assertEquals(Integer.valueOf(1), player.getSeat());
