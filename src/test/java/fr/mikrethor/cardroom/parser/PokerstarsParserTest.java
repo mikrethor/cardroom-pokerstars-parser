@@ -34,6 +34,7 @@ public class PokerstarsParserTest {
 		LOGGER.info("Demarrage du parsing pokerstars avec le fichier : {}", fileName);
 		final File file = new File(fileName);
 		final PokerstarsParser siteParsing = new PokerstarsParser(file);
+		siteParsing.setCardroom(new Cardroom("Pokerstars", Domain.COM));
 		Map<String, Hand> hands = null;
 
 		Assert.assertEquals(true, file.exists());
@@ -42,7 +43,7 @@ public class PokerstarsParserTest {
 		final long debut = System.currentTimeMillis();
 
 		hands = siteParsing.parse();
-
+		siteParsing.setCardroom(new Cardroom("Pokerstars", Domain.COM));
 		Assert.assertNotNull(hands);
 		final long fin = System.currentTimeMillis();
 		LOGGER.info("Parsing time : " + (fin - debut) + " milliseconds");
@@ -310,7 +311,7 @@ public class PokerstarsParserTest {
 	}
 
 	@Test
-	public void testReadRiver() {
+	public void testParseRiver() {
 		// TODO Auto-generated method stub
 
 	}
@@ -569,7 +570,7 @@ public class PokerstarsParserTest {
 		Assert.assertEquals(6, calendar.get(Calendar.DAY_OF_MONTH));
 		Assert.assertEquals(Calendar.SEPTEMBER, calendar.get(Calendar.MONTH));
 		Assert.assertEquals(2014, calendar.get(Calendar.YEAR));
-		Assert.assertEquals(22, calendar.get(Calendar.HOUR_OF_DAY));
+		Assert.assertEquals(23, calendar.get(Calendar.HOUR_OF_DAY));
 		Assert.assertEquals(28, calendar.get(Calendar.MINUTE));
 		Assert.assertEquals(28, calendar.get(Calendar.SECOND));
 
@@ -579,7 +580,7 @@ public class PokerstarsParserTest {
 		Assert.assertEquals(6, calendar.get(Calendar.DAY_OF_MONTH));
 		Assert.assertEquals(Calendar.SEPTEMBER, calendar.get(Calendar.MONTH));
 		Assert.assertEquals(2014, calendar.get(Calendar.YEAR));
-		Assert.assertEquals(22, calendar.get(Calendar.HOUR_OF_DAY));
+		Assert.assertEquals(23, calendar.get(Calendar.HOUR_OF_DAY));
 		Assert.assertEquals(0, calendar.get(Calendar.MINUTE));
 		Assert.assertEquals(48, calendar.get(Calendar.SECOND));
 	}
@@ -590,6 +591,7 @@ public class PokerstarsParserTest {
 		final File fichier = new File(
 				"./target/test-classes/HH20130828 T780452500 Hold'em No Limit 0,89 € + 0,11 €.txt");
 		final PokerstarsParser parser = new PokerstarsParser(fichier);
+		parser.setCardroom(new Cardroom("Pokerstars", Domain.COM));
 		final Map<String, Hand> result = parser.parse();
 
 		Assert.assertEquals(97, result.size());

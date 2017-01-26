@@ -1,8 +1,10 @@
 package fr.mikrethor.cardroom.parser;
 
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.text.ParseException;
 import java.util.Date;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
@@ -14,7 +16,10 @@ import org.slf4j.LoggerFactory;
 
 import fr.mikrethor.cardroom.enums.Card;
 import fr.mikrethor.cardroom.enums.Currency;
+import fr.mikrethor.cardroom.enums.EAction;
 import fr.mikrethor.cardroom.enums.GameType;
+import fr.mikrethor.cardroom.enums.Round;
+import fr.mikrethor.cardroom.parser.pokerstars.Actions;
 import fr.mikrethor.cardroom.pojo.Action;
 import fr.mikrethor.cardroom.pojo.Hand;
 import fr.mikrethor.cardroom.pojo.InfoSession;
@@ -91,15 +96,90 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 	@Override
 	public String parseTableLine(String nextLine, Scanner input, String phase, String[] nextPhases,
 			InfoSession infoSession, Hand hand) {
-		// TODO Auto-generated method stub
-		return null;
+		final String nextL = nextLine;
+
+		if (nextL.startsWith(TABLE)) {
+			if (LOGGER.isDebugEnabled()) {
+				LOGGER.debug(TABLE);
+			}
+			final String numeroTable = parseTableId(nextL);
+
+			final String nombreJoueur = parseNumberOfPlayerByTable(nextL);
+			final Integer buttonSeat = parseButtonSeat(nextL);
+			hand.setButtonSeat(buttonSeat);
+
+			if (LOGGER.isDebugEnabled()) {
+				LOGGER.debug("button seat {} in hand {}", buttonSeat, hand.getLabel());
+				LOGGER.debug("nombreJoueur {}, numerotable {}", nombreJoueur, numeroTable);
+			}
+
+			hand.setNbPlayersOnOneTable(Integer.parseInt(nombreJoueur));
+			hand.setIdTable(numeroTable);
+
+		}
+		return nextL;
 	}
 
 	@Override
 	public String parseSeatLine(String nextLine, Scanner input, String phase, String[] nextPhases, InfoSession game,
 			Hand hand) {
-		// TODO Auto-generated method stub
-		return null;
+		String nextL = nextLine;
+		if (nextL.startsWith(SEAT)) {
+			if (LOGGER.isDebugEnabled()) {
+				LOGGER.debug(SEAT);
+			}
+			while (input.hasNext()) {
+				if (nextL.startsWith(SEAT)) {
+					if (LOGGER.isDebugEnabled()) {
+						LOGGER.debug(SEAT);
+					}
+
+					final Player playerInGame = parsePlayerSeat(nextL);
+					hand.addPlayer(playerInGame);
+
+					if (LOGGER.isDebugEnabled()) {
+						LOGGER.debug("Button Seat is {} and PlayerSeat is {}", hand.getButtonSeat(),
+								playerInGame.getSeat());
+					}
+					if (hand.getButtonSeat().equals(playerInGame.getSeat())) {
+						if (LOGGER.isDebugEnabled()) {
+							LOGGER.debug("Button Player is {} in seat {}", playerInGame.getName(),
+									playerInGame.getSeat());
+						}
+						hand.setDealerPlayer(playerInGame);
+					}
+					nextL = nextLine(input);
+				}
+				if (nextL.contains("posts small blind")) {
+					final String[] smallBlindTab = nextL.split(SPACE);
+					final String smallBlindPlayer = this.getPlayerBlind(smallBlindTab).replace(COLON, EMPTY);
+					final String smallBlind = smallBlindTab[smallBlindTab.length - 1];
+					if (LOGGER.isDebugEnabled()) {
+						LOGGER.debug("small - player : {}, blind {}, length {}", smallBlindPlayer, smallBlind,
+								smallBlindTab.length);
+					}
+					hand.setSmallBlindPlayer(hand.getPlayersByName().get(smallBlindPlayer));
+					nextL = nextLine(input);
+				}
+
+				if (nextL.contains("posts big blind")) {
+					final String[] bigBlindTab = nextL.split(SPACE);
+					final String bigBlindPlayer = this.getPlayerBlind(bigBlindTab).replace(COLON, EMPTY);
+					final String bigBlind = bigBlindTab[bigBlindTab.length - 1];
+					hand.setBigBlindPlayer(hand.getPlayersByName().get(bigBlindPlayer));
+					if (LOGGER.isDebugEnabled()) {
+						LOGGER.debug("big - player : {}, blind {}, length {}", bigBlindPlayer, bigBlind,
+								bigBlindTab.length);
+					}
+					nextL = nextLine(input);
+				}
+				if (nextL.startsWith(HOLE_CARDS)) {
+
+					break;
+				}
+			}
+		}
+		return nextL;
 	}
 
 	@Override
@@ -111,33 +191,109 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 	@Override
 	public String parseDealer(String nextLine, Scanner input, String phase, String[] nextPhases, Hand hand) {
-		// TODO Auto-generated method stub
-		return null;
+		String nextL = nextLine;
+		if (nextL.startsWith(HOLE_CARDS)) {
+			if (LOGGER.isDebugEnabled()) {
+				LOGGER.debug(HOLE_CARDS);
+			}
+			while (input.hasNext()) {
+
+				nextL = nextLine(input);
+				if (nextL.startsWith("Dealt")) {
+
+					final int crochetouvrant = nextL.lastIndexOf(OPENNING_SQUARE_BRACKET);
+
+					final String joueur = nextL.substring("Dealt to ".length(), crochetouvrant - 1);
+
+					final Card[] cartes = parseCards(nextL);
+					hand.getMapPlayerCards().put(joueur, cartes);
+					hand.setPlayer(hand.getPlayersByName().get(joueur));
+					if (LOGGER.isDebugEnabled()) {
+						LOGGER.debug("player : {}, cards {}", joueur, this.parseCards(nextL));
+					}
+					nextL = nextLine(input);
+				}
+				if (nextL.startsWith(FLOP) || nextL.startsWith(SUMMARY)) {
+					break;
+				} else {
+					if (LOGGER.isDebugEnabled()) {
+						LOGGER.debug("dealt to else nextLine {}", nextL);
+					}
+					final Action action = this.parseAction(nextL, hand.getPlayersByName());
+					action.setPhase(Round.PRE_FLOP);
+					if (action != null) {
+						hand.getPreflopActions().add(action);
+					}
+
+				}
+			}
+		}
+		return nextL;
 	}
 
 	@Override
 	public String parseActionsByPhase(String nextLine, Scanner input, Hand hand, String phase, String[] nextPhases,
 			List<Action> actions) {
-		// TODO Auto-generated method stub
-		return null;
+		String nextL = nextLine;
+
+		if (nextL.startsWith(phase)) {
+			if (LOGGER.isDebugEnabled()) {
+				LOGGER.debug(phase);
+			}
+			while (input.hasNext()) {
+				nextL = nextLine(input);
+				if (startsWith(nextL, nextPhases)) {
+					break;
+				} else {
+					Round round = null;
+
+					switch (phase) {
+					case HOLE_CARDS:
+						round = Round.PRE_FLOP;
+						break;
+					case FLOP:
+						round = Round.FLOP;
+						hand.setFlop(parseCards(nextLine));
+						break;
+					case TURN:
+						round = Round.TURN;
+						hand.setTurn(parseCards(nextLine)[0]);
+						break;
+					case RIVER:
+						round = Round.RIVER;
+						hand.setRiver(parseCards(nextLine)[0]);
+						break;
+					case SHOW_DOWN:
+						round = Round.SHOWDOWN;
+						break;
+					default:
+						round = null;
+					}
+					final Action action = this.parseAction(nextL, hand.getPlayersByName());
+
+					if (action != null) {
+						action.setPhase(round);
+						actions.add(action);
+					}
+				}
+			}
+		}
+		return nextL;
 	}
 
 	@Override
 	public String parsePreflop(String nextLine, Scanner input, Hand hand) {
-		// TODO Auto-generated method stub
-		return null;
+		return nextLine;
 	}
 
 	@Override
 	public String parseFlop(String nextLine, Scanner input, Hand hand) {
-		// TODO Auto-generated method stub
-		return null;
+		return parseActionsByPhase(nextLine, input, hand, FLOP, new String[] { TURN, SUMMARY }, hand.getFlopActions());
 	}
 
 	@Override
 	public String parseTurn(String nextLine, Scanner input, Hand hand) {
-		// TODO Auto-generated method stub
-		return null;
+		return parseActionsByPhase(nextLine, input, hand, TURN, new String[] { RIVER, SUMMARY }, hand.getTurnActions());
 	}
 
 	@Override
@@ -148,21 +304,125 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 	@Override
 	public String parseShowdown(String nextLine, Scanner input, Hand hand) {
-		// TODO Auto-generated method stub
-		return null;
+		return parseActionsByPhase(nextLine, input, hand, SHOW_DOWN, new String[] { SUMMARY },
+				hand.getShowdownActions());
 	}
 
 	@Override
 	public String parseSummary(String nextLine, Scanner input, InfoSession session, String phase, String[] nextPhases,
 			Hand hand) {
-		// TODO Auto-generated method stub
-		return null;
+		if (nextLine.startsWith(phase)) {
+			if (LOGGER.isDebugEnabled()) {
+				LOGGER.debug(SUMMARY);
+			}
+			Player player = null;
+			while (input.hasNext()) {
+
+				// Total pot 180 | No rake
+				if (nextLine.startsWith("Total pot ")) {
+
+					// Total pot �3.45 Main pot �2.38. Side pot �0.86. |
+					// Rake �0.21
+					hand.setTotalPot(parseTotalPot(nextLine));
+					hand.setRake(parseRake(nextLine));
+				}
+
+				if (nextLine.startsWith(BOARD)) {
+					if (LOGGER.isDebugEnabled()) {
+						LOGGER.debug("Board nextLine {}", nextLine);
+					}
+					this.parseCards(nextLine);
+
+				}
+
+				if (startsWith(nextLine, nextPhases)) {
+					break;
+				} else {
+					nextLine = input.nextLine();
+				}
+
+				if (nextLine.startsWith(SEAT)) {
+					player = parsePlayerSummary(nextLine);
+					if (player.getCards() != null) {
+						hand.getMapPlayerCards().put(player.getName(), player.getCards());
+					}
+					if (LOGGER.isDebugEnabled()) {
+						LOGGER.debug("Seat et crochet {}", nextLine);
+					}
+
+				}
+			}
+			hand.getActions().addAll(hand.getPreflopActions());
+			hand.getActions().addAll(hand.getFlopActions());
+			hand.getActions().addAll(hand.getTurnActions());
+			hand.getActions().addAll(hand.getRiverActions());
+			hand.getActions().addAll(hand.getShowdownActions());
+			// game.addHand(hand);
+		}
+		return nextLine;
 	}
 
 	@Override
 	public Action parseAction(String chaine, Map<String, Player> players) {
-		// TODO Auto-generated method stub
-		return null;
+		if (LOGGER.isDebugEnabled()) {
+			LOGGER.debug("read : {}", chaine);
+		}
+		final String[] tab = chaine.split(SPACE);
+		String action = "";
+		String joueur = "";
+		String entre = "";
+		String montant = "0";
+		Card[] main = null;
+
+		for (int i = 0; i < tab.length; i++) {
+			if (EAction.FOLDS.getValue().equals(tab[i]) || EAction.CALLS.getValue().equals(tab[i])
+					|| EAction.RAISES.getValue().equals(tab[i]) || EAction.CHECKS.getValue().equals(tab[i])
+					|| EAction.COLLECTED.getValue().equals(tab[i]) || EAction.BETS.getValue().equals(tab[i])
+					|| EAction.SHOWS.getValue().equals(tab[i]) || "has".equals(tab[i])) {
+				joueur = "";
+
+				action = tab[i];
+
+				if (EAction.CALLS.getValue().equals(tab[i]) || EAction.RAISES.getValue().equals(tab[i])
+						|| EAction.COLLECTED.getValue().equals(tab[i]) || EAction.BETS.getValue().equals(tab[i])) {
+					montant = tab[i + 1];
+					montant = montant.replace(money.getSymbol(), EMPTY);
+				}
+
+				for (int j = 0; j < i; j++) {
+					if (j == 0) {
+						entre = "";
+					} else {
+						entre = SPACE;
+					}
+					joueur = joueur + entre + tab[j];
+
+				}
+				if (EAction.SHOWS.getValue().equals(tab[i])) {
+					main = parseCards(chaine);
+				}
+
+			}
+		}
+		joueur = joueur.replace(COLON, EMPTY);
+
+		if (LOGGER.isDebugEnabled()) {
+			LOGGER.debug("joueur {},action {}", joueur, action);
+		}
+
+		if ("has".equals(action) || "".equals(action)) {
+			return null;
+		} else {
+			if (LOGGER.isDebugEnabled()) {
+				LOGGER.debug("actionread : {}", action);
+			}
+			if (players.get(joueur) == null) {
+				LOGGER.debug(chaine);
+			}
+
+			return new Action(players.get(joueur), EAction.valueOf(action.toUpperCase()), Double.parseDouble(montant),
+					main);
+		}
 	}
 
 	@Override
@@ -173,8 +433,22 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 	@Override
 	public InfoSession parsing() {
-		// TODO Auto-generated method stub
-		return null;
+		final InfoSession infoSession = new InfoSession();
+		infoSession.setCardRoom(cardRoom);
+		Hand hand = null;
+		final Map<String, Hand> mapHands = new HashMap<>();
+
+		final Map<String, StringBuffer> mapHandsText = fileToMap();
+		StringBuffer buffer;
+		for (final String key : mapHandsText.keySet()) {
+			buffer = mapHandsText.get(key);
+			hand = textToHandDto(buffer, infoSession);
+
+			mapHands.put(hand.getLabel(), hand);
+
+		}
+		infoSession.setHands(mapHands);
+		return infoSession;
 	}
 
 	@Override
@@ -376,12 +650,14 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 		chaine = chaine.substring(startPosition, endPosition);
 		try {
-			return DateUtils.toDate(chaine, "yyyy/MM/dd HH:mm:ss z");
+			return DateUtils.toDate(chaine, " yyyy/MM/dd HH:mm:ss z");
 		} catch (final ParseException e) {
 			LOGGER.error(e.getMessage(), e);
 			return new Date();
 		}
 	}
+	
+
 
 	@Override
 	public Currency parseCurrency(String chaine) {
@@ -397,20 +673,127 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 	@Override
 	public Boolean isUselesLine(String line) {
-		// TODO Auto-generated method stub
-		return null;
+		return (line.endsWith(Actions.WILL_BE_ALLOWED_TO_PLAY_AFTER_THE_BUTTON.getValue())
+				|| line.contains(Actions.POSTS_SMALL_ET_BIG_BLINDS.getValue())
+				|| line.contains(Actions.POSTS_THE_ANTE.getValue()) || line.endsWith(Actions.SITS_OUT.getValue())
+				|| line.endsWith(Actions.LEAVES_THE_TABLE.getValue())
+				|| line.endsWith(Actions.IS_SITTING_OUT.getValue()) || line.endsWith(Actions.IS_DISCONNECTED.getValue())
+				|| line.endsWith(Actions.IS_CONNECTED.getValue()) || line.contains(Actions.SAID.getValue())
+				|| line.endsWith(Actions.HAS_TIMED_OUT.getValue())
+				|| line.contains(Actions.JOINS_THE_TABLE_AT_SEAT.getValue())
+				|| line.contains(Actions.UNCALLED_BET.getValue()) || line.endsWith(Actions.HAS_RETURNED.getValue())
+				|| line.contains(Actions.DOESNT_SHOW_HAND.getValue())
+				|| line.endsWith(Actions.WAS_REMOVED_FROM_THE_TABLE_FOR_FAILING_TO_POST.getValue())
+				|| line.endsWith(Actions.MUCKS_HAND.getValue())
+				|| line.contains(Actions.FINISHED_THE_TOURNAMENT_IN.getValue())) && (!line.startsWith("Seat"));
 	}
 
 	@Override
 	public Map<String, StringBuffer> fileToMap() {
-		// TODO Auto-generated method stub
-		return null;
+		Scanner input;
+		try {
+			input = new Scanner(this.getFileToParse(), ENCODING);
+		} catch (final FileNotFoundException e) {
+			LOGGER.error(e.getMessage(), e);
+			return null;
+		}
+
+		if (LOGGER.isDebugEnabled()) {
+			LOGGER.debug("L'encodage utilise pour lire le fichier est {}.", ENCODING);
+			LOGGER.debug("La devise utilisee est le {}.", money.name());
+		}
+		String nextLine = null;
+
+		boolean test = true;
+
+		if (LOGGER.isDebugEnabled()) {
+			LOGGER.debug("Demarrage du parsing ligne a ligne.");
+		}
+
+		final Map<String, StringBuffer> mapHandsText = new HashMap<String, StringBuffer>();
+		StringBuffer handText = null;
+		String handIdLine = new String();
+		boolean firstHand = true;
+		while (input.hasNext()) {
+
+			if (test) {
+				nextLine = nextLine(input);
+				test = false;
+			}
+			if (nextLine.startsWith(UTF8_BOM)) {
+				if (LOGGER.isDebugEnabled()) {
+					LOGGER.debug("Le caractere {} a ete trouve et ignore.", UTF8_BOM);
+				}
+				nextLine = nextLine.substring(1);
+			}
+			// Demarrage de la lecture d'une main
+			if (nextLine.startsWith(NEW_HAND)) {
+				if (firstHand) {
+					handText = new StringBuffer(nextLine);
+					firstHand = false;
+				} else {
+					mapHandsText.put(handIdLine, handText);
+					handText = new StringBuffer(nextLine);
+				}
+				handIdLine = nextLine;
+
+				handText = handText.append(EOL);
+
+			} else {
+				if (!"".equals(nextLine)) {
+					handText = handText.append(nextLine);
+					handText = handText.append(EOL);
+				}
+			}
+
+			nextLine = nextLine(input);
+
+		}
+		mapHandsText.put(handIdLine, handText);
+		input.close();
+		return mapHandsText;
 	}
 
 	@Override
-	public Hand textToHandDto(StringBuffer text) {
-		// TODO Auto-generated method stub
-		return null;
+	public Hand textToHandDto(StringBuffer text, InfoSession infoSession) {
+		final Scanner input = new Scanner(text.toString());
+		final Hand hand = new Hand();
+
+		if (LOGGER.isDebugEnabled()) {
+			LOGGER.debug("L'encodage utilise pour lire le fichier est {}.", ENCODING);
+			LOGGER.debug("La devise utilisee est le {}.", money.name());
+		}
+		String nextLine = input.nextLine();
+		// Demarrage de la lecture d'une main
+		if (nextLine.startsWith(NEW_HAND)) {
+
+			nextLine = parseNewHandLine(nextLine, input, NEW_HAND, null, infoSession, hand);
+		}
+		nextLine = nextLine(input);
+
+		nextLine = parseTableLine(nextLine, input, TABLE, null, infoSession, hand);
+		nextLine = nextLine(input);
+
+		nextLine = parseSeatLine(nextLine, input, SEAT, new String[] { HOLE_CARDS }, infoSession, hand);
+
+		// Renommer cette methode
+		nextLine = parseDealer(nextLine, input, HOLE_CARDS, new String[] { FLOP, SUMMARY }, hand);
+		LOGGER.debug("nextLine av  parsePreflop debug {}", nextLine);
+		// Lecture des actions du coup
+		nextLine = parsePreflop(nextLine, input, hand);
+		LOGGER.debug("nextLine  parsePreflop debug {}", nextLine);
+		nextLine = parseFlop(nextLine, input, hand);
+
+		nextLine = parseTurn(nextLine, input, hand);
+
+		nextLine = parseRiver(nextLine, input, hand);
+
+		nextLine = parseShowdown(nextLine, input, hand);
+
+		nextLine = parseSummary(nextLine, input, infoSession, SUMMARY, new String[] { NEW_HAND }, hand);
+
+		hand.setCardRoom(infoSession.getCardRoom());
+		return hand;
 	}
 
 	public Player parsePlayerSummary(String chaine) {
