@@ -30,13 +30,11 @@ public class PokerstarsParserCashGame extends PokerstarsParser implements ICardr
 		final int startPosition = chaine.indexOf(APOSTROPHE) + 1;
 		final int endPosition = chaine.lastIndexOf(APOSTROPHE);
 		final String sousChaine = chaine.substring(startPosition, endPosition);
-		// final String[] tab = sousChaine.split(ESPACE);
 		return sousChaine;
 	}
 
 	@Override
 	public String getTournamentId() {
-		// HH20141023 Endeavour II - 0,02�$-0,05�$ - USD Hold'em No Limit
 		final String fileName = this.getFileToParse().getName();
 		final String id = fileName.substring(fileName.indexOf(SPACE) + 1, fileName.indexOf(DASH));
 		return id;
