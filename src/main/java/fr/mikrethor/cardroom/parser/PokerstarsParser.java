@@ -6,6 +6,8 @@ import java.util.Date;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -140,8 +142,8 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 	@Override
 	public String parseRiver(String nextLine, Scanner input, Hand hand) {
-		// TODO Auto-generated method stub
-		return null;
+		return parseActionsByPhase(nextLine, input, hand, RIVER, new String[] { SHOW_DOWN, SUMMARY },
+				hand.getRiverActions());
 	}
 
 	@Override
@@ -348,8 +350,20 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 	@Override
 	public GameType getGameTypeFromFilename(String fileName) {
-		// TODO Auto-generated method stub
-		return null;
+		Pattern pattern;
+		Matcher matcher;
+
+		if (fileName == null || EMPTY.equals(fileName)) {
+			return null;
+		} else {
+
+			pattern = Pattern.compile("HH[0-9]{8} T[0-9]{8}");
+			matcher = pattern.matcher(fileName);
+			if (matcher.find()) {
+				return GameType.TOURNAMENT;
+			}
+			return GameType.CASH;
+		}
 	}
 
 	@Override
