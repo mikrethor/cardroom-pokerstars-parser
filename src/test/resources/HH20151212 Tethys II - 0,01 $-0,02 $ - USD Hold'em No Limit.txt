@@ -1,0 +1,4113 @@
+﻿PokerStars Hand #145255367975:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:08:41 ET
+Table 'Tethys II' 6-max Seat #2 is the button
+Seat 2: jscialab ($3.93 in chips) 
+Seat 3: yusef24 ($0.66 in chips) 
+Seat 4: -Cr@zyChips- ($2 in chips) 
+Seat 5: harmony21 ($2.45 in chips) 
+Seat 6: Maxim12315 ($2 in chips) 
+yusef24: posts small blind $0.01
+-Cr@zyChips-: posts big blind $0.02
+MeanderMusic: sits out 
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Td 2h]
+harmony21: folds 
+Maxim12315: folds 
+jscialab: raises $0.04 to $0.06
+yusef24: folds 
+-Cr@zyChips-: folds 
+Uncalled bet ($0.04) returned to jscialab
+jscialab collected $0.05 from pot
+jscialab: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: jscialab (button) collected ($0.05)
+Seat 3: yusef24 (small blind) folded before Flop
+Seat 4: -Cr@zyChips- (big blind) folded before Flop
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: Maxim12315 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145255380203:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:09:03 ET
+Table 'Tethys II' 6-max Seat #3 is the button
+Seat 2: jscialab ($3.96 in chips) 
+Seat 3: yusef24 ($0.65 in chips) 
+Seat 4: -Cr@zyChips- ($2 in chips) 
+Seat 5: harmony21 ($2.45 in chips) 
+Seat 6: Maxim12315 ($2 in chips) 
+-Cr@zyChips-: posts small blind $0.01
+harmony21: posts big blind $0.02
+MeanderMusic: sits out 
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [2c Ad]
+Maxim12315: folds 
+jscialab: folds 
+yusef24: raises $0.05 to $0.07
+-Cr@zyChips-: folds 
+harmony21: folds 
+Uncalled bet ($0.05) returned to yusef24
+yusef24 collected $0.05 from pot
+yusef24: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: yusef24 (button) collected ($0.05)
+Seat 4: -Cr@zyChips- (small blind) folded before Flop
+Seat 5: harmony21 (big blind) folded before Flop
+Seat 6: Maxim12315 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145255388173:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:09:17 ET
+Table 'Tethys II' 6-max Seat #4 is the button
+Seat 2: jscialab ($3.96 in chips) 
+Seat 3: yusef24 ($0.68 in chips) 
+Seat 4: -Cr@zyChips- ($2 in chips) 
+Seat 5: harmony21 ($2.43 in chips) 
+Seat 6: Maxim12315 ($2 in chips) 
+harmony21: posts small blind $0.01
+Maxim12315: posts big blind $0.02
+MeanderMusic: sits out 
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [7c 3h]
+jscialab: folds 
+yusef24: folds 
+-Cr@zyChips-: folds 
+harmony21: folds 
+Uncalled bet ($0.01) returned to Maxim12315
+Maxim12315 collected $0.02 from pot
+Maxim12315: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: yusef24 folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- (button) folded before Flop (didn't bet)
+Seat 5: harmony21 (small blind) folded before Flop
+Seat 6: Maxim12315 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #145255401054:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:09:39 ET
+Table 'Tethys II' 6-max Seat #5 is the button
+Seat 1: MeanderMusic ($0.80 in chips) 
+Seat 2: jscialab ($3.96 in chips) 
+Seat 3: yusef24 ($0.68 in chips) 
+Seat 4: -Cr@zyChips- ($2 in chips) 
+Seat 5: harmony21 ($2.42 in chips) 
+Seat 6: Maxim12315 ($2.01 in chips) 
+Maxim12315: posts small blind $0.01
+MeanderMusic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [9s 2h]
+jscialab: folds 
+yusef24: folds 
+-Cr@zyChips-: folds 
+harmony21: raises $0.04 to $0.06
+Maxim12315: folds 
+MeanderMusic: folds 
+Uncalled bet ($0.04) returned to harmony21
+harmony21 collected $0.05 from pot
+harmony21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MeanderMusic (big blind) folded before Flop
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: yusef24 folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 (button) collected ($0.05)
+Seat 6: Maxim12315 (small blind) folded before Flop
+
+
+
+PokerStars Hand #145255415593:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:10:05 ET
+Table 'Tethys II' 6-max Seat #6 is the button
+Seat 1: MeanderMusic ($0.78 in chips) 
+Seat 2: jscialab ($3.96 in chips) 
+Seat 3: yusef24 ($0.68 in chips) 
+Seat 4: -Cr@zyChips- ($2 in chips) 
+Seat 5: harmony21 ($2.45 in chips) 
+Seat 6: Maxim12315 ($2 in chips) 
+MeanderMusic: posts small blind $0.01
+jscialab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Ad 5d]
+yusef24: folds 
+-Cr@zyChips-: raises $0.04 to $0.06
+harmony21: folds 
+Maxim12315: folds 
+MeanderMusic: folds 
+jscialab: folds 
+Uncalled bet ($0.04) returned to -Cr@zyChips-
+-Cr@zyChips- collected $0.05 from pot
+-Cr@zyChips-: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MeanderMusic (small blind) folded before Flop
+Seat 2: jscialab (big blind) folded before Flop
+Seat 3: yusef24 folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- collected ($0.05)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: Maxim12315 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145255427364:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:10:26 ET
+Table 'Tethys II' 6-max Seat #1 is the button
+Seat 1: MeanderMusic ($0.77 in chips) 
+Seat 2: jscialab ($3.94 in chips) 
+Seat 3: yusef24 ($0.68 in chips) 
+Seat 4: -Cr@zyChips- ($2.03 in chips) 
+Seat 5: harmony21 ($2.45 in chips) 
+Seat 6: Maxim12315 ($2 in chips) 
+jscialab: posts small blind $0.01
+yusef24: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [4s Qh]
+-Cr@zyChips-: folds 
+harmony21: folds 
+Maxim12315: raises $0.03 to $0.05
+MeanderMusic: folds 
+jscialab: folds 
+yusef24: folds 
+Uncalled bet ($0.03) returned to Maxim12315
+Maxim12315 collected $0.05 from pot
+Maxim12315: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MeanderMusic (button) folded before Flop (didn't bet)
+Seat 2: jscialab (small blind) folded before Flop
+Seat 3: yusef24 (big blind) folded before Flop
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: Maxim12315 collected ($0.05)
+
+
+
+PokerStars Hand #145255439030:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:10:46 ET
+Table 'Tethys II' 6-max Seat #2 is the button
+Seat 1: MeanderMusic ($0.77 in chips) 
+Seat 2: jscialab ($3.93 in chips) 
+Seat 3: yusef24 ($0.66 in chips) 
+Seat 4: -Cr@zyChips- ($2.03 in chips) 
+Seat 5: harmony21 ($2.45 in chips) 
+Seat 6: Maxim12315 ($2.03 in chips) 
+yusef24: posts small blind $0.01
+-Cr@zyChips-: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Ad 3h]
+harmony21: folds 
+Maxim12315: folds 
+Maxim12315 leaves the table
+MeanderMusic: calls $0.02
+jscialab: folds 
+yusef24: folds 
+-Cr@zyChips-: checks 
+*** FLOP *** [3s 2s Ts]
+-Cr@zyChips-: checks 
+MeanderMusic: bets $0.05
+-Cr@zyChips-: folds 
+Uncalled bet ($0.05) returned to MeanderMusic
+MeanderMusic collected $0.05 from pot
+MeanderMusic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [3s 2s Ts]
+Seat 1: MeanderMusic collected ($0.05)
+Seat 2: jscialab (button) folded before Flop (didn't bet)
+Seat 3: yusef24 (small blind) folded before Flop
+Seat 4: -Cr@zyChips- (big blind) folded on the Flop
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: Maxim12315 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145255455512:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:11:16 ET
+Table 'Tethys II' 6-max Seat #3 is the button
+Seat 1: MeanderMusic ($0.80 in chips) 
+Seat 2: jscialab ($3.93 in chips) 
+Seat 3: yusef24 ($0.65 in chips) 
+Seat 4: -Cr@zyChips- ($2.01 in chips) 
+Seat 5: harmony21 ($2.45 in chips) 
+-Cr@zyChips-: posts small blind $0.01
+harmony21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Kh 6h]
+MeanderMusic: folds 
+jscialab: folds 
+yusef24: folds 
+-Cr@zyChips-: folds 
+Uncalled bet ($0.01) returned to harmony21
+harmony21 collected $0.02 from pot
+harmony21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: MeanderMusic folded before Flop (didn't bet)
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: yusef24 (button) folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- (small blind) folded before Flop
+Seat 5: harmony21 (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #145255466426:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:11:35 ET
+Table 'Tethys II' 6-max Seat #4 is the button
+Seat 1: MeanderMusic ($0.80 in chips) 
+Seat 2: jscialab ($3.93 in chips) 
+Seat 3: yusef24 ($0.65 in chips) 
+Seat 4: -Cr@zyChips- ($2 in chips) 
+Seat 5: harmony21 ($2.46 in chips) 
+harmony21: posts small blind $0.01
+MeanderMusic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [9c 7d]
+jscialab: folds 
+yusef24: folds 
+-Cr@zyChips-: folds 
+harmony21: folds 
+Uncalled bet ($0.01) returned to MeanderMusic
+MeanderMusic collected $0.02 from pot
+MeanderMusic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: MeanderMusic (big blind) collected ($0.02)
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: yusef24 folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- (button) folded before Flop (didn't bet)
+Seat 5: harmony21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #145255470722:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:11:43 ET
+Table 'Tethys II' 6-max Seat #5 is the button
+Seat 1: MeanderMusic ($0.81 in chips) 
+Seat 2: jscialab ($3.93 in chips) 
+Seat 3: yusef24 ($0.65 in chips) 
+Seat 4: -Cr@zyChips- ($2 in chips) 
+Seat 5: harmony21 ($2.45 in chips) 
+MeanderMusic: posts small blind $0.01
+jscialab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [4s Ac]
+yusef24: folds 
+-Cr@zyChips-: folds 
+harmony21: raises $0.04 to $0.06
+MeanderMusic: folds 
+DeennPL joins the table at seat #6 
+jscialab: calls $0.04
+*** FLOP *** [Kh 9s Jc]
+jscialab: checks 
+harmony21: bets $0.09
+jscialab: folds 
+Uncalled bet ($0.09) returned to harmony21
+harmony21 collected $0.13 from pot
+harmony21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [Kh 9s Jc]
+Seat 1: MeanderMusic (small blind) folded before Flop
+Seat 2: jscialab (big blind) folded on the Flop
+Seat 3: yusef24 folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 (button) collected ($0.13)
+
+
+
+PokerStars Hand #145255498017:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:12:32 ET
+Table 'Tethys II' 6-max Seat #1 is the button
+Seat 1: MeanderMusic ($0.80 in chips) 
+Seat 2: jscialab ($3.87 in chips) 
+Seat 3: yusef24 ($0.65 in chips) 
+Seat 4: -Cr@zyChips- ($2 in chips) 
+Seat 5: harmony21 ($2.52 in chips) 
+Seat 6: DeennPL ($1 in chips) 
+jscialab: posts small blind $0.01
+yusef24: posts big blind $0.02
+DeennPL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [2s Qh]
+-Cr@zyChips-: folds 
+harmony21: folds 
+DeennPL: checks 
+MeanderMusic: calls $0.02
+jscialab: folds 
+yusef24: checks 
+*** FLOP *** [5h 4d Jh]
+yusef24: checks 
+DeennPL: checks 
+MeanderMusic: checks 
+*** TURN *** [5h 4d Jh] [8c]
+yusef24: bets $0.03
+DeennPL: calls $0.03
+MeanderMusic: calls $0.03
+*** RIVER *** [5h 4d Jh 8c] [8d]
+yusef24: bets $0.15
+DeennPL: calls $0.15
+MeanderMusic: folds 
+*** SHOW DOWN ***
+yusef24: shows [3h 9d] (a pair of Eights)
+DeennPL: shows [8s 3c] (three of a kind, Eights)
+DeennPL collected $0.44 from pot
+*** SUMMARY ***
+Total pot $0.46 | Rake $0.02 
+Board [5h 4d Jh 8c 8d]
+Seat 1: MeanderMusic (button) folded on the River
+Seat 2: jscialab (small blind) folded before Flop
+Seat 3: yusef24 (big blind) showed [3h 9d] and lost with a pair of Eights
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: DeennPL showed [8s 3c] and won ($0.44) with three of a kind, Eights
+
+
+
+PokerStars Hand #145255528566:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:13:27 ET
+Table 'Tethys II' 6-max Seat #2 is the button
+Seat 1: MeanderMusic ($0.75 in chips) 
+Seat 2: jscialab ($3.86 in chips) 
+Seat 3: yusef24 ($0.45 in chips) 
+Seat 4: -Cr@zyChips- ($2 in chips) 
+Seat 5: harmony21 ($2.52 in chips) 
+Seat 6: DeennPL ($1.24 in chips) 
+yusef24: posts small blind $0.01
+-Cr@zyChips-: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [6d Ks]
+harmony21: raises $0.04 to $0.06
+DeennPL: folds 
+MeanderMusic: calls $0.06
+jscialab: folds 
+yusef24: folds 
+-Cr@zyChips-: folds 
+*** FLOP *** [Kh Ad Kd]
+harmony21: bets $0.07
+MeanderMusic: calls $0.07
+*** TURN *** [Kh Ad Kd] [6h]
+harmony21: checks 
+MeanderMusic: bets $0.28
+harmony21: folds 
+Uncalled bet ($0.28) returned to MeanderMusic
+MeanderMusic collected $0.28 from pot
+MeanderMusic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Kh Ad Kd 6h]
+Seat 1: MeanderMusic collected ($0.28)
+Seat 2: jscialab (button) folded before Flop (didn't bet)
+Seat 3: yusef24 (small blind) folded before Flop
+Seat 4: -Cr@zyChips- (big blind) folded before Flop
+Seat 5: harmony21 folded on the Turn
+Seat 6: DeennPL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145255550694:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:14:07 ET
+Table 'Tethys II' 6-max Seat #3 is the button
+Seat 1: MeanderMusic ($0.90 in chips) 
+Seat 2: jscialab ($3.86 in chips) 
+Seat 3: yusef24 ($0.44 in chips) 
+Seat 4: -Cr@zyChips- ($2 in chips) 
+Seat 5: harmony21 ($2.39 in chips) 
+Seat 6: DeennPL ($1.24 in chips) 
+-Cr@zyChips-: posts small blind $0.01
+harmony21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [4c Jh]
+DeennPL: folds 
+MeanderMusic: folds 
+jscialab: folds 
+yusef24: folds 
+-Cr@zyChips-: folds 
+Uncalled bet ($0.01) returned to harmony21
+harmony21 collected $0.02 from pot
+harmony21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: MeanderMusic folded before Flop (didn't bet)
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: yusef24 (button) folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- (small blind) folded before Flop
+Seat 5: harmony21 (big blind) collected ($0.02)
+Seat 6: DeennPL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145255567644:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:14:37 ET
+Table 'Tethys II' 6-max Seat #4 is the button
+Seat 1: MeanderMusic ($0.90 in chips) 
+Seat 2: jscialab ($3.86 in chips) 
+Seat 3: yusef24 ($0.44 in chips) 
+Seat 4: -Cr@zyChips- ($2 in chips) 
+Seat 5: harmony21 ($2.40 in chips) 
+Seat 6: DeennPL ($1.24 in chips) 
+harmony21: posts small blind $0.01
+DeennPL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [2s 6c]
+MeanderMusic: raises $0.04 to $0.06
+jscialab: folds 
+yusef24: calls $0.06
+-Cr@zyChips-: folds 
+harmony21: folds 
+DeennPL: calls $0.04
+*** FLOP *** [7d 4c 4s]
+DeennPL: checks 
+MeanderMusic: checks 
+yusef24: checks 
+*** TURN *** [7d 4c 4s] [7c]
+DeennPL: bets $0.02
+MeanderMusic: calls $0.02
+yusef24: calls $0.02
+*** RIVER *** [7d 4c 4s 7c] [9h]
+DeennPL: checks 
+MeanderMusic: checks 
+yusef24: bets $0.08
+DeennPL: folds 
+MeanderMusic: folds 
+Uncalled bet ($0.08) returned to yusef24
+yusef24 collected $0.24 from pot
+yusef24: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [7d 4c 4s 7c 9h]
+Seat 1: MeanderMusic folded on the River
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: yusef24 collected ($0.24)
+Seat 4: -Cr@zyChips- (button) folded before Flop (didn't bet)
+Seat 5: harmony21 (small blind) folded before Flop
+Seat 6: DeennPL (big blind) folded on the River
+
+
+
+PokerStars Hand #145255614804:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:16:03 ET
+Table 'Tethys II' 6-max Seat #5 is the button
+Seat 1: MeanderMusic ($0.82 in chips) 
+Seat 2: jscialab ($3.86 in chips) 
+Seat 3: yusef24 ($0.60 in chips) 
+Seat 4: -Cr@zyChips- ($2 in chips) 
+Seat 5: harmony21 ($2.39 in chips) 
+Seat 6: DeennPL ($1.16 in chips) 
+DeennPL: posts small blind $0.01
+MeanderMusic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [7h 9c]
+jscialab: folds 
+yusef24: folds 
+-Cr@zyChips-: folds 
+harmony21: folds 
+DeennPL: calls $0.01
+MeanderMusic: checks 
+*** FLOP *** [Tc 4d 6c]
+DeennPL: checks 
+MeanderMusic: bets $0.04
+DeennPL: folds 
+Uncalled bet ($0.04) returned to MeanderMusic
+MeanderMusic collected $0.04 from pot
+MeanderMusic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Tc 4d 6c]
+Seat 1: MeanderMusic (big blind) collected ($0.04)
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: yusef24 folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 (button) folded before Flop (didn't bet)
+Seat 6: DeennPL (small blind) folded on the Flop
+
+
+
+PokerStars Hand #145255635066:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:16:40 ET
+Table 'Tethys II' 6-max Seat #6 is the button
+Seat 1: MeanderMusic ($0.84 in chips) 
+Seat 2: jscialab ($3.86 in chips) 
+Seat 3: yusef24 ($0.60 in chips) 
+Seat 4: -Cr@zyChips- ($2 in chips) 
+Seat 5: harmony21 ($2.39 in chips) 
+Seat 6: DeennPL ($1.14 in chips) 
+MeanderMusic: posts small blind $0.01
+jscialab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [5d 8d]
+yusef24: calls $0.02
+-Cr@zyChips-: folds 
+harmony21: folds 
+DeennPL: folds 
+MeanderMusic: calls $0.01
+jscialab: checks 
+*** FLOP *** [6c Jh 6d]
+MeanderMusic: checks 
+jscialab: checks 
+yusef24: checks 
+*** TURN *** [6c Jh 6d] [3c]
+MeanderMusic: checks 
+jscialab: checks 
+yusef24: bets $0.02
+MeanderMusic: folds 
+jscialab: folds 
+Uncalled bet ($0.02) returned to yusef24
+yusef24 collected $0.06 from pot
+yusef24: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [6c Jh 6d 3c]
+Seat 1: MeanderMusic (small blind) folded on the Turn
+Seat 2: jscialab (big blind) folded on the Turn
+Seat 3: yusef24 collected ($0.06)
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: DeennPL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145255675592:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:17:54 ET
+Table 'Tethys II' 6-max Seat #1 is the button
+Seat 1: MeanderMusic ($0.82 in chips) 
+Seat 2: jscialab ($3.84 in chips) 
+Seat 3: yusef24 ($0.64 in chips) 
+Seat 4: -Cr@zyChips- ($2 in chips) 
+Seat 5: harmony21 ($2.39 in chips) 
+Seat 6: DeennPL ($1.14 in chips) 
+jscialab: posts small blind $0.01
+yusef24: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Kh 2c]
+-Cr@zyChips-: folds 
+harmony21: folds 
+DeennPL: folds 
+MeanderMusic: folds 
+jscialab: raises $0.02 to $0.04
+yusef24: calls $0.02
+*** FLOP *** [Ks 7d 6c]
+jscialab: checks 
+yusef24: checks 
+*** TURN *** [Ks 7d 6c] [9d]
+jscialab: bets $0.04
+yusef24: calls $0.04
+*** RIVER *** [Ks 7d 6c 9d] [4h]
+jscialab: checks 
+yusef24: checks 
+*** SHOW DOWN ***
+jscialab: shows [2d 5d] (high card King)
+yusef24: shows [Ad 4d] (a pair of Fours)
+yusef24 collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [Ks 7d 6c 9d 4h]
+Seat 1: MeanderMusic (button) folded before Flop (didn't bet)
+Seat 2: jscialab (small blind) showed [2d 5d] and lost with high card King
+Seat 3: yusef24 (big blind) showed [Ad 4d] and won ($0.15) with a pair of Fours
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: DeennPL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145255722795:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:19:21 ET
+Table 'Tethys II' 6-max Seat #2 is the button
+Seat 1: MeanderMusic ($0.82 in chips) 
+Seat 2: jscialab ($3.76 in chips) 
+Seat 3: yusef24 ($0.71 in chips) 
+Seat 4: -Cr@zyChips- ($2 in chips) 
+Seat 5: harmony21 ($2.39 in chips) 
+Seat 6: DeennPL ($1.14 in chips) 
+yusef24: posts small blind $0.01
+-Cr@zyChips-: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [3s 3c]
+harmony21: folds 
+DeennPL: folds 
+MeanderMusic: raises $0.02 to $0.04
+jscialab: folds 
+yusef24: folds 
+-Cr@zyChips-: calls $0.02
+*** FLOP *** [Qh 4d 9c]
+-Cr@zyChips-: bets $0.06
+MeanderMusic: calls $0.06
+*** TURN *** [Qh 4d 9c] [Js]
+-Cr@zyChips-: checks 
+MeanderMusic: bets $0.20
+-Cr@zyChips-: folds 
+Uncalled bet ($0.20) returned to MeanderMusic
+MeanderMusic collected $0.20 from pot
+MeanderMusic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [Qh 4d 9c Js]
+Seat 1: MeanderMusic collected ($0.20)
+Seat 2: jscialab (button) folded before Flop (didn't bet)
+Seat 3: yusef24 (small blind) folded before Flop
+Seat 4: -Cr@zyChips- (big blind) folded on the Turn
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: DeennPL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145255751730:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:20:14 ET
+Table 'Tethys II' 6-max Seat #3 is the button
+Seat 1: MeanderMusic ($0.92 in chips) 
+Seat 2: jscialab ($3.76 in chips) 
+Seat 3: yusef24 ($0.70 in chips) 
+Seat 4: -Cr@zyChips- ($2 in chips) 
+Seat 5: harmony21 ($2.39 in chips) 
+Seat 6: DeennPL ($1.14 in chips) 
+-Cr@zyChips-: posts small blind $0.01
+harmony21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [5c Jd]
+DeennPL: folds 
+MeanderMusic: raises $0.04 to $0.06
+jscialab: folds 
+yusef24: calls $0.06
+-Cr@zyChips-: folds 
+harmony21: folds 
+*** FLOP *** [Ad 7d Ah]
+MeanderMusic: checks 
+yusef24: bets $0.14
+MeanderMusic: folds 
+Uncalled bet ($0.14) returned to yusef24
+yusef24 collected $0.14 from pot
+yusef24: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Ad 7d Ah]
+Seat 1: MeanderMusic folded on the Flop
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: yusef24 (button) collected ($0.14)
+Seat 4: -Cr@zyChips- (small blind) folded before Flop
+Seat 5: harmony21 (big blind) folded before Flop
+Seat 6: DeennPL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145255772039:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:20:51 ET
+Table 'Tethys II' 6-max Seat #4 is the button
+Seat 1: MeanderMusic ($0.86 in chips) 
+Seat 2: jscialab ($3.76 in chips) 
+Seat 3: yusef24 ($0.78 in chips) 
+Seat 4: -Cr@zyChips- ($2 in chips) 
+Seat 5: harmony21 ($2.37 in chips) 
+Seat 6: DeennPL ($1.14 in chips) 
+harmony21: posts small blind $0.01
+DeennPL: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Kh Ad]
+MeanderMusic: folds 
+jscialab: folds 
+yusef24: folds 
+yusef24 leaves the table
+-Cr@zyChips-: raises $0.04 to $0.06
+harmony21: folds 
+DeennPL: folds 
+Uncalled bet ($0.04) returned to -Cr@zyChips-
+-Cr@zyChips- collected $0.05 from pot
+-Cr@zyChips-: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MeanderMusic folded before Flop (didn't bet)
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: yusef24 folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- (button) collected ($0.05)
+Seat 5: harmony21 (small blind) folded before Flop
+Seat 6: DeennPL (big blind) folded before Flop
+
+
+
+PokerStars Hand #145255782562:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:21:11 ET
+Table 'Tethys II' 6-max Seat #5 is the button
+Seat 1: MeanderMusic ($0.86 in chips) 
+Seat 2: jscialab ($3.76 in chips) 
+Seat 4: -Cr@zyChips- ($2.03 in chips) 
+Seat 5: harmony21 ($2.36 in chips) 
+Seat 6: DeennPL ($1.12 in chips) 
+DeennPL: posts small blind $0.01
+MeanderMusic: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [2c Qd]
+jscialab: folds 
+-Cr@zyChips-: folds 
+harmony21: raises $0.04 to $0.06
+DeennPL: folds 
+MeanderMusic: calls $0.04
+*** FLOP *** [8c Ks 5d]
+MeanderMusic: checks 
+harmony21: bets $0.09
+MeanderMusic: folds 
+Uncalled bet ($0.09) returned to harmony21
+harmony21 collected $0.13 from pot
+harmony21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [8c Ks 5d]
+Seat 1: MeanderMusic (big blind) folded on the Flop
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 (button) collected ($0.13)
+Seat 6: DeennPL (small blind) folded before Flop
+
+
+
+PokerStars Hand #145255799827:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:21:42 ET
+Table 'Tethys II' 6-max Seat #6 is the button
+Seat 1: MeanderMusic ($0.80 in chips) 
+Seat 2: jscialab ($3.76 in chips) 
+Seat 4: -Cr@zyChips- ($2.03 in chips) 
+Seat 5: harmony21 ($2.43 in chips) 
+Seat 6: DeennPL ($1.11 in chips) 
+MeanderMusic: posts small blind $0.01
+jscialab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Ah 2d]
+-Cr@zyChips-: folds 
+harmony21: folds 
+DeennPL: folds 
+MeanderMusic: raises $0.02 to $0.04
+jscialab: folds 
+Uncalled bet ($0.02) returned to MeanderMusic
+MeanderMusic collected $0.04 from pot
+MeanderMusic: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: MeanderMusic (small blind) collected ($0.04)
+Seat 2: jscialab (big blind) folded before Flop
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: DeennPL (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145255808153:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:21:57 ET
+Table 'Tethys II' 6-max Seat #1 is the button
+Seat 1: MeanderMusic ($0.82 in chips) 
+Seat 2: jscialab ($3.74 in chips) 
+Seat 4: -Cr@zyChips- ($2.03 in chips) 
+Seat 5: harmony21 ($2.43 in chips) 
+Seat 6: DeennPL ($1.11 in chips) 
+jscialab: posts small blind $0.01
+-Cr@zyChips-: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [2c 8h]
+harmony21: raises $0.04 to $0.06
+DeennPL: folds 
+MeanderMusic: calls $0.06
+jscialab: folds 
+vdvaart2k joins the table at seat #3 
+-Cr@zyChips-: folds 
+*** FLOP *** [9h 9d Kh]
+harmony21: bets $0.10
+MeanderMusic: folds 
+Uncalled bet ($0.10) returned to harmony21
+harmony21 collected $0.14 from pot
+harmony21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [9h 9d Kh]
+Seat 1: MeanderMusic (button) folded on the Flop
+Seat 2: jscialab (small blind) folded before Flop
+Seat 4: -Cr@zyChips- (big blind) folded before Flop
+Seat 5: harmony21 collected ($0.14)
+Seat 6: DeennPL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145255830205:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:22:37 ET
+Table 'Tethys II' 6-max Seat #2 is the button
+Seat 1: MeanderMusic ($0.76 in chips) 
+Seat 2: jscialab ($3.73 in chips) 
+Seat 4: -Cr@zyChips- ($2.01 in chips) 
+Seat 5: harmony21 ($2.51 in chips) 
+Seat 6: DeennPL ($1.11 in chips) 
+vdvaart2k will be allowed to play after the button
+-Cr@zyChips-: posts small blind $0.01
+harmony21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Td 8h]
+DeennPL: folds 
+MeanderMusic: calls $0.02
+jscialab: folds 
+-Cr@zyChips-: folds 
+harmony21: checks 
+*** FLOP *** [7s 7h As]
+harmony21: checks 
+MeanderMusic: checks 
+*** TURN *** [7s 7h As] [Js]
+harmony21: checks 
+MeanderMusic: checks 
+*** RIVER *** [7s 7h As Js] [3c]
+harmony21: checks 
+MeanderMusic: bets $0.05
+harmony21: calls $0.05
+*** SHOW DOWN ***
+MeanderMusic: shows [4h 5s] (a pair of Sevens)
+harmony21: shows [Jd 8d] (two pair, Jacks and Sevens)
+harmony21 collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [7s 7h As Js 3c]
+Seat 1: MeanderMusic showed [4h 5s] and lost with a pair of Sevens
+Seat 2: jscialab (button) folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- (small blind) folded before Flop
+Seat 5: harmony21 (big blind) showed [Jd 8d] and won ($0.14) with two pair, Jacks and Sevens
+Seat 6: DeennPL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145255854750:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:23:22 ET
+Table 'Tethys II' 6-max Seat #4 is the button
+Seat 1: MeanderMusic ($0.69 in chips) 
+Seat 2: jscialab ($3.73 in chips) 
+Seat 4: -Cr@zyChips- ($2 in chips) 
+Seat 5: harmony21 ($2.58 in chips) 
+Seat 6: DeennPL ($1.11 in chips) 
+harmony21: posts small blind $0.01
+DeennPL: posts big blind $0.02
+vdvaart2k: sits out 
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [7h 5h]
+MeanderMusic: calls $0.02
+jscialab: folds 
+-Cr@zyChips-: folds 
+harmony21: raises $0.06 to $0.08
+DeennPL: folds 
+MeanderMusic: folds 
+Uncalled bet ($0.06) returned to harmony21
+harmony21 collected $0.06 from pot
+harmony21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: MeanderMusic folded before Flop
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- (button) folded before Flop (didn't bet)
+Seat 5: harmony21 (small blind) collected ($0.06)
+Seat 6: DeennPL (big blind) folded before Flop
+
+
+
+PokerStars Hand #145255869514:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:23:50 ET
+Table 'Tethys II' 6-max Seat #5 is the button
+Seat 1: MeanderMusic ($0.67 in chips) 
+Seat 2: jscialab ($3.73 in chips) 
+Seat 4: -Cr@zyChips- ($2 in chips) 
+Seat 5: harmony21 ($2.62 in chips) 
+Seat 6: DeennPL ($1.09 in chips) 
+DeennPL: posts small blind $0.01
+MeanderMusic: posts big blind $0.02
+vdvaart2k: sits out 
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Ac 6h]
+jscialab: raises $0.04 to $0.06
+-Cr@zyChips-: folds 
+harmony21: calls $0.06
+DeennPL: folds 
+MeanderMusic: folds 
+*** FLOP *** [8s Kc 6s]
+jscialab: checks 
+harmony21: checks 
+*** TURN *** [8s Kc 6s] [Qs]
+jscialab: checks 
+harmony21: bets $0.07
+jscialab: folds 
+Uncalled bet ($0.07) returned to harmony21
+harmony21 collected $0.14 from pot
+harmony21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8s Kc 6s Qs]
+Seat 1: MeanderMusic (big blind) folded before Flop
+Seat 2: jscialab folded on the Turn
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 (button) collected ($0.14)
+Seat 6: DeennPL (small blind) folded before Flop
+
+
+
+PokerStars Hand #145255891069:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:24:30 ET
+Table 'Tethys II' 6-max Seat #6 is the button
+Seat 1: MeanderMusic ($0.65 in chips) 
+Seat 2: jscialab ($3.67 in chips) 
+Seat 4: -Cr@zyChips- ($2 in chips) 
+Seat 5: harmony21 ($2.70 in chips) 
+Seat 6: DeennPL ($1.08 in chips) 
+MeanderMusic: posts small blind $0.01
+jscialab: posts big blind $0.02
+vdvaart2k: sits out 
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Qc Jh]
+-Cr@zyChips-: raises $0.04 to $0.06
+harmony21: folds 
+DeennPL: calls $0.06
+MeanderMusic: folds 
+jscialab: folds 
+*** FLOP *** [Ad Th Kd]
+-Cr@zyChips-: bets $0.06
+DeennPL: calls $0.06
+*** TURN *** [Ad Th Kd] [7h]
+-Cr@zyChips-: bets $0.28
+DeennPL: folds 
+Uncalled bet ($0.28) returned to -Cr@zyChips-
+-Cr@zyChips- collected $0.26 from pot
+-Cr@zyChips-: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.27 | Rake $0.01 
+Board [Ad Th Kd 7h]
+Seat 1: MeanderMusic (small blind) folded before Flop
+Seat 2: jscialab (big blind) folded before Flop
+Seat 4: -Cr@zyChips- collected ($0.26)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: DeennPL (button) folded on the Turn
+
+
+
+PokerStars Hand #145255910954:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:25:07 ET
+Table 'Tethys II' 6-max Seat #1 is the button
+Seat 1: MeanderMusic ($0.64 in chips) 
+Seat 2: jscialab ($3.65 in chips) 
+Seat 3: vdvaart2k ($2 in chips) 
+Seat 4: -Cr@zyChips- ($2.14 in chips) 
+Seat 5: harmony21 ($2.70 in chips) 
+Seat 6: DeennPL ($0.96 in chips) 
+jscialab: posts small blind $0.01
+vdvaart2k: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [As Kd]
+-Cr@zyChips-: raises $0.04 to $0.06
+harmony21: folds 
+DeennPL: folds 
+MeanderMusic: folds 
+jscialab: folds 
+vdvaart2k: folds 
+Uncalled bet ($0.04) returned to -Cr@zyChips-
+-Cr@zyChips- collected $0.05 from pot
+-Cr@zyChips-: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MeanderMusic (button) folded before Flop (didn't bet)
+Seat 2: jscialab (small blind) folded before Flop
+Seat 3: vdvaart2k (big blind) folded before Flop
+Seat 4: -Cr@zyChips- collected ($0.05)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: DeennPL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145255922640:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:25:28 ET
+Table 'Tethys II' 6-max Seat #2 is the button
+Seat 1: MeanderMusic ($0.64 in chips) 
+Seat 2: jscialab ($3.64 in chips) 
+Seat 3: vdvaart2k ($2 in chips) 
+Seat 4: -Cr@zyChips- ($2.17 in chips) 
+Seat 5: harmony21 ($2.70 in chips) 
+Seat 6: DeennPL ($0.96 in chips) 
+vdvaart2k: posts small blind $0.01
+-Cr@zyChips-: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [7h 6s]
+harmony21: raises $0.04 to $0.06
+DeennPL: folds 
+MeanderMusic: folds 
+jscialab: folds 
+vdvaart2k: folds 
+-Cr@zyChips-: folds 
+Uncalled bet ($0.04) returned to harmony21
+harmony21 collected $0.05 from pot
+harmony21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: MeanderMusic folded before Flop (didn't bet)
+Seat 2: jscialab (button) folded before Flop (didn't bet)
+Seat 3: vdvaart2k (small blind) folded before Flop
+Seat 4: -Cr@zyChips- (big blind) folded before Flop
+Seat 5: harmony21 collected ($0.05)
+Seat 6: DeennPL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145255937441:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:25:56 ET
+Table 'Tethys II' 6-max Seat #3 is the button
+Seat 1: MeanderMusic ($0.64 in chips) 
+Seat 2: jscialab ($3.64 in chips) 
+Seat 3: vdvaart2k ($2 in chips) 
+Seat 4: -Cr@zyChips- ($2.15 in chips) 
+Seat 5: harmony21 ($2.73 in chips) 
+Seat 6: DeennPL ($0.96 in chips) 
+-Cr@zyChips-: posts small blind $0.01
+harmony21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [5s Ah]
+DeennPL: folds 
+DeennPL leaves the table
+MeanderMusic: raises $0.04 to $0.06
+jscialab: calls $0.06
+vdvaart2k: folds 
+-Cr@zyChips-: folds 
+harmony21: folds 
+*** FLOP *** [5d Jc 2s]
+MeanderMusic: bets $0.06
+jscialab: calls $0.06
+*** TURN *** [5d Jc 2s] [4c]
+plavo polje joins the table at seat #6 
+MeanderMusic: bets $0.10
+jscialab: calls $0.10
+*** RIVER *** [5d Jc 2s 4c] [5c]
+MeanderMusic: bets $0.42 and is all-in
+jscialab: calls $0.42
+*** SHOW DOWN ***
+MeanderMusic: shows [3h Jh] (two pair, Jacks and Fives)
+jscialab: shows [Kc Jd] (two pair, Jacks and Fives - King kicker)
+jscialab collected $1.26 from pot
+*** SUMMARY ***
+Total pot $1.31 | Rake $0.05 
+Board [5d Jc 2s 4c 5c]
+Seat 1: MeanderMusic showed [3h Jh] and lost with two pair, Jacks and Fives
+Seat 2: jscialab showed [Kc Jd] and won ($1.26) with two pair, Jacks and Fives
+Seat 3: vdvaart2k (button) folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- (small blind) folded before Flop
+Seat 5: harmony21 (big blind) folded before Flop
+Seat 6: DeennPL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145255979176:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:27:14 ET
+Table 'Tethys II' 6-max Seat #4 is the button
+Seat 2: jscialab ($4.26 in chips) 
+Seat 3: vdvaart2k ($2 in chips) 
+Seat 4: -Cr@zyChips- ($2.14 in chips) 
+Seat 5: harmony21 ($2.71 in chips) 
+Seat 6: plavo polje ($1.60 in chips) 
+harmony21: posts small blind $0.01
+plavo polje: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Ac 3h]
+jscialab: folds 
+MeanderMusic leaves the table
+vdvaart2k: raises $0.04 to $0.06
+-Cr@zyChips-: folds 
+harmony21: folds 
+plavo polje: folds 
+Uncalled bet ($0.04) returned to vdvaart2k
+vdvaart2k collected $0.05 from pot
+vdvaart2k: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: vdvaart2k collected ($0.05)
+Seat 4: -Cr@zyChips- (button) folded before Flop (didn't bet)
+Seat 5: harmony21 (small blind) folded before Flop
+Seat 6: plavo polje (big blind) folded before Flop
+
+
+
+PokerStars Hand #145255990856:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:27:36 ET
+Table 'Tethys II' 6-max Seat #5 is the button
+Seat 2: jscialab ($4.26 in chips) 
+Seat 3: vdvaart2k ($2.03 in chips) 
+Seat 4: -Cr@zyChips- ($2.14 in chips) 
+Seat 5: harmony21 ($2.70 in chips) 
+Seat 6: plavo polje ($1.58 in chips) 
+plavo polje: posts small blind $0.01
+jscialab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Kh 5c]
+vdvaart2k: folds 
+-Cr@zyChips-: folds 
+harmony21: raises $0.04 to $0.06
+plavo polje: calls $0.05
+agnad333 joins the table at seat #1 
+jscialab: folds 
+*** FLOP *** [3d Ad 8d]
+plavo polje: checks 
+harmony21: bets $0.10
+plavo polje: calls $0.10
+*** TURN *** [3d Ad 8d] [Qs]
+plavo polje: bets $0.02
+harmony21: calls $0.02
+*** RIVER *** [3d Ad 8d Qs] [Td]
+plavo polje: bets $0.02
+harmony21: calls $0.02
+*** SHOW DOWN ***
+plavo polje: shows [Jc Ah] (a pair of Aces)
+harmony21: mucks hand 
+plavo polje collected $0.41 from pot
+*** SUMMARY ***
+Total pot $0.42 | Rake $0.01 
+Board [3d Ad 8d Qs Td]
+Seat 2: jscialab (big blind) folded before Flop
+Seat 3: vdvaart2k folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 (button) mucked [As 5h]
+Seat 6: plavo polje (small blind) showed [Jc Ah] and won ($0.41) with a pair of Aces
+
+
+
+PokerStars Hand #145256014022:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:28:20 ET
+Table 'Tethys II' 6-max Seat #6 is the button
+Seat 2: jscialab ($4.24 in chips) 
+Seat 3: vdvaart2k ($2.03 in chips) 
+Seat 4: -Cr@zyChips- ($2.14 in chips) 
+Seat 5: harmony21 ($2.50 in chips) 
+Seat 6: plavo polje ($1.79 in chips) 
+agnad333 will be allowed to play after the button
+jscialab: posts small blind $0.01
+vdvaart2k: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [5h 2s]
+-Cr@zyChips-: folds 
+harmony21: raises $0.04 to $0.06
+plavo polje: folds 
+jscialab: folds 
+vdvaart2k: raises $0.12 to $0.18
+harmony21: calls $0.12
+*** FLOP *** [Qs 8s Kh]
+vdvaart2k: bets $0.28
+harmony21: folds 
+Uncalled bet ($0.28) returned to vdvaart2k
+vdvaart2k collected $0.36 from pot
+vdvaart2k: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01 
+Board [Qs 8s Kh]
+Seat 2: jscialab (small blind) folded before Flop
+Seat 3: vdvaart2k (big blind) collected ($0.36)
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 folded on the Flop
+Seat 6: plavo polje (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256036858:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:29:02 ET
+Table 'Tethys II' 6-max Seat #2 is the button
+Seat 1: agnad333 ($1 in chips) 
+Seat 2: jscialab ($4.23 in chips) 
+Seat 3: vdvaart2k ($2.21 in chips) 
+Seat 4: -Cr@zyChips- ($2.14 in chips) 
+Seat 5: harmony21 ($2.32 in chips) 
+Seat 6: plavo polje ($1.79 in chips) 
+vdvaart2k: posts small blind $0.01
+-Cr@zyChips-: posts big blind $0.02
+agnad333: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Qs 4c]
+harmony21: folds 
+plavo polje: folds 
+agnad333: checks 
+jscialab: folds 
+vdvaart2k: folds 
+-Cr@zyChips-: checks 
+*** FLOP *** [8h 2c Qd]
+-Cr@zyChips-: bets $0.02
+agnad333: folds 
+Uncalled bet ($0.02) returned to -Cr@zyChips-
+-Cr@zyChips- collected $0.05 from pot
+-Cr@zyChips-: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8h 2c Qd]
+Seat 1: agnad333 folded on the Flop
+Seat 2: jscialab (button) folded before Flop (didn't bet)
+Seat 3: vdvaart2k (small blind) folded before Flop
+Seat 4: -Cr@zyChips- (big blind) collected ($0.05)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256050508:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:29:28 ET
+Table 'Tethys II' 6-max Seat #3 is the button
+Seat 1: agnad333 ($0.98 in chips) 
+Seat 2: jscialab ($4.23 in chips) 
+Seat 3: vdvaart2k ($2.20 in chips) 
+Seat 4: -Cr@zyChips- ($2.17 in chips) 
+Seat 5: harmony21 ($2.32 in chips) 
+Seat 6: plavo polje ($1.79 in chips) 
+-Cr@zyChips-: posts small blind $0.01
+harmony21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [3h 4h]
+plavo polje: folds 
+agnad333: calls $0.02
+jscialab: folds 
+vdvaart2k: raises $0.06 to $0.08
+-Cr@zyChips-: folds 
+harmony21: folds 
+agnad333: calls $0.06
+*** FLOP *** [3d 2h Kc]
+agnad333: bets $0.10
+vdvaart2k: calls $0.10
+*** TURN *** [3d 2h Kc] [Jh]
+agnad333: bets $0.20
+vdvaart2k: folds 
+Uncalled bet ($0.20) returned to agnad333
+agnad333 collected $0.38 from pot
+agnad333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.01 
+Board [3d 2h Kc Jh]
+Seat 1: agnad333 collected ($0.38)
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: vdvaart2k (button) folded on the Turn
+Seat 4: -Cr@zyChips- (small blind) folded before Flop
+Seat 5: harmony21 (big blind) folded before Flop
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256077298:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:30:18 ET
+Table 'Tethys II' 6-max Seat #4 is the button
+Seat 1: agnad333 ($1.18 in chips) 
+Seat 2: jscialab ($4.23 in chips) 
+Seat 3: vdvaart2k ($2.02 in chips) 
+Seat 4: -Cr@zyChips- ($2.16 in chips) 
+Seat 5: harmony21 ($2.30 in chips) 
+Seat 6: plavo polje ($1.79 in chips) 
+harmony21: posts small blind $0.01
+plavo polje: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [5c Ks]
+agnad333: calls $0.02
+jscialab: folds 
+vdvaart2k: folds 
+-Cr@zyChips-: folds 
+harmony21: folds 
+plavo polje: checks 
+*** FLOP *** [Kd Tc Ts]
+plavo polje: bets $0.02
+agnad333: raises $0.06 to $0.08
+plavo polje: folds 
+Uncalled bet ($0.06) returned to agnad333
+agnad333 collected $0.09 from pot
+agnad333: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.09 | Rake $0 
+Board [Kd Tc Ts]
+Seat 1: agnad333 collected ($0.09)
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: vdvaart2k folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- (button) folded before Flop (didn't bet)
+Seat 5: harmony21 (small blind) folded before Flop
+Seat 6: plavo polje (big blind) folded on the Flop
+
+
+
+PokerStars Hand #145256094790:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:30:51 ET
+Table 'Tethys II' 6-max Seat #5 is the button
+Seat 1: agnad333 ($1.23 in chips) 
+Seat 2: jscialab ($4.23 in chips) 
+Seat 3: vdvaart2k ($2.02 in chips) 
+Seat 4: -Cr@zyChips- ($2.16 in chips) 
+Seat 5: harmony21 ($2.29 in chips) 
+Seat 6: plavo polje ($1.75 in chips) 
+plavo polje: posts small blind $0.01
+agnad333: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [2h 4h]
+jscialab: folds 
+vdvaart2k: folds 
+-Cr@zyChips-: folds 
+harmony21: raises $0.04 to $0.06
+plavo polje: folds 
+agnad333: calls $0.04
+*** FLOP *** [Qs Kh 8c]
+agnad333: bets $0.06
+harmony21: raises $0.18 to $0.24
+agnad333: calls $0.18
+*** TURN *** [Qs Kh 8c] [Tc]
+agnad333: checks 
+harmony21: bets $0.50
+agnad333: calls $0.50
+*** RIVER *** [Qs Kh 8c Tc] [7c]
+agnad333: checks 
+harmony21: bets $0.77
+agnad333: folds 
+Uncalled bet ($0.77) returned to harmony21
+harmony21 collected $1.55 from pot
+harmony21: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.61 | Rake $0.06 
+Board [Qs Kh 8c Tc 7c]
+Seat 1: agnad333 (big blind) folded on the River
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: vdvaart2k folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 (button) collected ($1.55)
+Seat 6: plavo polje (small blind) folded before Flop
+
+
+
+PokerStars Hand #145256133489:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:32:04 ET
+Table 'Tethys II' 6-max Seat #6 is the button
+Seat 1: agnad333 ($0.43 in chips) 
+Seat 2: jscialab ($4.23 in chips) 
+Seat 3: vdvaart2k ($2.02 in chips) 
+Seat 4: -Cr@zyChips- ($2.16 in chips) 
+Seat 5: harmony21 ($3.04 in chips) 
+Seat 6: plavo polje ($1.74 in chips) 
+agnad333: posts small blind $0.01
+jscialab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Ad 4s]
+vdvaart2k: folds 
+-Cr@zyChips-: folds 
+harmony21: folds 
+plavo polje: calls $0.02
+agnad333: calls $0.01
+jscialab: checks 
+*** FLOP *** [Qc 9c Jh]
+agnad333: checks 
+jscialab: checks 
+plavo polje: checks 
+*** TURN *** [Qc 9c Jh] [6c]
+agnad333: checks 
+jscialab: checks 
+plavo polje: bets $0.04
+agnad333: calls $0.04
+jscialab: folds 
+*** RIVER *** [Qc 9c Jh 6c] [5d]
+agnad333: checks 
+plavo polje: bets $0.06
+agnad333: folds 
+Uncalled bet ($0.06) returned to plavo polje
+plavo polje collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Qc 9c Jh 6c 5d]
+Seat 1: agnad333 (small blind) folded on the River
+Seat 2: jscialab (big blind) folded on the Turn
+Seat 3: vdvaart2k folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje (button) collected ($0.14)
+
+
+
+PokerStars Hand #145256178298:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:33:29 ET
+Table 'Tethys II' 6-max Seat #1 is the button
+Seat 1: agnad333 ($0.37 in chips) 
+Seat 2: jscialab ($4.21 in chips) 
+Seat 3: vdvaart2k ($2.02 in chips) 
+Seat 4: -Cr@zyChips- ($2.16 in chips) 
+Seat 5: harmony21 ($3.04 in chips) 
+Seat 6: plavo polje ($1.82 in chips) 
+jscialab: posts small blind $0.01
+vdvaart2k: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [4h 4d]
+-Cr@zyChips-: raises $0.04 to $0.06
+harmony21: folds 
+plavo polje: folds 
+agnad333: folds 
+jscialab: calls $0.05
+vdvaart2k: folds 
+*** FLOP *** [Ts Qs 5d]
+jscialab: bets $0.10
+-Cr@zyChips-: folds 
+Uncalled bet ($0.10) returned to jscialab
+jscialab collected $0.14 from pot
+jscialab: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [Ts Qs 5d]
+Seat 1: agnad333 (button) folded before Flop (didn't bet)
+Seat 2: jscialab (small blind) collected ($0.14)
+Seat 3: vdvaart2k (big blind) folded before Flop
+Seat 4: -Cr@zyChips- folded on the Flop
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256201220:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:34:12 ET
+Table 'Tethys II' 6-max Seat #2 is the button
+Seat 1: agnad333 ($0.37 in chips) 
+Seat 2: jscialab ($4.29 in chips) 
+Seat 3: vdvaart2k ($2 in chips) 
+Seat 4: -Cr@zyChips- ($2.10 in chips) 
+Seat 5: harmony21 ($3.04 in chips) 
+Seat 6: plavo polje ($1.82 in chips) 
+vdvaart2k: posts small blind $0.01
+-Cr@zyChips-: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Ah 3h]
+harmony21: raises $0.04 to $0.06
+plavo polje: calls $0.06
+agnad333: folds 
+jscialab: folds 
+vdvaart2k: folds 
+-Cr@zyChips-: calls $0.04
+*** FLOP *** [Kc 9c Qd]
+-Cr@zyChips-: checks 
+harmony21: checks 
+plavo polje: checks 
+*** TURN *** [Kc 9c Qd] [5s]
+-Cr@zyChips-: checks 
+harmony21: checks 
+plavo polje: checks 
+*** RIVER *** [Kc 9c Qd 5s] [7d]
+-Cr@zyChips-: checks 
+harmony21: checks 
+plavo polje: checks 
+*** SHOW DOWN ***
+-Cr@zyChips-: shows [Ah 3h] (high card Ace)
+harmony21: shows [6h 6s] (a pair of Sixes)
+plavo polje: shows [Td Tc] (a pair of Tens)
+plavo polje collected $0.18 from pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [Kc 9c Qd 5s 7d]
+Seat 1: agnad333 folded before Flop (didn't bet)
+Seat 2: jscialab (button) folded before Flop (didn't bet)
+Seat 3: vdvaart2k (small blind) folded before Flop
+Seat 4: -Cr@zyChips- (big blind) showed [Ah 3h] and lost with high card Ace
+Seat 5: harmony21 showed [6h 6s] and lost with a pair of Sixes
+Seat 6: plavo polje showed [Td Tc] and won ($0.18) with a pair of Tens
+
+
+
+PokerStars Hand #145256221203:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:34:50 ET
+Table 'Tethys II' 6-max Seat #3 is the button
+Seat 1: agnad333 ($0.37 in chips) 
+Seat 2: jscialab ($4.29 in chips) 
+Seat 3: vdvaart2k ($2 in chips) 
+Seat 4: -Cr@zyChips- ($2.04 in chips) 
+Seat 5: harmony21 ($2.98 in chips) 
+Seat 6: plavo polje ($1.94 in chips) 
+-Cr@zyChips-: posts small blind $0.01
+harmony21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Ah 5h]
+plavo polje: folds 
+agnad333: folds 
+jscialab: folds 
+vdvaart2k: folds 
+-Cr@zyChips-: raises $0.02 to $0.04
+harmony21: folds 
+Uncalled bet ($0.02) returned to -Cr@zyChips-
+-Cr@zyChips- collected $0.04 from pot
+-Cr@zyChips-: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: agnad333 folded before Flop (didn't bet)
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: vdvaart2k (button) folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- (small blind) collected ($0.04)
+Seat 5: harmony21 (big blind) folded before Flop
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256237909:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:35:22 ET
+Table 'Tethys II' 6-max Seat #4 is the button
+Seat 1: agnad333 ($0.37 in chips) 
+Seat 2: jscialab ($4.29 in chips) 
+Seat 3: vdvaart2k ($2 in chips) 
+Seat 4: -Cr@zyChips- ($2.06 in chips) 
+Seat 5: harmony21 ($2.96 in chips) 
+Seat 6: plavo polje ($1.94 in chips) 
+harmony21: posts small blind $0.01
+plavo polje: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Tc Ad]
+agnad333: calls $0.02
+jscialab: folds 
+vdvaart2k: folds 
+-Cr@zyChips-: raises $0.04 to $0.06
+harmony21: folds 
+plavo polje: folds 
+agnad333: raises $0.31 to $0.37 and is all-in
+-Cr@zyChips-: calls $0.31
+*** FLOP *** [Th 7s Ks]
+*** TURN *** [Th 7s Ks] [6d]
+*** RIVER *** [Th 7s Ks 6d] [7c]
+*** SHOW DOWN ***
+agnad333: shows [As 2c] (a pair of Sevens)
+-Cr@zyChips-: shows [Tc Ad] (two pair, Tens and Sevens)
+-Cr@zyChips- collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [Th 7s Ks 6d 7c]
+Seat 1: agnad333 showed [As 2c] and lost with a pair of Sevens
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: vdvaart2k folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- (button) showed [Tc Ad] and won ($0.74) with two pair, Tens and Sevens
+Seat 5: harmony21 (small blind) folded before Flop
+Seat 6: plavo polje (big blind) folded before Flop
+
+
+
+PokerStars Hand #145256253273:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:35:51 ET
+Table 'Tethys II' 6-max Seat #5 is the button
+Seat 2: jscialab ($4.29 in chips) 
+Seat 3: vdvaart2k ($2 in chips) 
+Seat 4: -Cr@zyChips- ($2.43 in chips) 
+Seat 5: harmony21 ($2.95 in chips) 
+Seat 6: plavo polje ($1.92 in chips) 
+plavo polje: posts small blind $0.01
+jscialab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [2s 4c]
+vdvaart2k: folds 
+-Cr@zyChips-: folds 
+agnad333 leaves the table
+harmony21: folds 
+plavo polje: calls $0.01
+jscialab: checks 
+*** FLOP *** [Qd 2c 6d]
+plavo polje: checks 
+jscialab: checks 
+*** TURN *** [Qd 2c 6d] [5d]
+plavo polje: bets $0.02
+jscialab: folds 
+Uncalled bet ($0.02) returned to plavo polje
+plavo polje collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Qd 2c 6d 5d]
+Seat 2: jscialab (big blind) folded on the Turn
+Seat 3: vdvaart2k folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 (button) folded before Flop (didn't bet)
+Seat 6: plavo polje (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #145256271515:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:36:26 ET
+Table 'Tethys II' 6-max Seat #6 is the button
+Seat 2: jscialab ($4.27 in chips) 
+Seat 3: vdvaart2k ($2 in chips) 
+Seat 4: -Cr@zyChips- ($2.43 in chips) 
+Seat 5: harmony21 ($2.95 in chips) 
+Seat 6: plavo polje ($1.94 in chips) 
+jscialab: posts small blind $0.01
+vdvaart2k: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [3s Kc]
+-Cr@zyChips-: folds 
+harmony21: folds 
+plavo polje: folds 
+jscialab: raises $0.03 to $0.05
+vdvaart2k: folds 
+Uncalled bet ($0.03) returned to jscialab
+jscialab collected $0.04 from pot
+jscialab: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 2: jscialab (small blind) collected ($0.04)
+Seat 3: vdvaart2k (big blind) folded before Flop
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256277560:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:36:38 ET
+Table 'Tethys II' 6-max Seat #2 is the button
+Seat 2: jscialab ($4.29 in chips) 
+Seat 3: vdvaart2k ($2 in chips) 
+Seat 4: -Cr@zyChips- ($2.43 in chips) 
+Seat 5: harmony21 ($2.95 in chips) 
+Seat 6: plavo polje ($1.94 in chips) 
+vdvaart2k: posts small blind $0.01
+-Cr@zyChips-: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [4h Qc]
+harmony21: folds 
+plavo polje: folds 
+jscialab: folds 
+vdvaart2k: folds 
+Uncalled bet ($0.01) returned to -Cr@zyChips-
+-Cr@zyChips- collected $0.02 from pot
+-Cr@zyChips-: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: jscialab (button) folded before Flop (didn't bet)
+Seat 3: vdvaart2k (small blind) folded before Flop
+Seat 4: -Cr@zyChips- (big blind) collected ($0.02)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256283055:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:36:48 ET
+Table 'Tethys II' 6-max Seat #3 is the button
+Seat 2: jscialab ($4.29 in chips) 
+Seat 3: vdvaart2k ($2 in chips) 
+Seat 4: -Cr@zyChips- ($2.44 in chips) 
+Seat 5: harmony21 ($2.95 in chips) 
+Seat 6: plavo polje ($1.94 in chips) 
+-Cr@zyChips-: posts small blind $0.01
+harmony21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Ac 5h]
+plavo polje: folds 
+jscialab: folds 
+vdvaart2k: folds 
+-Cr@zyChips-: raises $0.04 to $0.06
+harmony21: calls $0.04
+*** FLOP *** [2s 3d Qc]
+-Cr@zyChips-: checks 
+harmony21: bets $0.09
+xavi_000 joins the table at seat #1 
+-Cr@zyChips-: folds 
+Uncalled bet ($0.09) returned to harmony21
+harmony21 collected $0.12 from pot
+harmony21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [2s 3d Qc]
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: vdvaart2k (button) folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- (small blind) folded on the Flop
+Seat 5: harmony21 (big blind) collected ($0.12)
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256306960:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:37:34 ET
+Table 'Tethys II' 6-max Seat #4 is the button
+Seat 2: jscialab ($4.29 in chips) 
+Seat 3: vdvaart2k ($2 in chips) 
+Seat 4: -Cr@zyChips- ($2.38 in chips) 
+Seat 5: harmony21 ($3.01 in chips) 
+Seat 6: plavo polje ($1.94 in chips) 
+harmony21: posts small blind $0.01
+plavo polje: posts big blind $0.02
+xavi_000: sits out 
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Tc 3s]
+jscialab: raises $0.04 to $0.06
+vdvaart2k: calls $0.06
+-Cr@zyChips-: folds 
+harmony21: folds 
+plavo polje: folds 
+*** FLOP *** [8d 6s Td]
+jscialab: bets $0.07
+vdvaart2k: folds 
+Uncalled bet ($0.07) returned to jscialab
+jscialab collected $0.14 from pot
+jscialab: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [8d 6s Td]
+Seat 2: jscialab collected ($0.14)
+Seat 3: vdvaart2k folded on the Flop
+Seat 4: -Cr@zyChips- (button) folded before Flop (didn't bet)
+Seat 5: harmony21 (small blind) folded before Flop
+Seat 6: plavo polje (big blind) folded before Flop
+
+
+
+PokerStars Hand #145256321534:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:38:02 ET
+Table 'Tethys II' 6-max Seat #5 is the button
+Seat 1: xavi_000 ($2 in chips) 
+Seat 2: jscialab ($4.37 in chips) 
+Seat 3: vdvaart2k ($2 in chips) 
+Seat 4: -Cr@zyChips- ($2.38 in chips) 
+Seat 5: harmony21 ($3 in chips) 
+Seat 6: plavo polje ($1.92 in chips) 
+plavo polje: posts small blind $0.01
+xavi_000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [9s 8d]
+jscialab: raises $0.04 to $0.06
+vdvaart2k: folds 
+vdvaart2k leaves the table
+-Cr@zyChips-: folds 
+harmony21: folds 
+plavo polje: folds 
+xavi_000: folds 
+Uncalled bet ($0.04) returned to jscialab
+jscialab collected $0.05 from pot
+jscialab: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: xavi_000 (big blind) folded before Flop
+Seat 2: jscialab collected ($0.05)
+Seat 3: vdvaart2k folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 (button) folded before Flop (didn't bet)
+Seat 6: plavo polje (small blind) folded before Flop
+
+
+
+PokerStars Hand #145256327391:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:38:13 ET
+Table 'Tethys II' 6-max Seat #6 is the button
+Seat 1: xavi_000 ($1.98 in chips) 
+Seat 2: jscialab ($4.40 in chips) 
+Seat 4: -Cr@zyChips- ($2.38 in chips) 
+Seat 5: harmony21 ($3 in chips) 
+Seat 6: plavo polje ($1.91 in chips) 
+xavi_000: posts small blind $0.01
+jscialab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [4s 5s]
+-Cr@zyChips-: raises $0.04 to $0.06
+harmony21: folds 
+plavo polje: folds 
+xavi_000: calls $0.05
+jscialab: folds 
+*** FLOP *** [8d 5c 7h]
+xavi_000: checks 
+-Cr@zyChips-: bets $0.08
+xavi_000: calls $0.08
+*** TURN *** [8d 5c 7h] [Js]
+TsidenovP joins the table at seat #3 
+xavi_000: checks 
+-Cr@zyChips-: checks 
+*** RIVER *** [8d 5c 7h Js] [5h]
+xavi_000: checks 
+-Cr@zyChips-: bets $0.16
+xavi_000: calls $0.16
+*** SHOW DOWN ***
+-Cr@zyChips-: shows [4s 5s] (three of a kind, Fives)
+xavi_000: mucks hand 
+-Cr@zyChips- collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.02 
+Board [8d 5c 7h Js 5h]
+Seat 1: xavi_000 (small blind) mucked [9h 8h]
+Seat 2: jscialab (big blind) folded before Flop
+Seat 4: -Cr@zyChips- showed [4s 5s] and won ($0.60) with three of a kind, Fives
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256367650:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:39:31 ET
+Table 'Tethys II' 6-max Seat #1 is the button
+Seat 1: xavi_000 ($1.68 in chips) 
+Seat 2: jscialab ($4.38 in chips) 
+Seat 3: TsidenovP ($0.80 in chips) 
+Seat 4: -Cr@zyChips- ($2.68 in chips) 
+Seat 5: harmony21 ($3 in chips) 
+Seat 6: plavo polje ($1.91 in chips) 
+jscialab: posts small blind $0.01
+TsidenovP: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [2d Ac]
+-Cr@zyChips-: folds 
+harmony21: folds 
+plavo polje: folds 
+xavi_000: folds 
+jscialab: raises $0.04 to $0.06
+TsidenovP: calls $0.04
+*** FLOP *** [8d 3c 3h]
+jscialab: bets $0.06
+TsidenovP: folds 
+Uncalled bet ($0.06) returned to jscialab
+jscialab collected $0.12 from pot
+jscialab: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [8d 3c 3h]
+Seat 1: xavi_000 (button) folded before Flop (didn't bet)
+Seat 2: jscialab (small blind) collected ($0.12)
+Seat 3: TsidenovP (big blind) folded on the Flop
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256382096:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:39:59 ET
+Table 'Tethys II' 6-max Seat #2 is the button
+Seat 1: xavi_000 ($1.68 in chips) 
+Seat 2: jscialab ($4.44 in chips) 
+Seat 3: TsidenovP ($0.74 in chips) 
+Seat 4: -Cr@zyChips- ($2.68 in chips) 
+Seat 5: harmony21 ($3 in chips) 
+Seat 6: plavo polje ($1.91 in chips) 
+TsidenovP: posts small blind $0.01
+-Cr@zyChips-: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [4c Qc]
+harmony21: folds 
+plavo polje: folds 
+xavi_000: calls $0.02
+jscialab: folds 
+TsidenovP: raises $0.04 to $0.06
+-Cr@zyChips-: folds 
+xavi_000: folds 
+Uncalled bet ($0.04) returned to TsidenovP
+TsidenovP collected $0.06 from pot
+TsidenovP: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Seat 1: xavi_000 folded before Flop
+Seat 2: jscialab (button) folded before Flop (didn't bet)
+Seat 3: TsidenovP (small blind) collected ($0.06)
+Seat 4: -Cr@zyChips- (big blind) folded before Flop
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256404025:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:40:41 ET
+Table 'Tethys II' 6-max Seat #3 is the button
+Seat 1: xavi_000 ($1.66 in chips) 
+Seat 2: jscialab ($4.44 in chips) 
+Seat 3: TsidenovP ($0.78 in chips) 
+Seat 4: -Cr@zyChips- ($2.66 in chips) 
+Seat 5: harmony21 ($3 in chips) 
+Seat 6: plavo polje ($1.91 in chips) 
+-Cr@zyChips-: posts small blind $0.01
+harmony21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [4c 3d]
+plavo polje: folds 
+xavi_000: folds 
+jscialab: raises $0.04 to $0.06
+TsidenovP: folds 
+-Cr@zyChips-: folds 
+harmony21: folds 
+Uncalled bet ($0.04) returned to jscialab
+jscialab collected $0.05 from pot
+jscialab: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: xavi_000 folded before Flop (didn't bet)
+Seat 2: jscialab collected ($0.05)
+Seat 3: TsidenovP (button) folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- (small blind) folded before Flop
+Seat 5: harmony21 (big blind) folded before Flop
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256415744:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:41:04 ET
+Table 'Tethys II' 6-max Seat #4 is the button
+Seat 1: xavi_000 ($1.66 in chips) 
+Seat 2: jscialab ($4.47 in chips) 
+Seat 3: TsidenovP ($0.78 in chips) 
+Seat 4: -Cr@zyChips- ($2.65 in chips) 
+Seat 5: harmony21 ($2.98 in chips) 
+Seat 6: plavo polje ($1.91 in chips) 
+harmony21: posts small blind $0.01
+plavo polje: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [9d 4d]
+xavi_000: folds 
+jscialab: raises $0.04 to $0.06
+TsidenovP: folds 
+-Cr@zyChips-: folds 
+harmony21: calls $0.05
+plavo polje: calls $0.04
+*** FLOP *** [Td 6d 4h]
+harmony21: checks 
+plavo polje: checks 
+jscialab: bets $0.08
+harmony21: raises $0.24 to $0.32
+plavo polje: folds 
+jscialab: folds 
+Uncalled bet ($0.24) returned to harmony21
+harmony21 collected $0.33 from pot
+harmony21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.34 | Rake $0.01 
+Board [Td 6d 4h]
+Seat 1: xavi_000 folded before Flop (didn't bet)
+Seat 2: jscialab folded on the Flop
+Seat 3: TsidenovP folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- (button) folded before Flop (didn't bet)
+Seat 5: harmony21 (small blind) collected ($0.33)
+Seat 6: plavo polje (big blind) folded on the Flop
+
+
+
+PokerStars Hand #145256453440:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:42:17 ET
+Table 'Tethys II' 6-max Seat #5 is the button
+Seat 1: xavi_000 ($1.66 in chips) 
+Seat 2: jscialab ($4.33 in chips) 
+Seat 3: TsidenovP ($0.78 in chips) 
+Seat 4: -Cr@zyChips- ($2.65 in chips) 
+Seat 5: harmony21 ($3.17 in chips) 
+Seat 6: plavo polje ($1.85 in chips) 
+plavo polje: posts small blind $0.01
+xavi_000: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [6h Qc]
+jscialab: folds 
+TsidenovP: calls $0.02
+-Cr@zyChips-: folds 
+harmony21: folds 
+plavo polje: calls $0.01
+xavi_000: checks 
+*** FLOP *** [3d 2c Tc]
+plavo polje: bets $0.02
+xavi_000: folds 
+TsidenovP: calls $0.02
+*** TURN *** [3d 2c Tc] [9c]
+plavo polje: bets $0.02
+TsidenovP: calls $0.02
+*** RIVER *** [3d 2c Tc 9c] [Jh]
+plavo polje: bets $0.02
+TsidenovP: folds 
+Uncalled bet ($0.02) returned to plavo polje
+plavo polje collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [3d 2c Tc 9c Jh]
+Seat 1: xavi_000 (big blind) folded on the Flop
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP folded on the River
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 (button) folded before Flop (didn't bet)
+Seat 6: plavo polje (small blind) collected ($0.14)
+
+
+
+PokerStars Hand #145256467810:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:42:45 ET
+Table 'Tethys II' 6-max Seat #6 is the button
+Seat 1: xavi_000 ($1.64 in chips) 
+Seat 2: jscialab ($4.33 in chips) 
+Seat 3: TsidenovP ($0.72 in chips) 
+Seat 4: -Cr@zyChips- ($2.65 in chips) 
+Seat 5: harmony21 ($3.17 in chips) 
+Seat 6: plavo polje ($1.93 in chips) 
+xavi_000: posts small blind $0.01
+jscialab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Kc 5c]
+TsidenovP: calls $0.02
+-Cr@zyChips-: folds 
+harmony21: raises $0.04 to $0.06
+plavo polje: folds 
+xavi_000: calls $0.05
+jscialab: folds 
+TsidenovP: calls $0.04
+*** FLOP *** [3s 4s 3h]
+xavi_000: checks 
+TsidenovP: bets $0.06
+harmony21: folds 
+xavi_000: folds 
+Uncalled bet ($0.06) returned to TsidenovP
+TsidenovP collected $0.19 from pot
+TsidenovP: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [3s 4s 3h]
+Seat 1: xavi_000 (small blind) folded on the Flop
+Seat 2: jscialab (big blind) folded before Flop
+Seat 3: TsidenovP collected ($0.19)
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 folded on the Flop
+Seat 6: plavo polje (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256484814:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:43:18 ET
+Table 'Tethys II' 6-max Seat #1 is the button
+Seat 1: xavi_000 ($1.58 in chips) 
+Seat 2: jscialab ($4.31 in chips) 
+Seat 3: TsidenovP ($0.85 in chips) 
+Seat 4: -Cr@zyChips- ($2.65 in chips) 
+Seat 5: harmony21 ($3.11 in chips) 
+Seat 6: plavo polje ($1.93 in chips) 
+jscialab: posts small blind $0.01
+TsidenovP: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Qs 2h]
+-Cr@zyChips-: folds 
+harmony21: folds 
+plavo polje: folds 
+xavi_000: folds 
+jscialab: raises $0.03 to $0.05
+TsidenovP: folds 
+Uncalled bet ($0.03) returned to jscialab
+jscialab collected $0.04 from pot
+jscialab: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: xavi_000 (button) folded before Flop (didn't bet)
+Seat 2: jscialab (small blind) collected ($0.04)
+Seat 3: TsidenovP (big blind) folded before Flop
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256493212:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:43:34 ET
+Table 'Tethys II' 6-max Seat #2 is the button
+Seat 1: xavi_000 ($1.58 in chips) 
+Seat 2: jscialab ($4.33 in chips) 
+Seat 3: TsidenovP ($0.83 in chips) 
+Seat 4: -Cr@zyChips- ($2.65 in chips) 
+Seat 5: harmony21 ($3.11 in chips) 
+Seat 6: plavo polje ($1.93 in chips) 
+TsidenovP: posts small blind $0.01
+-Cr@zyChips-: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [2c Jh]
+harmony21: folds 
+plavo polje: folds 
+xavi_000: calls $0.02
+jscialab: raises $0.06 to $0.08
+TsidenovP: folds 
+-Cr@zyChips-: folds 
+xavi_000: calls $0.06
+*** FLOP *** [4c 6s 3s]
+xavi_000: checks 
+jscialab: bets $0.09
+xavi_000: folds 
+Uncalled bet ($0.09) returned to jscialab
+jscialab collected $0.18 from pot
+jscialab: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01 
+Board [4c 6s 3s]
+Seat 1: xavi_000 folded on the Flop
+Seat 2: jscialab (button) collected ($0.18)
+Seat 3: TsidenovP (small blind) folded before Flop
+Seat 4: -Cr@zyChips- (big blind) folded before Flop
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256510791:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:44:09 ET
+Table 'Tethys II' 6-max Seat #3 is the button
+Seat 1: xavi_000 ($1.50 in chips) 
+Seat 2: jscialab ($4.43 in chips) 
+Seat 3: TsidenovP ($0.82 in chips) 
+Seat 4: -Cr@zyChips- ($2.63 in chips) 
+Seat 5: harmony21 ($3.11 in chips) 
+Seat 6: plavo polje ($1.93 in chips) 
+-Cr@zyChips-: posts small blind $0.01
+harmony21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Th Ac]
+plavo polje: calls $0.02
+xavi_000: calls $0.02
+jscialab: folds 
+TsidenovP: calls $0.02
+-Cr@zyChips-: raises $0.02 to $0.04
+harmony21: calls $0.02
+plavo polje: calls $0.02
+xavi_000: calls $0.02
+TsidenovP: calls $0.02
+*** FLOP *** [Ah 2s Ts]
+-Cr@zyChips-: bets $0.18
+harmony21: folds 
+plavo polje: folds 
+xavi_000: folds 
+TsidenovP: folds 
+Uncalled bet ($0.18) returned to -Cr@zyChips-
+-Cr@zyChips- collected $0.19 from pot
+-Cr@zyChips-: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Ah 2s Ts]
+Seat 1: xavi_000 folded on the Flop
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP (button) folded on the Flop
+Seat 4: -Cr@zyChips- (small blind) collected ($0.19)
+Seat 5: harmony21 (big blind) folded on the Flop
+Seat 6: plavo polje folded on the Flop
+
+
+
+PokerStars Hand #145256536216:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:44:59 ET
+Table 'Tethys II' 6-max Seat #4 is the button
+Seat 1: xavi_000 ($1.46 in chips) 
+Seat 2: jscialab ($4.43 in chips) 
+Seat 3: TsidenovP ($0.78 in chips) 
+Seat 4: -Cr@zyChips- ($2.78 in chips) 
+Seat 5: harmony21 ($3.07 in chips) 
+Seat 6: plavo polje ($1.89 in chips) 
+harmony21: posts small blind $0.01
+plavo polje: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [7c 4h]
+xavi_000: folds 
+jscialab: folds 
+TsidenovP: folds 
+xavi_000 leaves the table
+-Cr@zyChips-: folds 
+harmony21: raises $0.04 to $0.06
+plavo polje: folds 
+Uncalled bet ($0.04) returned to harmony21
+harmony21 collected $0.04 from pot
+harmony21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: xavi_000 folded before Flop (didn't bet)
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- (button) folded before Flop (didn't bet)
+Seat 5: harmony21 (small blind) collected ($0.04)
+Seat 6: plavo polje (big blind) folded before Flop
+
+
+
+PokerStars Hand #145256544050:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:45:15 ET
+Table 'Tethys II' 6-max Seat #5 is the button
+Seat 2: jscialab ($4.43 in chips) 
+Seat 3: TsidenovP ($0.78 in chips) 
+Seat 4: -Cr@zyChips- ($2.78 in chips) 
+Seat 5: harmony21 ($3.09 in chips) 
+Seat 6: plavo polje ($1.87 in chips) 
+plavo polje: posts small blind $0.01
+jscialab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Qd 3c]
+TsidenovP: folds 
+-Cr@zyChips-: folds 
+harmony21: folds 
+plavo polje: calls $0.01
+EVREY7470 joins the table at seat #1 
+jscialab: raises $0.04 to $0.06
+plavo polje: calls $0.04
+*** FLOP *** [9s 3h Js]
+plavo polje: bets $0.02
+jscialab: calls $0.02
+*** TURN *** [9s 3h Js] [7s]
+plavo polje: bets $0.02
+jscialab: folds 
+Uncalled bet ($0.02) returned to plavo polje
+plavo polje collected $0.15 from pot
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [9s 3h Js 7s]
+Seat 2: jscialab (big blind) folded on the Turn
+Seat 3: TsidenovP folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 (button) folded before Flop (didn't bet)
+Seat 6: plavo polje (small blind) collected ($0.15)
+
+
+
+PokerStars Hand #145256559535:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:45:45 ET
+Table 'Tethys II' 6-max Seat #6 is the button
+Seat 2: jscialab ($4.35 in chips) 
+Seat 3: TsidenovP ($0.78 in chips) 
+Seat 4: -Cr@zyChips- ($2.78 in chips) 
+Seat 5: harmony21 ($3.09 in chips) 
+Seat 6: plavo polje ($1.94 in chips) 
+EVREY7470 will be allowed to play after the button
+jscialab: posts small blind $0.01
+TsidenovP: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Ac 6c]
+-Cr@zyChips-: raises $0.04 to $0.06
+harmony21: folds 
+plavo polje: folds 
+jscialab: folds 
+TsidenovP: folds 
+Uncalled bet ($0.04) returned to -Cr@zyChips-
+-Cr@zyChips- collected $0.05 from pot
+-Cr@zyChips-: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 2: jscialab (small blind) folded before Flop
+Seat 3: TsidenovP (big blind) folded before Flop
+Seat 4: -Cr@zyChips- collected ($0.05)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256565925:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:45:58 ET
+Table 'Tethys II' 6-max Seat #2 is the button
+Seat 1: EVREY7470 ($0.80 in chips) 
+Seat 2: jscialab ($4.34 in chips) 
+Seat 3: TsidenovP ($0.76 in chips) 
+Seat 4: -Cr@zyChips- ($2.81 in chips) 
+Seat 5: harmony21 ($3.09 in chips) 
+Seat 6: plavo polje ($1.94 in chips) 
+TsidenovP: posts small blind $0.01
+-Cr@zyChips-: posts big blind $0.02
+EVREY7470: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Jc Td]
+harmony21: folds 
+plavo polje: folds 
+EVREY7470: checks 
+jscialab: folds 
+TsidenovP: raises $0.04 to $0.06
+-Cr@zyChips-: folds 
+EVREY7470: calls $0.04
+*** FLOP *** [7c Qh 2d]
+TsidenovP: bets $0.06
+EVREY7470: folds 
+Uncalled bet ($0.06) returned to TsidenovP
+TsidenovP collected $0.14 from pot
+TsidenovP: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [7c Qh 2d]
+Seat 1: EVREY7470 folded on the Flop
+Seat 2: jscialab (button) folded before Flop (didn't bet)
+Seat 3: TsidenovP (small blind) collected ($0.14)
+Seat 4: -Cr@zyChips- (big blind) folded before Flop
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256583464:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:46:33 ET
+Table 'Tethys II' 6-max Seat #3 is the button
+Seat 1: EVREY7470 ($0.74 in chips) 
+Seat 2: jscialab ($4.34 in chips) 
+Seat 3: TsidenovP ($0.84 in chips) 
+Seat 4: -Cr@zyChips- ($2.79 in chips) 
+Seat 5: harmony21 ($3.09 in chips) 
+Seat 6: plavo polje ($1.94 in chips) 
+-Cr@zyChips-: posts small blind $0.01
+harmony21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [2c 8c]
+plavo polje: folds 
+EVREY7470: folds 
+jscialab has timed out
+jscialab: folds 
+TsidenovP: calls $0.02
+-Cr@zyChips-: folds 
+harmony21: checks 
+*** FLOP *** [8s Js 5c]
+harmony21: checks 
+TsidenovP: bets $0.04
+harmony21: folds 
+Uncalled bet ($0.04) returned to TsidenovP
+TsidenovP collected $0.05 from pot
+TsidenovP: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [8s Js 5c]
+Seat 1: EVREY7470 folded before Flop (didn't bet)
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP (button) collected ($0.05)
+Seat 4: -Cr@zyChips- (small blind) folded before Flop
+Seat 5: harmony21 (big blind) folded on the Flop
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256606498:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:47:19 ET
+Table 'Tethys II' 6-max Seat #4 is the button
+Seat 1: EVREY7470 ($0.74 in chips) 
+Seat 2: jscialab ($4.34 in chips) 
+Seat 3: TsidenovP ($0.87 in chips) 
+Seat 4: -Cr@zyChips- ($2.78 in chips) 
+Seat 5: harmony21 ($3.07 in chips) 
+Seat 6: plavo polje ($1.94 in chips) 
+harmony21: posts small blind $0.01
+plavo polje: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [3s 4h]
+EVREY7470: folds 
+jscialab: folds 
+TsidenovP: calls $0.02
+-Cr@zyChips-: folds 
+harmony21: folds 
+plavo polje: checks 
+*** FLOP *** [Ac 7h Qh]
+plavo polje: bets $0.02
+TsidenovP: calls $0.02
+*** TURN *** [Ac 7h Qh] [3h]
+plavo polje: checks 
+TsidenovP: bets $0.04
+plavo polje: raises $0.04 to $0.08
+TsidenovP: calls $0.04
+*** RIVER *** [Ac 7h Qh 3h] [Jd]
+plavo polje: bets $0.12
+TsidenovP: calls $0.12
+*** SHOW DOWN ***
+plavo polje: shows [8h Th] (a flush, Queen high)
+TsidenovP: mucks hand 
+plavo polje collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Ac 7h Qh 3h Jd]
+Seat 1: EVREY7470 folded before Flop (didn't bet)
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP mucked [Ah 6c]
+Seat 4: -Cr@zyChips- (button) folded before Flop (didn't bet)
+Seat 5: harmony21 (small blind) folded before Flop
+Seat 6: plavo polje (big blind) showed [8h Th] and won ($0.47) with a flush, Queen high
+
+
+
+PokerStars Hand #145256634193:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:48:14 ET
+Table 'Tethys II' 6-max Seat #5 is the button
+Seat 1: EVREY7470 ($0.74 in chips) 
+Seat 2: jscialab ($4.34 in chips) 
+Seat 3: TsidenovP ($0.63 in chips) 
+Seat 4: -Cr@zyChips- ($2.78 in chips) 
+Seat 5: harmony21 ($3.06 in chips) 
+Seat 6: plavo polje ($2.17 in chips) 
+plavo polje: posts small blind $0.01
+EVREY7470: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [4h 7h]
+jscialab: folds 
+TsidenovP: folds 
+-Cr@zyChips-: folds 
+harmony21: folds 
+plavo polje: calls $0.01
+EVREY7470: checks 
+*** FLOP *** [Jd Ts Ad]
+plavo polje: bets $0.02
+EVREY7470: folds 
+Uncalled bet ($0.02) returned to plavo polje
+plavo polje collected $0.04 from pot
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Board [Jd Ts Ad]
+Seat 1: EVREY7470 (big blind) folded on the Flop
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 (button) folded before Flop (didn't bet)
+Seat 6: plavo polje (small blind) collected ($0.04)
+
+
+
+PokerStars Hand #145256654217:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:48:54 ET
+Table 'Tethys II' 6-max Seat #6 is the button
+Seat 1: EVREY7470 ($0.72 in chips) 
+Seat 2: jscialab ($4.34 in chips) 
+Seat 3: TsidenovP ($0.63 in chips) 
+Seat 4: -Cr@zyChips- ($2.78 in chips) 
+Seat 5: harmony21 ($3.06 in chips) 
+Seat 6: plavo polje ($2.19 in chips) 
+EVREY7470: posts small blind $0.01
+jscialab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [7h Kc]
+TsidenovP: folds 
+-Cr@zyChips-: folds 
+harmony21: folds 
+plavo polje: folds 
+EVREY7470: folds 
+Uncalled bet ($0.01) returned to jscialab
+jscialab collected $0.02 from pot
+jscialab: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: EVREY7470 (small blind) folded before Flop
+Seat 2: jscialab (big blind) collected ($0.02)
+Seat 3: TsidenovP folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256658573:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:49:02 ET
+Table 'Tethys II' 6-max Seat #1 is the button
+Seat 1: EVREY7470 ($0.71 in chips) 
+Seat 2: jscialab ($4.35 in chips) 
+Seat 3: TsidenovP ($0.63 in chips) 
+Seat 4: -Cr@zyChips- ($2.78 in chips) 
+Seat 5: harmony21 ($3.06 in chips) 
+Seat 6: plavo polje ($2.19 in chips) 
+jscialab: posts small blind $0.01
+TsidenovP: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [8c 8s]
+-Cr@zyChips-: raises $0.04 to $0.06
+harmony21: folds 
+plavo polje: folds 
+EVREY7470: calls $0.06
+jscialab: folds 
+TsidenovP: folds 
+*** FLOP *** [Qh Kc Qc]
+-Cr@zyChips-: bets $0.08
+EVREY7470: folds 
+Uncalled bet ($0.08) returned to -Cr@zyChips-
+-Cr@zyChips- collected $0.14 from pot
+-Cr@zyChips-: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [Qh Kc Qc]
+Seat 1: EVREY7470 (button) folded on the Flop
+Seat 2: jscialab (small blind) folded before Flop
+Seat 3: TsidenovP (big blind) folded before Flop
+Seat 4: -Cr@zyChips- collected ($0.14)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256684390:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:49:54 ET
+Table 'Tethys II' 6-max Seat #2 is the button
+Seat 1: EVREY7470 ($0.65 in chips) 
+Seat 2: jscialab ($4.34 in chips) 
+Seat 3: TsidenovP ($0.61 in chips) 
+Seat 4: -Cr@zyChips- ($2.86 in chips) 
+Seat 5: harmony21 ($3.06 in chips) 
+Seat 6: plavo polje ($2.19 in chips) 
+TsidenovP: posts small blind $0.01
+-Cr@zyChips-: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [4c As]
+harmony21: folds 
+plavo polje: calls $0.02
+EVREY7470: folds 
+jscialab: raises $0.04 to $0.06
+TsidenovP: calls $0.05
+-Cr@zyChips-: folds 
+plavo polje: calls $0.04
+*** FLOP *** [Qs Ah Ts]
+TsidenovP: checks 
+plavo polje: checks 
+jscialab: bets $0.10
+TsidenovP: folds 
+plavo polje: calls $0.10
+*** TURN *** [Qs Ah Ts] [4d]
+plavo polje: checks 
+jscialab: bets $0.19
+plavo polje: calls $0.19
+*** RIVER *** [Qs Ah Ts 4d] [4s]
+plavo polje: checks 
+jscialab: checks 
+*** SHOW DOWN ***
+plavo polje: shows [8c 8d] (two pair, Eights and Fours)
+jscialab: shows [5h Ac] (two pair, Aces and Fours)
+jscialab collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.78 | Rake $0.03 
+Board [Qs Ah Ts 4d 4s]
+Seat 1: EVREY7470 folded before Flop (didn't bet)
+Seat 2: jscialab (button) showed [5h Ac] and won ($0.75) with two pair, Aces and Fours
+Seat 3: TsidenovP (small blind) folded on the Flop
+Seat 4: -Cr@zyChips- (big blind) folded before Flop
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje showed [8c 8d] and lost with two pair, Eights and Fours
+
+
+
+PokerStars Hand #145256713631:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:50:52 ET
+Table 'Tethys II' 6-max Seat #3 is the button
+Seat 1: EVREY7470 ($0.65 in chips) 
+Seat 2: jscialab ($4.74 in chips) 
+Seat 3: TsidenovP ($0.55 in chips) 
+Seat 4: -Cr@zyChips- ($2.84 in chips) 
+Seat 5: harmony21 ($3.06 in chips) 
+Seat 6: plavo polje ($1.84 in chips) 
+-Cr@zyChips-: posts small blind $0.01
+harmony21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [7s Ac]
+plavo polje: calls $0.02
+EVREY7470: folds 
+jscialab: folds 
+TsidenovP: calls $0.02
+-Cr@zyChips-: folds 
+harmony21: checks 
+*** FLOP *** [5d Td 9s]
+harmony21: checks 
+plavo polje: bets $0.02
+TsidenovP: folds 
+harmony21: calls $0.02
+*** TURN *** [5d Td 9s] [5c]
+harmony21: checks 
+plavo polje: checks 
+*** RIVER *** [5d Td 9s 5c] [2h]
+harmony21: checks 
+plavo polje: bets $0.02
+harmony21: calls $0.02
+*** SHOW DOWN ***
+plavo polje: shows [Tc 6c] (two pair, Tens and Fives)
+harmony21: mucks hand 
+plavo polje collected $0.14 from pot
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [5d Td 9s 5c 2h]
+Seat 1: EVREY7470 folded before Flop (didn't bet)
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP (button) folded on the Flop
+Seat 4: -Cr@zyChips- (small blind) folded before Flop
+Seat 5: harmony21 (big blind) mucked [Ad 7d]
+Seat 6: plavo polje showed [Tc 6c] and won ($0.14) with two pair, Tens and Fives
+
+
+
+PokerStars Hand #145256736385:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:51:38 ET
+Table 'Tethys II' 6-max Seat #4 is the button
+Seat 1: EVREY7470 ($0.65 in chips) 
+Seat 2: jscialab ($4.74 in chips) 
+Seat 3: TsidenovP ($0.53 in chips) 
+Seat 4: -Cr@zyChips- ($2.83 in chips) 
+Seat 5: harmony21 ($3 in chips) 
+Seat 6: plavo polje ($1.92 in chips) 
+harmony21: posts small blind $0.01
+plavo polje: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Js Th]
+EVREY7470: calls $0.02
+jscialab: folds 
+TsidenovP: calls $0.02
+-Cr@zyChips-: folds 
+harmony21: calls $0.01
+plavo polje: checks 
+*** FLOP *** [Kh 4c 9d]
+harmony21: checks 
+plavo polje: checks 
+EVREY7470: checks 
+TsidenovP: checks 
+*** TURN *** [Kh 4c 9d] [Ks]
+harmony21: checks 
+plavo polje: checks 
+EVREY7470: checks 
+TsidenovP: checks 
+*** RIVER *** [Kh 4c 9d Ks] [9s]
+harmony21: checks 
+plavo polje: checks 
+EVREY7470: checks 
+TsidenovP: bets $0.04
+harmony21: folds 
+plavo polje: folds 
+EVREY7470: folds 
+Uncalled bet ($0.04) returned to TsidenovP
+TsidenovP collected $0.08 from pot
+TsidenovP: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Kh 4c 9d Ks 9s]
+Seat 1: EVREY7470 folded on the River
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP collected ($0.08)
+Seat 4: -Cr@zyChips- (button) folded before Flop (didn't bet)
+Seat 5: harmony21 (small blind) folded on the River
+Seat 6: plavo polje (big blind) folded on the River
+
+
+
+PokerStars Hand #145256767244:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:52:40 ET
+Table 'Tethys II' 6-max Seat #5 is the button
+Seat 1: EVREY7470 ($0.63 in chips) 
+Seat 2: jscialab ($4.74 in chips) 
+Seat 3: TsidenovP ($0.59 in chips) 
+Seat 4: -Cr@zyChips- ($2.83 in chips) 
+Seat 5: harmony21 ($2.98 in chips) 
+Seat 6: plavo polje ($1.90 in chips) 
+plavo polje: posts small blind $0.01
+EVREY7470: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Qc 9c]
+jscialab: folds 
+TsidenovP: calls $0.02
+-Cr@zyChips-: folds 
+harmony21: calls $0.02
+plavo polje: calls $0.01
+EVREY7470: checks 
+*** FLOP *** [4s Qs Td]
+plavo polje: checks 
+EVREY7470: bets $0.02
+TsidenovP: folds 
+harmony21: calls $0.02
+plavo polje: folds 
+*** TURN *** [4s Qs Td] [5c]
+EVREY7470: bets $0.02
+harmony21: calls $0.02
+*** RIVER *** [4s Qs Td 5c] [3s]
+EVREY7470: bets $0.06
+harmony21: folds 
+Uncalled bet ($0.06) returned to EVREY7470
+EVREY7470 collected $0.15 from pot
+EVREY7470: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.16 | Rake $0.01 
+Board [4s Qs Td 5c 3s]
+Seat 1: EVREY7470 (big blind) collected ($0.15)
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP folded on the Flop
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 (button) folded on the River
+Seat 6: plavo polje (small blind) folded on the Flop
+
+
+
+PokerStars Hand #145256796143:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:53:39 ET
+Table 'Tethys II' 6-max Seat #6 is the button
+Seat 1: EVREY7470 ($0.72 in chips) 
+Seat 2: jscialab ($4.74 in chips) 
+Seat 3: TsidenovP ($0.57 in chips) 
+Seat 4: -Cr@zyChips- ($2.83 in chips) 
+Seat 5: harmony21 ($2.92 in chips) 
+Seat 6: plavo polje ($1.88 in chips) 
+EVREY7470: posts small blind $0.01
+jscialab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [4c Th]
+TsidenovP: folds 
+-Cr@zyChips-: folds 
+harmony21: folds 
+plavo polje: folds 
+EVREY7470: folds 
+Uncalled bet ($0.01) returned to jscialab
+jscialab collected $0.02 from pot
+jscialab: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: EVREY7470 (small blind) folded before Flop
+Seat 2: jscialab (big blind) collected ($0.02)
+Seat 3: TsidenovP folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256807149:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:54:02 ET
+Table 'Tethys II' 6-max Seat #1 is the button
+Seat 1: EVREY7470 ($0.71 in chips) 
+Seat 2: jscialab ($4.75 in chips) 
+Seat 3: TsidenovP ($0.57 in chips) 
+Seat 4: -Cr@zyChips- ($2.83 in chips) 
+Seat 5: harmony21 ($2.92 in chips) 
+Seat 6: plavo polje ($1.88 in chips) 
+jscialab: posts small blind $0.01
+TsidenovP: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [5c 7h]
+-Cr@zyChips-: folds 
+harmony21: folds 
+plavo polje: folds 
+EVREY7470: calls $0.02
+jscialab: folds 
+TsidenovP: checks 
+*** FLOP *** [5d 7s Jc]
+TsidenovP: bets $0.02
+EVREY7470: calls $0.02
+*** TURN *** [5d 7s Jc] [Jh]
+TsidenovP: bets $0.02
+EVREY7470: raises $0.02 to $0.04
+TsidenovP: folds 
+Uncalled bet ($0.02) returned to EVREY7470
+EVREY7470 collected $0.13 from pot
+EVREY7470: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [5d 7s Jc Jh]
+Seat 1: EVREY7470 (button) collected ($0.13)
+Seat 2: jscialab (small blind) folded before Flop
+Seat 3: TsidenovP (big blind) folded on the Turn
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256833712:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:54:57 ET
+Table 'Tethys II' 6-max Seat #2 is the button
+Seat 1: EVREY7470 ($0.78 in chips) 
+Seat 2: jscialab ($4.74 in chips) 
+Seat 3: TsidenovP ($0.51 in chips) 
+Seat 4: -Cr@zyChips- ($2.83 in chips) 
+Seat 5: harmony21 ($2.92 in chips) 
+Seat 6: plavo polje ($1.88 in chips) 
+TsidenovP: posts small blind $0.01
+-Cr@zyChips-: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [9d Jd]
+harmony21: folds 
+plavo polje: folds 
+EVREY7470: folds 
+jscialab: raises $0.04 to $0.06
+TsidenovP: folds 
+-Cr@zyChips-: raises $0.12 to $0.18
+jscialab: folds 
+Uncalled bet ($0.12) returned to -Cr@zyChips-
+-Cr@zyChips- collected $0.13 from pot
+-Cr@zyChips-: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: EVREY7470 folded before Flop (didn't bet)
+Seat 2: jscialab (button) folded before Flop
+Seat 3: TsidenovP (small blind) folded before Flop
+Seat 4: -Cr@zyChips- (big blind) collected ($0.13)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256853362:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:55:41 ET
+Table 'Tethys II' 6-max Seat #3 is the button
+Seat 1: EVREY7470 ($0.78 in chips) 
+Seat 2: jscialab ($4.68 in chips) 
+Seat 3: TsidenovP ($0.50 in chips) 
+Seat 4: -Cr@zyChips- ($2.90 in chips) 
+Seat 5: harmony21 ($2.92 in chips) 
+Seat 6: plavo polje ($1.88 in chips) 
+-Cr@zyChips-: posts small blind $0.01
+harmony21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [5c 3s]
+plavo polje: calls $0.02
+EVREY7470: folds 
+jscialab: folds 
+TsidenovP: calls $0.02
+-Cr@zyChips-: folds 
+harmony21: checks 
+*** FLOP *** [3d Js Ad]
+harmony21: checks 
+plavo polje: checks 
+TsidenovP: checks 
+*** TURN *** [3d Js Ad] [Qd]
+harmony21: checks 
+plavo polje: bets $0.02
+TsidenovP: calls $0.02
+harmony21: folds 
+*** RIVER *** [3d Js Ad Qd] [7d]
+plavo polje: bets $0.02
+TsidenovP: folds 
+Uncalled bet ($0.02) returned to plavo polje
+plavo polje collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.11 | Rake $0 
+Board [3d Js Ad Qd 7d]
+Seat 1: EVREY7470 folded before Flop (didn't bet)
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP (button) folded on the River
+Seat 4: -Cr@zyChips- (small blind) folded before Flop
+Seat 5: harmony21 (big blind) folded on the Turn
+Seat 6: plavo polje collected ($0.11)
+
+
+
+PokerStars Hand #145256872573:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:56:28 ET
+Table 'Tethys II' 6-max Seat #4 is the button
+Seat 1: EVREY7470 ($0.78 in chips) 
+Seat 2: jscialab ($4.68 in chips) 
+Seat 3: TsidenovP ($0.46 in chips) 
+Seat 4: -Cr@zyChips- ($2.89 in chips) 
+Seat 5: harmony21 ($2.90 in chips) 
+Seat 6: plavo polje ($1.95 in chips) 
+harmony21: posts small blind $0.01
+plavo polje: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [9h Ks]
+EVREY7470: folds 
+jscialab: folds 
+TsidenovP: folds 
+-Cr@zyChips-: folds 
+harmony21: raises $0.02 to $0.04
+plavo polje: folds 
+Uncalled bet ($0.02) returned to harmony21
+harmony21 collected $0.04 from pot
+harmony21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: EVREY7470 folded before Flop (didn't bet)
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- (button) folded before Flop (didn't bet)
+Seat 5: harmony21 (small blind) collected ($0.04)
+Seat 6: plavo polje (big blind) folded before Flop
+
+
+
+PokerStars Hand #145256888222:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:57:05 ET
+Table 'Tethys II' 6-max Seat #5 is the button
+Seat 1: EVREY7470 ($0.78 in chips) 
+Seat 2: jscialab ($4.68 in chips) 
+Seat 3: TsidenovP ($0.46 in chips) 
+Seat 4: -Cr@zyChips- ($2.89 in chips) 
+Seat 5: harmony21 ($2.92 in chips) 
+Seat 6: plavo polje ($1.93 in chips) 
+plavo polje: posts small blind $0.01
+EVREY7470: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [4s Jd]
+jscialab: folds 
+TsidenovP: folds 
+-Cr@zyChips-: folds 
+harmony21: raises $0.04 to $0.06
+plavo polje: folds 
+EVREY7470: calls $0.04
+*** FLOP *** [3s 9s Qd]
+EVREY7470: bets $0.02
+harmony21: calls $0.02
+*** TURN *** [3s 9s Qd] [6c]
+EVREY7470: bets $0.02
+harmony21: calls $0.02
+*** RIVER *** [3s 9s Qd 6c] [8c]
+EVREY7470: checks 
+harmony21: checks 
+*** SHOW DOWN ***
+EVREY7470: shows [5d 3d] (a pair of Threes)
+harmony21: shows [8d As] (a pair of Eights)
+harmony21 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01 
+Board [3s 9s Qd 6c 8c]
+Seat 1: EVREY7470 (big blind) showed [5d 3d] and lost with a pair of Threes
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 (button) showed [8d As] and won ($0.20) with a pair of Eights
+Seat 6: plavo polje (small blind) folded before Flop
+
+
+
+PokerStars Hand #145256909213:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:57:55 ET
+Table 'Tethys II' 6-max Seat #6 is the button
+Seat 1: EVREY7470 ($0.68 in chips) 
+Seat 2: jscialab ($4.68 in chips) 
+Seat 3: TsidenovP ($0.46 in chips) 
+Seat 4: -Cr@zyChips- ($2.89 in chips) 
+Seat 5: harmony21 ($3.02 in chips) 
+Seat 6: plavo polje ($1.92 in chips) 
+EVREY7470: posts small blind $0.01
+jscialab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [As Kc]
+TsidenovP: folds 
+-Cr@zyChips-: raises $0.04 to $0.06
+harmony21: folds 
+plavo polje: folds 
+EVREY7470: calls $0.05
+jscialab: folds 
+*** FLOP *** [3h 5h Qs]
+EVREY7470: bets $0.02
+-Cr@zyChips-: raises $0.08 to $0.10
+EVREY7470: folds 
+Uncalled bet ($0.08) returned to -Cr@zyChips-
+-Cr@zyChips- collected $0.17 from pot
+-Cr@zyChips-: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [3h 5h Qs]
+Seat 1: EVREY7470 (small blind) folded on the Flop
+Seat 2: jscialab (big blind) folded before Flop
+Seat 3: TsidenovP folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- collected ($0.17)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256934069:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:58:55 ET
+Table 'Tethys II' 6-max Seat #1 is the button
+Seat 1: EVREY7470 ($0.60 in chips) 
+Seat 2: jscialab ($4.66 in chips) 
+Seat 3: TsidenovP ($0.46 in chips) 
+Seat 4: -Cr@zyChips- ($2.98 in chips) 
+Seat 5: harmony21 ($3.02 in chips) 
+Seat 6: plavo polje ($1.92 in chips) 
+jscialab: posts small blind $0.01
+TsidenovP: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [9d Qd]
+-Cr@zyChips-: folds 
+harmony21: folds 
+plavo polje: folds 
+EVREY7470: raises $0.02 to $0.04
+jscialab: folds 
+TsidenovP: folds 
+Uncalled bet ($0.02) returned to EVREY7470
+EVREY7470 collected $0.05 from pot
+EVREY7470: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: EVREY7470 (button) collected ($0.05)
+Seat 2: jscialab (small blind) folded before Flop
+Seat 3: TsidenovP (big blind) folded before Flop
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256946772:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 20:59:26 ET
+Table 'Tethys II' 6-max Seat #2 is the button
+Seat 1: EVREY7470 ($0.63 in chips) 
+Seat 2: jscialab ($4.65 in chips) 
+Seat 3: TsidenovP ($0.44 in chips) 
+Seat 4: -Cr@zyChips- ($2.98 in chips) 
+Seat 5: harmony21 ($3.02 in chips) 
+Seat 6: plavo polje ($1.92 in chips) 
+TsidenovP: posts small blind $0.01
+-Cr@zyChips-: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Ah 4h]
+harmony21: folds 
+plavo polje: calls $0.02
+EVREY7470: calls $0.02
+jscialab: folds 
+TsidenovP: calls $0.01
+-Cr@zyChips-: checks 
+*** FLOP *** [5s Th Tc]
+TsidenovP: checks 
+-Cr@zyChips-: checks 
+plavo polje: checks 
+EVREY7470: checks 
+*** TURN *** [5s Th Tc] [3h]
+TsidenovP: checks 
+-Cr@zyChips-: bets $0.04
+plavo polje: calls $0.04
+EVREY7470: folds 
+TsidenovP: calls $0.04
+*** RIVER *** [5s Th Tc 3h] [Kc]
+TsidenovP: checks 
+-Cr@zyChips-: checks 
+plavo polje: bets $0.16
+TsidenovP: folds 
+-Cr@zyChips-: folds 
+Uncalled bet ($0.16) returned to plavo polje
+plavo polje collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [5s Th Tc 3h Kc]
+Seat 1: EVREY7470 folded on the Turn
+Seat 2: jscialab (button) folded before Flop (didn't bet)
+Seat 3: TsidenovP (small blind) folded on the River
+Seat 4: -Cr@zyChips- (big blind) folded on the River
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje collected ($0.19)
+
+
+
+PokerStars Hand #145256981670:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:00:45 ET
+Table 'Tethys II' 6-max Seat #3 is the button
+Seat 1: EVREY7470 ($0.61 in chips) 
+Seat 2: jscialab ($4.65 in chips) 
+Seat 3: TsidenovP ($0.38 in chips) 
+Seat 4: -Cr@zyChips- ($2.92 in chips) 
+Seat 5: harmony21 ($3.02 in chips) 
+Seat 6: plavo polje ($2.05 in chips) 
+-Cr@zyChips-: posts small blind $0.01
+harmony21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [4h 9c]
+plavo polje: folds 
+EVREY7470: folds 
+jscialab: folds 
+TsidenovP: raises $0.02 to $0.04
+-Cr@zyChips-: folds 
+harmony21: folds 
+Uncalled bet ($0.02) returned to TsidenovP
+TsidenovP collected $0.05 from pot
+TsidenovP: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: EVREY7470 folded before Flop (didn't bet)
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP (button) collected ($0.05)
+Seat 4: -Cr@zyChips- (small blind) folded before Flop
+Seat 5: harmony21 (big blind) folded before Flop
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145256993761:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:01:13 ET
+Table 'Tethys II' 6-max Seat #4 is the button
+Seat 1: EVREY7470 ($0.61 in chips) 
+Seat 2: jscialab ($4.65 in chips) 
+Seat 3: TsidenovP ($0.41 in chips) 
+Seat 4: -Cr@zyChips- ($2.91 in chips) 
+Seat 5: harmony21 ($3 in chips) 
+Seat 6: plavo polje ($2.05 in chips) 
+harmony21: posts small blind $0.01
+plavo polje: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [9s As]
+EVREY7470: calls $0.02
+jscialab: raises $0.06 to $0.08
+TsidenovP: calls $0.08
+-Cr@zyChips-: calls $0.08
+harmony21: folds 
+plavo polje: folds 
+EVREY7470: calls $0.06
+*** FLOP *** [8d Ks Kc]
+EVREY7470: bets $0.02
+jscialab: folds 
+TsidenovP: calls $0.02
+-Cr@zyChips-: raises $0.08 to $0.10
+EVREY7470: folds 
+TsidenovP: folds 
+Uncalled bet ($0.08) returned to -Cr@zyChips-
+-Cr@zyChips- collected $0.40 from pot
+-Cr@zyChips-: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [8d Ks Kc]
+Seat 1: EVREY7470 folded on the Flop
+Seat 2: jscialab folded on the Flop
+Seat 3: TsidenovP folded on the Flop
+Seat 4: -Cr@zyChips- (button) collected ($0.40)
+Seat 5: harmony21 (small blind) folded before Flop
+Seat 6: plavo polje (big blind) folded before Flop
+
+
+
+PokerStars Hand #145257020265:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:02:08 ET
+Table 'Tethys II' 6-max Seat #5 is the button
+Seat 1: EVREY7470 ($0.51 in chips) 
+Seat 2: jscialab ($4.57 in chips) 
+Seat 3: TsidenovP ($0.31 in chips) 
+Seat 4: -Cr@zyChips- ($3.21 in chips) 
+Seat 5: harmony21 ($2.99 in chips) 
+Seat 6: plavo polje ($2.03 in chips) 
+plavo polje: posts small blind $0.01
+EVREY7470: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Jh Ts]
+jscialab: folds 
+TsidenovP: raises $0.02 to $0.04
+-Cr@zyChips-: folds 
+harmony21: folds 
+plavo polje: calls $0.03
+EVREY7470: calls $0.02
+*** FLOP *** [9c 7s 3d]
+plavo polje: checks 
+EVREY7470: checks 
+TsidenovP: bets $0.06
+plavo polje: folds 
+EVREY7470: calls $0.06
+*** TURN *** [9c 7s 3d] [9s]
+EVREY7470: checks 
+TsidenovP: bets $0.08
+EVREY7470: folds 
+Uncalled bet ($0.08) returned to TsidenovP
+TsidenovP collected $0.23 from pot
+TsidenovP: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [9c 7s 3d 9s]
+Seat 1: EVREY7470 (big blind) folded on the Turn
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP collected ($0.23)
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 (button) folded before Flop (didn't bet)
+Seat 6: plavo polje (small blind) folded on the Flop
+
+
+
+PokerStars Hand #145257039087:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:02:47 ET
+Table 'Tethys II' 6-max Seat #6 is the button
+Seat 1: EVREY7470 ($0.41 in chips) 
+Seat 2: jscialab ($4.57 in chips) 
+Seat 3: TsidenovP ($0.44 in chips) 
+Seat 4: -Cr@zyChips- ($3.21 in chips) 
+Seat 5: harmony21 ($2.99 in chips) 
+Seat 6: plavo polje ($1.99 in chips) 
+EVREY7470: posts small blind $0.01
+jscialab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [5d 6s]
+TsidenovP: calls $0.02
+-Cr@zyChips-: folds 
+harmony21: raises $0.04 to $0.06
+plavo polje: folds 
+EVREY7470: folds 
+jscialab: folds 
+TsidenovP: calls $0.04
+*** FLOP *** [4d 7d 4s]
+TsidenovP: checks 
+harmony21: bets $0.10
+TsidenovP: folds 
+Uncalled bet ($0.10) returned to harmony21
+harmony21 collected $0.14 from pot
+harmony21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.15 | Rake $0.01 
+Board [4d 7d 4s]
+Seat 1: EVREY7470 (small blind) folded before Flop
+Seat 2: jscialab (big blind) folded before Flop
+Seat 3: TsidenovP folded on the Flop
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 collected ($0.14)
+Seat 6: plavo polje (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145257062835:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:03:36 ET
+Table 'Tethys II' 6-max Seat #1 is the button
+Seat 1: EVREY7470 ($0.40 in chips) 
+Seat 2: jscialab ($4.55 in chips) 
+Seat 3: TsidenovP ($0.38 in chips) 
+Seat 4: -Cr@zyChips- ($3.21 in chips) 
+Seat 5: harmony21 ($3.07 in chips) 
+Seat 6: plavo polje ($1.99 in chips) 
+jscialab: posts small blind $0.01
+TsidenovP: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Jc 3s]
+-Cr@zyChips-: folds 
+harmony21: raises $0.04 to $0.06
+plavo polje: folds 
+EVREY7470: calls $0.06
+jscialab: folds 
+TsidenovP: folds 
+*** FLOP *** [Ac Ah Kd]
+harmony21: bets $0.07
+EVREY7470: calls $0.07
+*** TURN *** [Ac Ah Kd] [7d]
+harmony21: checks 
+EVREY7470: bets $0.02
+harmony21: calls $0.02
+*** RIVER *** [Ac Ah Kd 7d] [4d]
+harmony21: checks 
+EVREY7470: bets $0.25 and is all-in
+harmony21: folds 
+Uncalled bet ($0.25) returned to EVREY7470
+EVREY7470 collected $0.32 from pot
+EVREY7470: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.33 | Rake $0.01 
+Board [Ac Ah Kd 7d 4d]
+Seat 1: EVREY7470 (button) collected ($0.32)
+Seat 2: jscialab (small blind) folded before Flop
+Seat 3: TsidenovP (big blind) folded before Flop
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 folded on the River
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145257097547:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:04:48 ET
+Table 'Tethys II' 6-max Seat #2 is the button
+Seat 1: EVREY7470 ($0.57 in chips) 
+Seat 2: jscialab ($4.54 in chips) 
+Seat 3: TsidenovP ($0.36 in chips) 
+Seat 4: -Cr@zyChips- ($3.21 in chips) 
+Seat 5: harmony21 ($2.92 in chips) 
+Seat 6: plavo polje ($1.99 in chips) 
+TsidenovP: posts small blind $0.01
+-Cr@zyChips-: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Jc Tc]
+harmony21: folds 
+plavo polje: folds 
+EVREY7470: folds 
+jscialab: raises $0.04 to $0.06
+TsidenovP: folds 
+-Cr@zyChips-: raises $0.12 to $0.18
+jscialab: folds 
+Uncalled bet ($0.12) returned to -Cr@zyChips-
+-Cr@zyChips- collected $0.13 from pot
+-Cr@zyChips-: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Seat 1: EVREY7470 folded before Flop (didn't bet)
+Seat 2: jscialab (button) folded before Flop
+Seat 3: TsidenovP (small blind) folded before Flop
+Seat 4: -Cr@zyChips- (big blind) collected ($0.13)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145257112503:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:05:19 ET
+Table 'Tethys II' 6-max Seat #3 is the button
+Seat 1: EVREY7470 ($0.57 in chips) 
+Seat 2: jscialab ($4.48 in chips) 
+Seat 3: TsidenovP ($0.35 in chips) 
+Seat 4: -Cr@zyChips- ($3.28 in chips) 
+Seat 5: harmony21 ($2.92 in chips) 
+Seat 6: plavo polje ($1.99 in chips) 
+-Cr@zyChips-: posts small blind $0.01
+harmony21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Kd Ac]
+plavo polje: folds 
+EVREY7470: folds 
+jscialab: raises $0.04 to $0.06
+TsidenovP: folds 
+-Cr@zyChips-: calls $0.05
+harmony21: calls $0.04
+*** FLOP *** [4d 5d 2h]
+-Cr@zyChips-: bets $0.08
+harmony21: calls $0.08
+jscialab: calls $0.08
+*** TURN *** [4d 5d 2h] [Ah]
+-Cr@zyChips-: bets $0.24
+harmony21: calls $0.24
+jscialab: folds 
+*** RIVER *** [4d 5d 2h Ah] [2c]
+-Cr@zyChips-: checks 
+harmony21: checks 
+*** SHOW DOWN ***
+-Cr@zyChips-: shows [Kd Ac] (two pair, Aces and Deuces)
+harmony21: mucks hand 
+-Cr@zyChips- collected $0.87 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.03 
+Board [4d 5d 2h Ah 2c]
+Seat 1: EVREY7470 folded before Flop (didn't bet)
+Seat 2: jscialab folded on the Turn
+Seat 3: TsidenovP (button) folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- (small blind) showed [Kd Ac] and won ($0.87) with two pair, Aces and Deuces
+Seat 5: harmony21 (big blind) mucked [Ad Jh]
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145257145548:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:06:27 ET
+Table 'Tethys II' 6-max Seat #4 is the button
+Seat 1: EVREY7470 ($0.57 in chips) 
+Seat 2: jscialab ($4.34 in chips) 
+Seat 3: TsidenovP ($0.35 in chips) 
+Seat 4: -Cr@zyChips- ($3.77 in chips) 
+Seat 5: harmony21 ($2.54 in chips) 
+Seat 6: plavo polje ($1.99 in chips) 
+harmony21: posts small blind $0.01
+plavo polje: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [4d 2d]
+EVREY7470: calls $0.02
+jscialab: folds 
+TsidenovP: calls $0.02
+-Cr@zyChips-: folds 
+harmony21: calls $0.01
+plavo polje: checks 
+*** FLOP *** [5d Ah Ad]
+harmony21: checks 
+plavo polje: checks 
+EVREY7470: checks 
+TsidenovP: checks 
+*** TURN *** [5d Ah Ad] [3h]
+harmony21: checks 
+plavo polje: checks 
+EVREY7470: checks 
+TsidenovP: checks 
+*** RIVER *** [5d Ah Ad 3h] [Ks]
+harmony21: checks 
+plavo polje: checks 
+EVREY7470: bets $0.04
+TsidenovP: raises $0.04 to $0.08
+harmony21: folds 
+plavo polje: folds 
+EVREY7470: calls $0.04
+*** SHOW DOWN ***
+TsidenovP: shows [Ac 5s] (a full house, Aces full of Fives)
+EVREY7470: mucks hand 
+TsidenovP collected $0.23 from pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01 
+Board [5d Ah Ad 3h Ks]
+Seat 1: EVREY7470 mucked [7c Kh]
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP showed [Ac 5s] and won ($0.23) with a full house, Aces full of Fives
+Seat 4: -Cr@zyChips- (button) folded before Flop (didn't bet)
+Seat 5: harmony21 (small blind) folded on the River
+Seat 6: plavo polje (big blind) folded on the River
+
+
+
+PokerStars Hand #145257186493:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:07:53 ET
+Table 'Tethys II' 6-max Seat #5 is the button
+Seat 1: EVREY7470 ($0.47 in chips) 
+Seat 2: jscialab ($4.34 in chips) 
+Seat 3: TsidenovP ($0.48 in chips) 
+Seat 4: -Cr@zyChips- ($3.77 in chips) 
+Seat 5: harmony21 ($2.52 in chips) 
+Seat 6: plavo polje ($1.97 in chips) 
+plavo polje: posts small blind $0.01
+EVREY7470: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [4d 7c]
+jscialab: folds 
+TsidenovP: calls $0.02
+-Cr@zyChips-: folds 
+harmony21: folds 
+plavo polje: calls $0.01
+EVREY7470: checks 
+*** FLOP *** [Kh 5s Ac]
+plavo polje: checks 
+EVREY7470: checks 
+TsidenovP: checks 
+*** TURN *** [Kh 5s Ac] [7h]
+plavo polje: checks 
+EVREY7470: checks 
+TsidenovP: bets $0.04
+plavo polje: folds 
+EVREY7470: calls $0.04
+*** RIVER *** [Kh 5s Ac 7h] [Kc]
+EVREY7470: bets $0.02
+TsidenovP: calls $0.02
+*** SHOW DOWN ***
+EVREY7470: shows [2h 7s] (two pair, Kings and Sevens)
+TsidenovP: shows [Ad Qc] (two pair, Aces and Kings)
+TsidenovP collected $0.17 from pot
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [Kh 5s Ac 7h Kc]
+Seat 1: EVREY7470 (big blind) showed [2h 7s] and lost with two pair, Kings and Sevens
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP showed [Ad Qc] and won ($0.17) with two pair, Aces and Kings
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 (button) folded before Flop (didn't bet)
+Seat 6: plavo polje (small blind) folded on the Turn
+
+
+
+PokerStars Hand #145257209497:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:08:41 ET
+Table 'Tethys II' 6-max Seat #6 is the button
+Seat 1: EVREY7470 ($0.39 in chips) 
+Seat 2: jscialab ($4.34 in chips) 
+Seat 3: TsidenovP ($0.57 in chips) 
+Seat 4: -Cr@zyChips- ($3.77 in chips) 
+Seat 5: harmony21 ($2.52 in chips) 
+Seat 6: plavo polje ($1.95 in chips) 
+EVREY7470: posts small blind $0.01
+jscialab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [5c Jd]
+TsidenovP: folds 
+-Cr@zyChips-: folds 
+harmony21: folds 
+plavo polje: calls $0.02
+EVREY7470: calls $0.01
+jscialab: checks 
+*** FLOP *** [Qc 7s 8h]
+EVREY7470: checks 
+jscialab: checks 
+plavo polje: checks 
+*** TURN *** [Qc 7s 8h] [6d]
+EVREY7470: bets $0.02
+jscialab: calls $0.02
+plavo polje: calls $0.02
+*** RIVER *** [Qc 7s 8h 6d] [4d]
+EVREY7470: checks 
+jscialab: checks 
+plavo polje: checks 
+*** SHOW DOWN ***
+EVREY7470: shows [2s 9h] (high card Queen)
+jscialab: shows [Ks 7d] (a pair of Sevens)
+plavo polje: mucks hand 
+jscialab collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.12 | Rake $0 
+Board [Qc 7s 8h 6d 4d]
+Seat 1: EVREY7470 (small blind) showed [2s 9h] and lost with high card Queen
+Seat 2: jscialab (big blind) showed [Ks 7d] and won ($0.12) with a pair of Sevens
+Seat 3: TsidenovP folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje (button) mucked [Kd 9s]
+
+
+
+PokerStars Hand #145257257022:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:10:20 ET
+Table 'Tethys II' 6-max Seat #1 is the button
+Seat 1: EVREY7470 ($0.35 in chips) 
+Seat 2: jscialab ($4.42 in chips) 
+Seat 3: TsidenovP ($0.57 in chips) 
+Seat 4: -Cr@zyChips- ($3.77 in chips) 
+Seat 5: harmony21 ($2.52 in chips) 
+Seat 6: plavo polje ($1.91 in chips) 
+jscialab: posts small blind $0.01
+TsidenovP: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [8s Kd]
+-Cr@zyChips-: folds 
+harmony21: raises $0.04 to $0.06
+plavo polje: folds 
+EVREY7470: folds 
+jscialab: folds 
+TsidenovP: calls $0.04
+*** FLOP *** [6s 3d 9c]
+TsidenovP: checks 
+harmony21: checks 
+*** TURN *** [6s 3d 9c] [2h]
+TsidenovP: checks 
+harmony21: checks 
+*** RIVER *** [6s 3d 9c 2h] [8h]
+TsidenovP: checks 
+harmony21: checks 
+*** SHOW DOWN ***
+TsidenovP: shows [Ts Qh] (high card Queen)
+harmony21: shows [Js Ad] (high card Ace)
+harmony21 collected $0.13 from pot
+*** SUMMARY ***
+Total pot $0.13 | Rake $0 
+Board [6s 3d 9c 2h 8h]
+Seat 1: EVREY7470 (button) folded before Flop (didn't bet)
+Seat 2: jscialab (small blind) folded before Flop
+Seat 3: TsidenovP (big blind) showed [Ts Qh] and lost with high card Queen
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 showed [Js Ad] and won ($0.13) with high card Ace
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145257287816:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:11:26 ET
+Table 'Tethys II' 6-max Seat #2 is the button
+Seat 1: EVREY7470 ($0.35 in chips) 
+Seat 2: jscialab ($4.41 in chips) 
+Seat 3: TsidenovP ($0.51 in chips) 
+Seat 4: -Cr@zyChips- ($3.77 in chips) 
+Seat 5: harmony21 ($2.59 in chips) 
+Seat 6: plavo polje ($1.91 in chips) 
+TsidenovP: posts small blind $0.01
+-Cr@zyChips-: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [3s Jh]
+harmony21: folds 
+plavo polje: folds 
+EVREY7470: calls $0.02
+jscialab: raises $0.04 to $0.06
+TsidenovP: calls $0.05
+-Cr@zyChips-: folds 
+EVREY7470: calls $0.04
+*** FLOP *** [Qc Kh Kd]
+TsidenovP: checks 
+EVREY7470: checks 
+jscialab: checks 
+*** TURN *** [Qc Kh Kd] [6h]
+TsidenovP: bets $0.06
+EVREY7470: folds 
+jscialab: folds 
+Uncalled bet ($0.06) returned to TsidenovP
+TsidenovP collected $0.19 from pot
+TsidenovP: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Qc Kh Kd 6h]
+Seat 1: EVREY7470 folded on the Turn
+Seat 2: jscialab (button) folded on the Turn
+Seat 3: TsidenovP (small blind) collected ($0.19)
+Seat 4: -Cr@zyChips- (big blind) folded before Flop
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145257317750:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:12:30 ET
+Table 'Tethys II' 6-max Seat #3 is the button
+Seat 1: EVREY7470 ($0.29 in chips) 
+Seat 2: jscialab ($4.35 in chips) 
+Seat 3: TsidenovP ($0.64 in chips) 
+Seat 4: -Cr@zyChips- ($3.75 in chips) 
+Seat 5: harmony21 ($2.59 in chips) 
+Seat 6: plavo polje ($1.91 in chips) 
+-Cr@zyChips-: posts small blind $0.01
+harmony21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [7h Kh]
+plavo polje: folds 
+EVREY7470: folds 
+jscialab: folds 
+TsidenovP: folds 
+-Cr@zyChips-: raises $0.04 to $0.06
+harmony21: folds 
+Uncalled bet ($0.04) returned to -Cr@zyChips-
+-Cr@zyChips- collected $0.04 from pot
+-Cr@zyChips-: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: EVREY7470 folded before Flop (didn't bet)
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP (button) folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- (small blind) collected ($0.04)
+Seat 5: harmony21 (big blind) folded before Flop
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145257324683:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:12:45 ET
+Table 'Tethys II' 6-max Seat #4 is the button
+Seat 1: EVREY7470 ($0.29 in chips) 
+Seat 2: jscialab ($4.35 in chips) 
+Seat 3: TsidenovP ($0.64 in chips) 
+Seat 4: -Cr@zyChips- ($3.77 in chips) 
+Seat 5: harmony21 ($2.57 in chips) 
+Seat 6: plavo polje ($1.91 in chips) 
+harmony21: posts small blind $0.01
+plavo polje: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [2c 3h]
+EVREY7470: calls $0.02
+jscialab: folds 
+TsidenovP: calls $0.02
+-Cr@zyChips-: folds 
+harmony21: calls $0.01
+plavo polje: checks 
+*** FLOP *** [Ad 2h 9s]
+harmony21: checks 
+plavo polje: checks 
+EVREY7470: checks 
+TsidenovP: checks 
+*** TURN *** [Ad 2h 9s] [4s]
+harmony21: bets $0.06
+plavo polje: folds 
+EVREY7470: folds 
+TsidenovP: folds 
+Uncalled bet ($0.06) returned to harmony21
+harmony21 collected $0.08 from pot
+harmony21: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.08 | Rake $0 
+Board [Ad 2h 9s 4s]
+Seat 1: EVREY7470 folded on the Turn
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP folded on the Turn
+Seat 4: -Cr@zyChips- (button) folded before Flop (didn't bet)
+Seat 5: harmony21 (small blind) collected ($0.08)
+Seat 6: plavo polje (big blind) folded on the Turn
+
+
+
+PokerStars Hand #145257348291:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:13:35 ET
+Table 'Tethys II' 6-max Seat #5 is the button
+Seat 1: EVREY7470 ($0.27 in chips) 
+Seat 2: jscialab ($4.35 in chips) 
+Seat 3: TsidenovP ($0.62 in chips) 
+Seat 4: -Cr@zyChips- ($3.77 in chips) 
+Seat 5: harmony21 ($2.63 in chips) 
+Seat 6: plavo polje ($1.89 in chips) 
+plavo polje: posts small blind $0.01
+EVREY7470: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Qs Ks]
+jscialab: folds 
+TsidenovP: calls $0.02
+-Cr@zyChips-: raises $0.06 to $0.08
+harmony21: folds 
+plavo polje: folds 
+EVREY7470: folds 
+TsidenovP: folds 
+Uncalled bet ($0.06) returned to -Cr@zyChips-
+-Cr@zyChips- collected $0.07 from pot
+-Cr@zyChips-: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: EVREY7470 (big blind) folded before Flop
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP folded before Flop
+Seat 4: -Cr@zyChips- collected ($0.07)
+Seat 5: harmony21 (button) folded before Flop (didn't bet)
+Seat 6: plavo polje (small blind) folded before Flop
+
+
+
+PokerStars Hand #145257357151:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:13:54 ET
+Table 'Tethys II' 6-max Seat #6 is the button
+Seat 1: EVREY7470 ($0.25 in chips) 
+Seat 2: jscialab ($4.35 in chips) 
+Seat 3: TsidenovP ($0.60 in chips) 
+Seat 4: -Cr@zyChips- ($3.82 in chips) 
+Seat 5: harmony21 ($2.63 in chips) 
+Seat 6: plavo polje ($1.88 in chips) 
+EVREY7470: posts small blind $0.01
+jscialab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [8c Jh]
+TsidenovP: calls $0.02
+-Cr@zyChips-: folds 
+harmony21: folds 
+plavo polje: folds 
+EVREY7470: calls $0.01
+jscialab: checks 
+*** FLOP *** [Tc Ad Ah]
+EVREY7470: bets $0.02
+jscialab: folds 
+TsidenovP: calls $0.02
+*** TURN *** [Tc Ad Ah] [Td]
+EVREY7470: bets $0.02
+TsidenovP: folds 
+Uncalled bet ($0.02) returned to EVREY7470
+EVREY7470 collected $0.10 from pot
+EVREY7470: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Board [Tc Ad Ah Td]
+Seat 1: EVREY7470 (small blind) collected ($0.10)
+Seat 2: jscialab (big blind) folded on the Flop
+Seat 3: TsidenovP folded on the Turn
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145257387053:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:14:59 ET
+Table 'Tethys II' 6-max Seat #1 is the button
+Seat 1: EVREY7470 ($0.31 in chips) 
+Seat 2: jscialab ($4.33 in chips) 
+Seat 3: TsidenovP ($0.56 in chips) 
+Seat 4: -Cr@zyChips- ($3.82 in chips) 
+Seat 5: harmony21 ($2.63 in chips) 
+Seat 6: plavo polje ($1.88 in chips) 
+jscialab: posts small blind $0.01
+TsidenovP: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [As 3s]
+-Cr@zyChips-: raises $0.04 to $0.06
+harmony21: folds 
+plavo polje: folds 
+EVREY7470: folds 
+jscialab: calls $0.05
+TsidenovP: folds 
+*** FLOP *** [9c 8d Jh]
+jscialab: bets $0.07
+-Cr@zyChips-: folds 
+Uncalled bet ($0.07) returned to jscialab
+jscialab collected $0.14 from pot
+jscialab: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.14 | Rake $0 
+Board [9c 8d Jh]
+Seat 1: EVREY7470 (button) folded before Flop (didn't bet)
+Seat 2: jscialab (small blind) collected ($0.14)
+Seat 3: TsidenovP (big blind) folded before Flop
+Seat 4: -Cr@zyChips- folded on the Flop
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145257407918:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:15:43 ET
+Table 'Tethys II' 6-max Seat #2 is the button
+Seat 1: EVREY7470 ($0.31 in chips) 
+Seat 2: jscialab ($4.41 in chips) 
+Seat 3: TsidenovP ($0.54 in chips) 
+Seat 4: -Cr@zyChips- ($3.76 in chips) 
+Seat 5: harmony21 ($2.63 in chips) 
+Seat 6: plavo polje ($1.88 in chips) 
+TsidenovP: posts small blind $0.01
+-Cr@zyChips-: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Kc Ks]
+harmony21: folds 
+plavo polje has timed out
+plavo polje: folds 
+EVREY7470: folds 
+jscialab: raises $0.04 to $0.06
+TsidenovP: calls $0.05
+-Cr@zyChips-: raises $3.70 to $3.76 and is all-in
+jscialab: folds 
+TsidenovP: folds 
+Uncalled bet ($3.70) returned to -Cr@zyChips-
+-Cr@zyChips- collected $0.18 from pot
+-Cr@zyChips-: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0 
+Seat 1: EVREY7470 folded before Flop (didn't bet)
+Seat 2: jscialab (button) folded before Flop
+Seat 3: TsidenovP (small blind) folded before Flop
+Seat 4: -Cr@zyChips- (big blind) collected ($0.18)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145257427513:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:16:26 ET
+Table 'Tethys II' 6-max Seat #3 is the button
+Seat 1: EVREY7470 ($0.31 in chips) 
+Seat 2: jscialab ($4.35 in chips) 
+Seat 3: TsidenovP ($0.48 in chips) 
+Seat 4: -Cr@zyChips- ($3.88 in chips) 
+Seat 5: harmony21 ($2.63 in chips) 
+Seat 6: plavo polje ($1.88 in chips) 
+-Cr@zyChips-: posts small blind $0.01
+harmony21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [4s Jc]
+plavo polje: calls $0.02
+EVREY7470: folds 
+jscialab: folds 
+TsidenovP: calls $0.02
+-Cr@zyChips-: folds 
+harmony21: checks 
+*** FLOP *** [3s 2c Qs]
+harmony21: checks 
+plavo polje: bets $0.02
+TsidenovP: calls $0.02
+harmony21: folds 
+*** TURN *** [3s 2c Qs] [Qc]
+plavo polje: checks 
+TsidenovP: bets $0.06
+plavo polje: calls $0.06
+*** RIVER *** [3s 2c Qs Qc] [6c]
+plavo polje: checks 
+TsidenovP: checks 
+*** SHOW DOWN ***
+plavo polje: shows [9c 9h] (two pair, Queens and Nines)
+TsidenovP: mucks hand 
+plavo polje collected $0.22 from pot
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01 
+Board [3s 2c Qs Qc 6c]
+Seat 1: EVREY7470 folded before Flop (didn't bet)
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP (button) mucked [Kh 3d]
+Seat 4: -Cr@zyChips- (small blind) folded before Flop
+Seat 5: harmony21 (big blind) folded on the Flop
+Seat 6: plavo polje showed [9c 9h] and won ($0.22) with two pair, Queens and Nines
+
+
+
+PokerStars Hand #145257445638:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:17:05 ET
+Table 'Tethys II' 6-max Seat #4 is the button
+Seat 1: EVREY7470 ($0.31 in chips) 
+Seat 2: jscialab ($4.35 in chips) 
+Seat 3: TsidenovP ($0.38 in chips) 
+Seat 4: -Cr@zyChips- ($3.87 in chips) 
+Seat 5: harmony21 ($2.61 in chips) 
+Seat 6: plavo polje ($2 in chips) 
+harmony21: posts small blind $0.01
+plavo polje: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [2h Qd]
+EVREY7470: folds 
+jscialab: folds 
+TsidenovP: folds 
+-Cr@zyChips-: folds 
+harmony21: folds 
+Uncalled bet ($0.01) returned to plavo polje
+plavo polje collected $0.02 from pot
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 1: EVREY7470 folded before Flop (didn't bet)
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- (button) folded before Flop (didn't bet)
+Seat 5: harmony21 (small blind) folded before Flop
+Seat 6: plavo polje (big blind) collected ($0.02)
+
+
+
+PokerStars Hand #145257451184:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:17:17 ET
+Table 'Tethys II' 6-max Seat #5 is the button
+Seat 1: EVREY7470 ($0.31 in chips) 
+Seat 2: jscialab ($4.35 in chips) 
+Seat 3: TsidenovP ($0.38 in chips) 
+Seat 4: -Cr@zyChips- ($3.87 in chips) 
+Seat 5: harmony21 ($2.60 in chips) 
+Seat 6: plavo polje ($2.01 in chips) 
+plavo polje: posts small blind $0.01
+EVREY7470: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Jd Ks]
+jscialab: folds 
+TsidenovP: calls $0.02
+-Cr@zyChips-: raises $0.04 to $0.06
+harmony21: folds 
+plavo polje: folds 
+EVREY7470: calls $0.04
+TsidenovP: calls $0.04
+*** FLOP *** [8s 6d 4c]
+EVREY7470: bets $0.02
+TsidenovP: calls $0.02
+-Cr@zyChips-: calls $0.02
+*** TURN *** [8s 6d 4c] [Jh]
+EVREY7470: checks 
+TsidenovP: checks 
+-Cr@zyChips-: bets $0.16
+EVREY7470: folds 
+TsidenovP: folds 
+Uncalled bet ($0.16) returned to -Cr@zyChips-
+-Cr@zyChips- collected $0.24 from pot
+-Cr@zyChips-: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8s 6d 4c Jh]
+Seat 1: EVREY7470 (big blind) folded on the Turn
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP folded on the Turn
+Seat 4: -Cr@zyChips- collected ($0.24)
+Seat 5: harmony21 (button) folded before Flop (didn't bet)
+Seat 6: plavo polje (small blind) folded before Flop
+
+
+
+PokerStars Hand #145257474676:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:18:07 ET
+Table 'Tethys II' 6-max Seat #6 is the button
+Seat 1: EVREY7470 ($0.23 in chips) 
+Seat 2: jscialab ($4.35 in chips) 
+Seat 3: TsidenovP ($0.30 in chips) 
+Seat 4: -Cr@zyChips- ($4.03 in chips) 
+Seat 5: harmony21 ($2.60 in chips) 
+Seat 6: plavo polje ($2 in chips) 
+EVREY7470: posts small blind $0.01
+jscialab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Jd Ac]
+TsidenovP: calls $0.02
+-Cr@zyChips-: raises $0.06 to $0.08
+harmony21: folds 
+plavo polje: folds 
+EVREY7470: folds 
+jscialab: folds 
+TsidenovP: folds 
+Uncalled bet ($0.06) returned to -Cr@zyChips-
+-Cr@zyChips- collected $0.07 from pot
+-Cr@zyChips-: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.07 | Rake $0 
+Seat 1: EVREY7470 (small blind) folded before Flop
+Seat 2: jscialab (big blind) folded before Flop
+Seat 3: TsidenovP folded before Flop
+Seat 4: -Cr@zyChips- collected ($0.07)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145257495050:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:18:51 ET
+Table 'Tethys II' 6-max Seat #1 is the button
+Seat 1: EVREY7470 ($0.22 in chips) 
+Seat 2: jscialab ($4.33 in chips) 
+Seat 3: TsidenovP ($0.28 in chips) 
+Seat 4: -Cr@zyChips- ($4.08 in chips) 
+Seat 5: harmony21 ($2.60 in chips) 
+Seat 6: plavo polje ($2 in chips) 
+jscialab: posts small blind $0.01
+TsidenovP: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Td 4h]
+-Cr@zyChips-: folds 
+harmony21: folds 
+plavo polje: calls $0.02
+EVREY7470: folds 
+jscialab: folds 
+TsidenovP: checks 
+*** FLOP *** [Tc 4c Jd]
+TsidenovP: checks 
+plavo polje: checks 
+*** TURN *** [Tc 4c Jd] [3c]
+TsidenovP: checks 
+plavo polje: checks 
+*** RIVER *** [Tc 4c Jd 3c] [2c]
+TsidenovP: checks 
+plavo polje: checks 
+*** SHOW DOWN ***
+TsidenovP: shows [8d Js] (a pair of Jacks)
+plavo polje: mucks hand 
+TsidenovP collected $0.05 from pot
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Board [Tc 4c Jd 3c 2c]
+Seat 1: EVREY7470 (button) folded before Flop (didn't bet)
+Seat 2: jscialab (small blind) folded before Flop
+Seat 3: TsidenovP (big blind) showed [8d Js] and won ($0.05) with a pair of Jacks
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje mucked [Qh 5h]
+
+
+
+PokerStars Hand #145257519395:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:19:44 ET
+Table 'Tethys II' 6-max Seat #2 is the button
+Seat 1: EVREY7470 ($0.22 in chips) 
+Seat 2: jscialab ($4.32 in chips) 
+Seat 3: TsidenovP ($0.31 in chips) 
+Seat 4: -Cr@zyChips- ($4.08 in chips) 
+Seat 5: harmony21 ($2.60 in chips) 
+Seat 6: plavo polje ($1.98 in chips) 
+TsidenovP: posts small blind $0.01
+-Cr@zyChips-: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [As 2h]
+harmony21: folds 
+plavo polje: folds 
+EVREY7470: calls $0.02
+jscialab: folds 
+TsidenovP: calls $0.01
+-Cr@zyChips-: checks 
+*** FLOP *** [7c Th 3d]
+TsidenovP: checks 
+-Cr@zyChips-: checks 
+EVREY7470: checks 
+*** TURN *** [7c Th 3d] [6d]
+TsidenovP: checks 
+-Cr@zyChips-: checks 
+EVREY7470: checks 
+*** RIVER *** [7c Th 3d 6d] [Kh]
+TsidenovP: checks 
+-Cr@zyChips-: checks 
+EVREY7470: checks 
+*** SHOW DOWN ***
+TsidenovP: shows [Kc Tc] (two pair, Kings and Tens)
+-Cr@zyChips-: mucks hand 
+EVREY7470: mucks hand 
+TsidenovP collected $0.06 from pot
+*** SUMMARY ***
+Total pot $0.06 | Rake $0 
+Board [7c Th 3d 6d Kh]
+Seat 1: EVREY7470 mucked [4d Ac]
+Seat 2: jscialab (button) folded before Flop (didn't bet)
+Seat 3: TsidenovP (small blind) showed [Kc Tc] and won ($0.06) with two pair, Kings and Tens
+Seat 4: -Cr@zyChips- (big blind) mucked [As 2h]
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145257540722:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:20:30 ET
+Table 'Tethys II' 6-max Seat #3 is the button
+Seat 1: EVREY7470 ($0.20 in chips) 
+Seat 2: jscialab ($4.32 in chips) 
+Seat 3: TsidenovP ($0.35 in chips) 
+Seat 4: -Cr@zyChips- ($4.06 in chips) 
+Seat 5: harmony21 ($2.60 in chips) 
+Seat 6: plavo polje ($1.98 in chips) 
+-Cr@zyChips-: posts small blind $0.01
+harmony21: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [3s 4s]
+plavo polje: folds 
+plavo polje leaves the table
+EVREY7470: folds 
+PAWELzMEXICO joins the table at seat #6 
+jscialab: raises $0.04 to $0.06
+TsidenovP: calls $0.06
+-Cr@zyChips-: folds 
+harmony21: folds 
+*** FLOP *** [Kd 6d Td]
+jscialab: bets $0.07
+TsidenovP: calls $0.07
+*** TURN *** [Kd 6d Td] [6c]
+jscialab: checks 
+TsidenovP: checks 
+*** RIVER *** [Kd 6d Td 6c] [Qs]
+jscialab: checks 
+TsidenovP: checks 
+*** SHOW DOWN ***
+jscialab: shows [Ac 7h] (a pair of Sixes)
+TsidenovP: shows [8d 8c] (two pair, Eights and Sixes)
+TsidenovP collected $0.28 from pot
+*** SUMMARY ***
+Total pot $0.29 | Rake $0.01 
+Board [Kd 6d Td 6c Qs]
+Seat 1: EVREY7470 folded before Flop (didn't bet)
+Seat 2: jscialab showed [Ac 7h] and lost with a pair of Sixes
+Seat 3: TsidenovP (button) showed [8d 8c] and won ($0.28) with two pair, Eights and Sixes
+Seat 4: -Cr@zyChips- (small blind) folded before Flop
+Seat 5: harmony21 (big blind) folded before Flop
+Seat 6: plavo polje folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145257574292:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:21:44 ET
+Table 'Tethys II' 6-max Seat #4 is the button
+Seat 1: EVREY7470 ($0.20 in chips) 
+Seat 2: jscialab ($4.19 in chips) 
+Seat 3: TsidenovP ($0.50 in chips) 
+Seat 4: -Cr@zyChips- ($4.05 in chips) 
+Seat 5: harmony21 ($2.58 in chips) 
+Seat 6: PAWELzMEXICO ($2 in chips) 
+harmony21: posts small blind $0.01
+PAWELzMEXICO: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Kd Ts]
+EVREY7470: folds 
+jscialab: folds 
+TsidenovP: folds 
+-Cr@zyChips-: raises $0.04 to $0.06
+harmony21: folds 
+PAWELzMEXICO: folds 
+Uncalled bet ($0.04) returned to -Cr@zyChips-
+-Cr@zyChips- collected $0.05 from pot
+-Cr@zyChips-: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: EVREY7470 folded before Flop (didn't bet)
+Seat 2: jscialab folded before Flop (didn't bet)
+Seat 3: TsidenovP folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- (button) collected ($0.05)
+Seat 5: harmony21 (small blind) folded before Flop
+Seat 6: PAWELzMEXICO (big blind) folded before Flop
+
+
+
+PokerStars Hand #145257584989:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:22:08 ET
+Table 'Tethys II' 6-max Seat #5 is the button
+Seat 1: EVREY7470 ($0.20 in chips) 
+Seat 2: jscialab ($4.19 in chips) 
+Seat 3: TsidenovP ($0.50 in chips) 
+Seat 4: -Cr@zyChips- ($4.08 in chips) 
+Seat 5: harmony21 ($2.57 in chips) 
+Seat 6: PAWELzMEXICO ($2 in chips) 
+PAWELzMEXICO: posts small blind $0.01
+EVREY7470: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Qs 5c]
+jscialab: raises $0.04 to $0.06
+TsidenovP: folds 
+-Cr@zyChips-: folds 
+harmony21: folds 
+PAWELzMEXICO: folds 
+EVREY7470: raises $0.14 to $0.20 and is all-in
+jscialab: calls $0.14
+*** FLOP *** [2s Ts 6s]
+*** TURN *** [2s Ts 6s] [Kd]
+*** RIVER *** [2s Ts 6s Kd] [Jh]
+*** SHOW DOWN ***
+EVREY7470: shows [9h Ks] (a pair of Kings)
+jscialab: shows [8h 8c] (a pair of Eights)
+EVREY7470 collected $0.40 from pot
+*** SUMMARY ***
+Total pot $0.41 | Rake $0.01 
+Board [2s Ts 6s Kd Jh]
+Seat 1: EVREY7470 (big blind) showed [9h Ks] and won ($0.40) with a pair of Kings
+Seat 2: jscialab showed [8h 8c] and lost with a pair of Eights
+Seat 3: TsidenovP folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 (button) folded before Flop (didn't bet)
+Seat 6: PAWELzMEXICO (small blind) folded before Flop
+
+
+
+PokerStars Hand #145257613101:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:23:10 ET
+Table 'Tethys II' 6-max Seat #6 is the button
+Seat 1: EVREY7470 ($0.40 in chips) 
+Seat 2: jscialab ($3.99 in chips) 
+Seat 3: TsidenovP ($0.50 in chips) 
+Seat 4: -Cr@zyChips- ($4.08 in chips) 
+Seat 5: harmony21 ($2.57 in chips) 
+Seat 6: PAWELzMEXICO ($2 in chips) 
+EVREY7470: posts small blind $0.01
+jscialab: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [Ah Qd]
+TsidenovP: folds 
+-Cr@zyChips-: raises $0.04 to $0.06
+harmony21: folds 
+PAWELzMEXICO: folds 
+EVREY7470: calls $0.05
+jscialab: calls $0.04
+*** FLOP *** [8h 3d 7s]
+EVREY7470: checks 
+jscialab: checks 
+-Cr@zyChips-: bets $0.12
+EVREY7470: folds 
+jscialab: folds 
+Uncalled bet ($0.12) returned to -Cr@zyChips-
+-Cr@zyChips- collected $0.17 from pot
+-Cr@zyChips-: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.18 | Rake $0.01 
+Board [8h 3d 7s]
+Seat 1: EVREY7470 (small blind) folded on the Flop
+Seat 2: jscialab (big blind) folded on the Flop
+Seat 3: TsidenovP folded before Flop (didn't bet)
+Seat 4: -Cr@zyChips- collected ($0.17)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: PAWELzMEXICO (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #145257634037:  Hold'em No Limit ($0.01/$0.02 USD) - 2015/12/12 21:23:56 ET
+Table 'Tethys II' 6-max Seat #1 is the button
+Seat 1: EVREY7470 ($0.34 in chips) 
+Seat 2: jscialab ($3.93 in chips) 
+Seat 3: TsidenovP ($0.50 in chips) 
+Seat 4: -Cr@zyChips- ($4.19 in chips) 
+Seat 5: harmony21 ($2.57 in chips) 
+Seat 6: PAWELzMEXICO ($2 in chips) 
+jscialab: posts small blind $0.01
+TsidenovP: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to -Cr@zyChips- [3h 6d]
+-Cr@zyChips-: folds 
+harmony21: folds 
+PAWELzMEXICO: raises $0.03 to $0.05
+EVREY7470: folds 
+jscialab: folds 
+TsidenovP: folds 
+Uncalled bet ($0.03) returned to PAWELzMEXICO
+PAWELzMEXICO collected $0.05 from pot
+PAWELzMEXICO: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.05 | Rake $0 
+Seat 1: EVREY7470 (button) folded before Flop (didn't bet)
+Seat 2: jscialab (small blind) folded before Flop
+Seat 3: TsidenovP (big blind) folded before Flop
+Seat 4: -Cr@zyChips- folded before Flop (didn't bet)
+Seat 5: harmony21 folded before Flop (didn't bet)
+Seat 6: PAWELzMEXICO collected ($0.05)
+
+
+
