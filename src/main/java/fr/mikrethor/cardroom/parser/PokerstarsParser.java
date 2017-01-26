@@ -110,7 +110,7 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 			if (LOGGER.isDebugEnabled()) {
 				LOGGER.debug("button seat {} in hand {}", buttonSeat, hand.getLabel());
-				LOGGER.debug("nombreJoueur {}, numerotable {}", nombreJoueur, numeroTable);
+				LOGGER.debug("number players {}, table number {}", nombreJoueur, numeroTable);
 			}
 
 			hand.setNbPlayersOnOneTable(Integer.parseInt(nombreJoueur));
@@ -203,13 +203,13 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 					final int crochetouvrant = nextL.lastIndexOf(OPENNING_SQUARE_BRACKET);
 
-					final String joueur = nextL.substring("Dealt to ".length(), crochetouvrant - 1);
+					final String player = nextL.substring("Dealt to ".length(), crochetouvrant - 1);
 
 					final Card[] cartes = parseCards(nextL);
-					hand.getMapPlayerCards().put(joueur, cartes);
-					hand.setPlayer(hand.getPlayersByName().get(joueur));
+					hand.getMapPlayerCards().put(player, cartes);
+					hand.setPlayer(hand.getPlayersByName().get(player));
 					if (LOGGER.isDebugEnabled()) {
-						LOGGER.debug("player : {}, cards {}", joueur, this.parseCards(nextL));
+						LOGGER.debug("player : {}, cards {}", player, this.parseCards(nextL));
 					}
 					nextL = nextLine(input);
 				}
@@ -347,7 +347,7 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 						hand.getMapPlayerCards().put(player.getName(), player.getCards());
 					}
 					if (LOGGER.isDebugEnabled()) {
-						LOGGER.debug("Seat et crochet {}", nextLine);
+						LOGGER.debug("Seat and bracket {}", nextLine);
 					}
 
 				}
@@ -369,45 +369,45 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 		}
 		final String[] tab = chaine.split(SPACE);
 		String action = "";
-		String joueur = "";
-		String entre = "";
-		String montant = "0";
-		Card[] main = null;
+		String player = "";
+		String between = "";
+		String amount = "0";
+		Card[] hand = null;
 
 		for (int i = 0; i < tab.length; i++) {
 			if (EAction.FOLDS.getValue().equals(tab[i]) || EAction.CALLS.getValue().equals(tab[i])
 					|| EAction.RAISES.getValue().equals(tab[i]) || EAction.CHECKS.getValue().equals(tab[i])
 					|| EAction.COLLECTED.getValue().equals(tab[i]) || EAction.BETS.getValue().equals(tab[i])
 					|| EAction.SHOWS.getValue().equals(tab[i]) || "has".equals(tab[i])) {
-				joueur = "";
+				player = "";
 
 				action = tab[i];
 
 				if (EAction.CALLS.getValue().equals(tab[i]) || EAction.RAISES.getValue().equals(tab[i])
 						|| EAction.COLLECTED.getValue().equals(tab[i]) || EAction.BETS.getValue().equals(tab[i])) {
-					montant = tab[i + 1];
-					montant = montant.replace(money.getSymbol(), EMPTY);
+					amount = tab[i + 1];
+					amount = amount.replace(money.getSymbol(), EMPTY);
 				}
 
 				for (int j = 0; j < i; j++) {
 					if (j == 0) {
-						entre = "";
+						between = "";
 					} else {
-						entre = SPACE;
+						between = SPACE;
 					}
-					joueur = joueur + entre + tab[j];
+					player = player + between + tab[j];
 
 				}
 				if (EAction.SHOWS.getValue().equals(tab[i])) {
-					main = parseCards(chaine);
+					hand = parseCards(chaine);
 				}
 
 			}
 		}
-		joueur = joueur.replace(COLON, EMPTY);
+		player = player.replace(COLON, EMPTY);
 
 		if (LOGGER.isDebugEnabled()) {
-			LOGGER.debug("joueur {},action {}", joueur, action);
+			LOGGER.debug("player {},action {}", player, action);
 		}
 
 		if ("has".equals(action) || "".equals(action)) {
@@ -416,12 +416,12 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 			if (LOGGER.isDebugEnabled()) {
 				LOGGER.debug("actionread : {}", action);
 			}
-			if (players.get(joueur) == null) {
+			if (players.get(player) == null) {
 				LOGGER.debug(chaine);
 			}
 
-			return new Action(players.get(joueur), EAction.valueOf(action.toUpperCase()), Double.parseDouble(montant),
-					main);
+			return new Action(players.get(player), EAction.valueOf(action.toUpperCase()), Double.parseDouble(amount),
+					hand);
 		}
 	}
 
@@ -656,8 +656,6 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 			return new Date();
 		}
 	}
-	
-
 
 	@Override
 	public Currency parseCurrency(String chaine) {
@@ -699,15 +697,15 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 		}
 
 		if (LOGGER.isDebugEnabled()) {
-			LOGGER.debug("L'encodage utilise pour lire le fichier est {}.", ENCODING);
-			LOGGER.debug("La devise utilisee est le {}.", money.name());
+			LOGGER.debug("The encoding used to read this file is {}.", ENCODING);
+			LOGGER.debug("The currency used : {}.", money.name());
 		}
 		String nextLine = null;
 
 		boolean test = true;
 
 		if (LOGGER.isDebugEnabled()) {
-			LOGGER.debug("Demarrage du parsing ligne a ligne.");
+			LOGGER.debug("Starting parsing line by line.");
 		}
 
 		final Map<String, StringBuffer> mapHandsText = new HashMap<String, StringBuffer>();
@@ -722,7 +720,7 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 			}
 			if (nextLine.startsWith(UTF8_BOM)) {
 				if (LOGGER.isDebugEnabled()) {
-					LOGGER.debug("Le caractere {} a ete trouve et ignore.", UTF8_BOM);
+					LOGGER.debug("This character {} has been found and ignored.", UTF8_BOM);
 				}
 				nextLine = nextLine.substring(1);
 			}
@@ -760,8 +758,8 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 		final Hand hand = new Hand();
 
 		if (LOGGER.isDebugEnabled()) {
-			LOGGER.debug("L'encodage utilise pour lire le fichier est {}.", ENCODING);
-			LOGGER.debug("La devise utilisee est le {}.", money.name());
+			LOGGER.debug("The encoding used to read this file is {}.", ENCODING);
+			LOGGER.debug("The currency used : {}.", money.name());
 		}
 		String nextLine = input.nextLine();
 		// Demarrage de la lecture d'une main
@@ -778,10 +776,9 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 		// Renommer cette methode
 		nextLine = parseDealer(nextLine, input, HOLE_CARDS, new String[] { FLOP, SUMMARY }, hand);
-		LOGGER.debug("nextLine av  parsePreflop debug {}", nextLine);
 		// Lecture des actions du coup
 		nextLine = parsePreflop(nextLine, input, hand);
-		LOGGER.debug("nextLine  parsePreflop debug {}", nextLine);
+
 		nextLine = parseFlop(nextLine, input, hand);
 
 		nextLine = parseTurn(nextLine, input, hand);
