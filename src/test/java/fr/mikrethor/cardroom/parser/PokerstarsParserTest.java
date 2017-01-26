@@ -31,7 +31,7 @@ public class PokerstarsParserTest {
 	@Test
 	public void parsingSNGFile() {
 		final String fileName = "./target/test-classes/HH20130828 T780452500 Hold'em No Limit 0,89 € + 0,11 €.txt";
-		LOGGER.info("Demarrage du parsing pokerstars avec le fichier : {}", fileName);
+		LOGGER.info("Starting pokerstars parsing : {}", fileName);
 		final File file = new File(fileName);
 		final PokerstarsParser siteParsing = new PokerstarsParser(file);
 		siteParsing.setCardroom(new Cardroom("Pokerstars", Domain.COM));
