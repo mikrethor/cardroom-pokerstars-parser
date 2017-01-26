@@ -55,7 +55,7 @@ public class PokerstarsParserCashGame extends PokerstarsParser implements ICardr
 		return 0d;
 	}
 
-	// Le cas play money n'est pas gere
+	// play money not handle
 	@Override
 	public Double parseSmallBlind(String chaine) {
 		final int startPosition = chaine.indexOf(money.getSymbol()) + 1;
