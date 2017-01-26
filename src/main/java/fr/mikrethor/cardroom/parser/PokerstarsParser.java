@@ -292,8 +292,9 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 	@Override
 	public Integer parseButtonSeat(String chaine) {
-		// TODO Auto-generated method stub
-		return null;
+		final int startPosition = chaine.indexOf(HASHTAG) + 1;
+		final int endPosition = chaine.indexOf("is the button") - 1;
+		return Integer.parseInt(chaine.substring(startPosition, endPosition));
 	}
 
 	@Override
