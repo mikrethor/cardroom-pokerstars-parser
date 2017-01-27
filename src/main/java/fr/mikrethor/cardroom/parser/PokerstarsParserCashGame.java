@@ -2,24 +2,13 @@ package fr.mikrethor.cardroom.parser;
 
 import java.io.File;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
 /**
- * Parsing Winamax mano. Fonctionne mais dur emaintenir. Piste regex en cours
- * d'etude.
- * 
- * D:\Profiles\Thor\Documents\Winamax Poker\accounts\Mikrethor\history
+ * Cashgame pokerstars parser.
  * 
  * @author Thor
  * 
  */
 public class PokerstarsParserCashGame extends PokerstarsParser implements ICardroomParser {
-
-	/**
-	 * LOGGER.
-	 */
-	private static final Logger LOGGER = LoggerFactory.getLogger(PokerstarsParserCashGame.class);
 
 	public PokerstarsParserCashGame(File fileToParse) {
 		super(fileToParse);
