@@ -1,7 +1,7 @@
 package fr.mikrethor.cardroom.parser;
 
-import java.io.File;
-import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.nio.file.Path;
 import java.text.ParseException;
 import java.util.Date;
 import java.util.HashMap;
@@ -86,10 +86,10 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 		return nextL;
 	}
 
-	protected PokerstarsParser(File fileToParse) {
+	protected PokerstarsParser(Path fileToParse) {
 		super(fileToParse);
 		if (LOGGER.isDebugEnabled() && fileToParse != null) {
-			LOGGER.debug("{} : {}", this.getClass().getName(), fileToParse.getName());
+			LOGGER.debug("{} : {}", this.getClass().getName(), fileToParse.getFileName());
 		}
 	}
 
@@ -691,7 +691,7 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 		Scanner input;
 		try {
 			input = new Scanner(this.getFileToParse(), ENCODING);
-		} catch (final FileNotFoundException e) {
+		} catch (final IOException e) {
 			LOGGER.error(e.getMessage(), e);
 			return null;
 		}

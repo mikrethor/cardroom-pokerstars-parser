@@ -3,7 +3,9 @@ package fr.mikrethor.cardroom.parser;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertNull;
 
-import java.io.File;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.List;
 import java.util.Map;
 
@@ -42,14 +44,14 @@ public class PokerstarsParserCashGameTest {
 	 */
 	private Map<String, Hand> genericTest(final String fileName, final int nbPlayer, final int nbHands) {
 		LOGGER.info("Demarrage du parsing pokerstars avec le fichier : {}", fileName);
-		final File file = new File(fileName);
+		final Path file = Paths.get(fileName);
 		final PokerstarsParser siteParsing = new PokerstarsParserCashGame(file);
 		siteParsing.setCurrency(Currency.USD);
 		siteParsing.setCardroom(new Cardroom("Pokerstars", Domain.COM));
 		Map<String, Hand> hands = null;
 
-		Assert.assertEquals(true, file.exists());
-		Assert.assertEquals(true, file.isFile());
+		Assert.assertEquals(true, Files.exists(file));
+		Assert.assertEquals(true, Files.isRegularFile(file));
 		// Parsing
 		final long debut = System.currentTimeMillis();
 		hands = siteParsing.parse();

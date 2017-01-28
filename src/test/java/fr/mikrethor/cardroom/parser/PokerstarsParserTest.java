@@ -1,6 +1,8 @@
 package fr.mikrethor.cardroom.parser;
 
-import java.io.File;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
@@ -32,13 +34,13 @@ public class PokerstarsParserTest {
 	public void parsingSNGFile() {
 		final String fileName = "./target/test-classes/HH20130828 T780452500 Hold'em No Limit 0,89 € + 0,11 €.txt";
 		LOGGER.info("Starting pokerstars parsing : {}", fileName);
-		final File file = new File(fileName);
+		final Path file = Paths.get(fileName);
 		final PokerstarsParser siteParsing = new PokerstarsParser(file);
 		siteParsing.setCardroom(new Cardroom("Pokerstars", Domain.COM));
 		Map<String, Hand> hands = null;
 
-		Assert.assertEquals(true, file.exists());
-		Assert.assertEquals(true, file.isFile());
+		Assert.assertEquals(true, Files.exists(file));
+		Assert.assertEquals(true, Files.isRegularFile(file));
 		// Parsing
 		final long debut = System.currentTimeMillis();
 
@@ -588,9 +590,9 @@ public class PokerstarsParserTest {
 	@Test
 	public void testFileToMap() {
 		LOGGER.info("--- testFileToMap() ---");
-		final File fichier = new File(
-				"./target/test-classes/HH20130828 T780452500 Hold'em No Limit 0,89 € + 0,11 €.txt");
-		final PokerstarsParser parser = new PokerstarsParser(fichier);
+
+		final Path file = Paths.get("./target/test-classes/HH20130828 T780452500 Hold'em No Limit 0,89 € + 0,11 €.txt");
+		final PokerstarsParser parser = new PokerstarsParser(file);
 		parser.setCardroom(new Cardroom("Pokerstars", Domain.COM));
 		final Map<String, Hand> result = parser.parse();
 

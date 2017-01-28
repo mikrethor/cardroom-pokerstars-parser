@@ -1,6 +1,6 @@
 package fr.mikrethor.cardroom.parser;
 
-import java.io.File;
+import java.nio.file.Path;
 
 /**
  * Cashgame pokerstars parser.
@@ -10,7 +10,7 @@ import java.io.File;
  */
 public class PokerstarsParserCashGame extends PokerstarsParser implements ICardroomParser {
 
-	public PokerstarsParserCashGame(File fileToParse) {
+	public PokerstarsParserCashGame(Path fileToParse) {
 		super(fileToParse);
 	}
 
@@ -24,7 +24,7 @@ public class PokerstarsParserCashGame extends PokerstarsParser implements ICardr
 
 	@Override
 	public String getTournamentId() {
-		final String fileName = this.getFileToParse().getName();
+		final String fileName = this.getFileToParse().getFileName().toString();
 		final String id = fileName.substring(fileName.indexOf(SPACE) + 1, fileName.indexOf(DASH));
 		return id;
 	}
