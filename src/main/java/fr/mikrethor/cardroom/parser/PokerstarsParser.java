@@ -671,6 +671,7 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 	@Override
 	public Boolean isUselesLine(String line) {
+		//TODO simplify using Actions.useful
 		return (line.endsWith(Actions.WILL_BE_ALLOWED_TO_PLAY_AFTER_THE_BUTTON.getValue())
 				|| line.contains(Actions.POSTS_SMALL_ET_BIG_BLINDS.getValue())
 				|| line.contains(Actions.POSTS_THE_ANTE.getValue()) || line.endsWith(Actions.SITS_OUT.getValue())
