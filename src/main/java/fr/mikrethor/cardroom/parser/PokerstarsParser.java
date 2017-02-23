@@ -3,6 +3,7 @@ package fr.mikrethor.cardroom.parser;
 import java.io.IOException;
 import java.nio.file.Path;
 import java.text.ParseException;
+import java.util.Arrays;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
@@ -435,18 +436,16 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 	public InfoSession parsing() {
 		final InfoSession infoSession = new InfoSession();
 		infoSession.setCardRoom(cardRoom);
-		Hand hand = null;
 		final Map<String, Hand> mapHands = new HashMap<>();
-
 		final Map<String, StringBuffer> mapHandsText = fileToMap();
-		StringBuffer buffer;
-		for (final String key : mapHandsText.keySet()) {
-			buffer = mapHandsText.get(key);
-			hand = textToHandDto(buffer, infoSession);
+
+		mapHandsText.keySet().forEach(key -> {
+
+			Hand hand = textToHandDto(mapHandsText.get(key), infoSession);
 
 			mapHands.put(hand.getLabel(), hand);
+		});
 
-		}
 		infoSession.setHands(mapHands);
 		return infoSession;
 	}
@@ -659,19 +658,14 @@ public class PokerstarsParser extends CardroomFileParser implements ICardroomPar
 
 	@Override
 	public Currency parseCurrency(String chaine) {
-		Currency result = null;
-		for (Currency currency : Currency.values()) {
-			if (chaine.indexOf(currency.getSymbol()) > 0) {
-				result = currency;
-			}
-		}
 		// TODO si currency null error ?;
-		return result;
+		return Arrays.stream(Currency.values()).filter(currency -> chaine.indexOf(currency.getSymbol()) > 0).findFirst()
+				.get();
 	}
 
 	@Override
 	public Boolean isUselesLine(String line) {
-		//TODO simplify using Actions.useful
+		// TODO simplify using Actions.useful
 		return (line.endsWith(Actions.WILL_BE_ALLOWED_TO_PLAY_AFTER_THE_BUTTON.getValue())
 				|| line.contains(Actions.POSTS_SMALL_ET_BIG_BLINDS.getValue())
 				|| line.contains(Actions.POSTS_THE_ANTE.getValue()) || line.endsWith(Actions.SITS_OUT.getValue())

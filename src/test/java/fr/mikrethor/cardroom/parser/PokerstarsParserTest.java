@@ -1,5 +1,6 @@
 package fr.mikrethor.cardroom.parser;
 
+import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -7,6 +8,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 import java.util.Map;
+import java.util.stream.Stream;
 
 import org.junit.Assert;
 import org.junit.Test;
@@ -587,6 +589,7 @@ public class PokerstarsParserTest {
 		Assert.assertEquals(48, calendar.get(Calendar.SECOND));
 	}
 
+	// 0.781s
 	@Test
 	public void testFileToMap() {
 		LOGGER.info("--- testFileToMap() ---");
@@ -613,6 +616,26 @@ public class PokerstarsParserTest {
 
 		nextLine = "PokerStars Hand #146280650631:  Hold'em No Limit ($0.02/$0.05 USD) - 2016/01/01 13:09:23 ET";
 		Assert.assertEquals(Currency.USD, parser.parseCurrency(nextLine));
+
+	}
+
+	@Test
+	public void testStream() throws IOException {
+		final String fileName = "./target/test-classes/HH20130828 T780452500 Hold'em No Limit 0,89 € + 0,11 €.txt";
+
+		Path p = Paths.get(fileName);
+		try (Stream<String> lines = Files.lines(p)) {
+			lines.filter(line -> !"".equals(line));
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+
+		// Stream<String[]> test;
+		// new Scanner(new String(Files.readAllBytes(p),
+		// StandardCharsets.UTF_8)).nextLine();
+		// .mapToObj(e -> (char)
+		// e).parallel().collect(Collectors.toConcurrentMap(w
+		// -> w, w -> 1, Integer::sum));
 
 	}
 }
